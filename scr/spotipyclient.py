@@ -193,7 +193,7 @@ class SpotipyClient:
         anteriores'''
 
         # Autenticar
-        self.client_auth()
+        self.authenticate_spotify()
 
         # Obtener candidatos y compararlos (distancias coseno) con las pistas
         # del playlist original

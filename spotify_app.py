@@ -58,17 +58,17 @@ st.write("⚠️ Please enter your Spotify credentials. Be aware that the client
 st.write("⚠️ Do not use your primary Spotify credentials if possible. Consider using temporary credentials.")
 
 # Input fields for Spotify credentials
-client_id = st.text_input('Client ID', 'Your Client ID')
-client_secret = st.text_input('Client Secret', 'Your Client Secret')
-username = st.text_input('Username', 'Your Spotify Username')
-redirect_uri = st.text_input('Redirect URI', 'http://localhost:8080')
+client_id = st.sidebar.text_input('Client ID', 'Your Client ID')
+client_secret = st.sidebar.text_input('Client Secret', 'Your Client Secret')
+username = st.sidebar.text_input('Username', 'Your Spotify Username')
+redirect_uri = st.sidebar.text_input('Redirect URI', 'http://localhost:8080')
 scope = 'user-top-read playlist-modify-public playlist-modify-private'
 
 if client_id and client_secret and username:
     global spotipy_client
     spotipy_client = SpotipyClient(client_id, client_secret, username, redirect_uri, scope)
 
-    if st.button('Log in to Spotify'):
+    if st.sidebar.button('Log in to Spotify'):
         with st.spinner('Logging in...'):
             try:
                 spotipy_client.authenticate_spotify()
@@ -77,20 +77,23 @@ if client_id and client_secret and username:
                 # Get and display top tracks
                 top_tracks = spotipy_client.get_top_tracks()
                 
-                # Display top tracks' relevant information
+                # Display top tracks' relevant information in a smaller table
                 st.subheader('Top Tracks')
                 display_top_tracks(top_tracks)
                 
             except Exception as e:
                 st.error('An error occurred during authentication')
                 st.error(str(e))
-                
-    if st.button('Generate Recommendations'):
+    
+    if st.sidebar.button('Generate Recommendations'):
         with st.spinner('Generating recommendations...'):
             try:
-                recommended_playlist_id = spotipy_client.create_recommended_playlist()
-                st.success('Recommended playlist created successfully!')
-                st.write(f'Recommended playlist ID: {recommended_playlist_id}')
+                if spotipy_client is not None:
+                    # Call your create_recommended_playlist method here
+                    recommended_playlist_id = spotipy_client.create_recommended_playlist()
+                    st.success('Recommended playlist created successfully!')
+                else:
+                    st.error('Spotify not authenticated. Please log in first.')
             except Exception as e:
                 st.error('An error occurred while generating recommendations.')
                 st.error(str(e))
