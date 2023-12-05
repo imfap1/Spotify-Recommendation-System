@@ -1,0 +1,950 @@
+Track ID,Track Name,Artists,Album Name,Release Date,Explicit,Popularity,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Tempo,Valence,Duration_ms
+1cxMtsUyFbz3zDFuYA7CkT,Intro,"Carmona, Zekie",Plátanos de Sombra,2023-01-26,True,3,0.506,0.631,0.261,0.879,0.148,-6.833,0.0819,180.175,0.228,64708
+2EV4pwh8u2pHUpJB14QLZK,Pies de Laberinto,"Carmona, Zekie",Plátanos de Sombra,2023-01-26,True,5,0.816,0.763,0.632,0.000151,0.099,-5.606,0.106,88.021,0.546,151367
+2imqmtdz35hf8i7p4jQfE7,Sensaciones de Vacío,"Carmona, Zekie",Plátanos de Sombra,2023-01-26,True,28,0.0326,0.522,0.758,0.0,0.0898,-6.711,0.287,81.843,0.407,156872
+2JoOoorERBVPbyvFbuT7Y5,Won't Forget You - Odd Mob Remix,"Jax Jones, D.O.D, Ina Wroldsen, Odd Mob",Won't Forget You (Odd Mob Remix),2023-11-24,False,48,0.00474,0.66,0.952,0.0271,0.291,-5.829,0.0592,140.056,0.695,210625
+0QJNQcOx2RPNJvLjmCzHLd,Soma,Goom Gum,Soma,2023-12-01,False,26,0.014,0.682,0.81,0.756,0.165,-6.082,0.0329,120.011,0.308,239999
+4OkFBMU18NidtaefaTjUq1,Real Spill,Lil Baby,It's Only Me,2022-10-14,True,68,0.0496,0.776,0.557,0.0,0.112,-7.441,0.545,156.978,0.284,198722
+26Hgx0810XUis01XWvoftB,Stand On It,Lil Baby,It's Only Me,2022-10-14,True,64,0.0325,0.728,0.496,0.0,0.0916,-7.298,0.127,86.468,0.214,166889
+0VOMBffX1llDu37yQUt3u3,Pop Out (feat. Nardo Wick),"Lil Baby, Nardo Wick",It's Only Me,2022-10-14,True,66,0.00248,0.474,0.576,0.000309,0.174,-6.963,0.257,157.947,0.285,195197
+2W6pTELagAFoH2V0TF1xdM,Fly,Mimi,Mimi on travel,2010-06-30,False,0,0.903,0.248,0.14,0.669,0.103,-12.572,0.0322,72.535,0.0396,212888
+4AcGivVmhyzOVXZRN2VuYK,Cherish,Mimi,Mimi on travel,2010-06-30,False,0,0.844,0.306,0.322,1.72e-05,0.339,-8.66,0.036,125.28,0.305,282182
+6H7Y8IJSEN3SeoVn7mMHnp,Fascination,Mimi,Mimi on travel,2010-06-30,False,0,0.942,0.519,0.313,0.78,0.11,-12.041,0.163,110.399,0.338,246583
+2GaXjLGGSqEQo9OyFFFHx7,Fuera de Mi,"Polimá Westcoast, Young Cister",EQILIBRIO,2020-06-05,True,28,0.132,0.435,0.753,0.0,0.214,-5.432,0.297,169.601,0.496,207036
+2cqm9cr2qNrHyGTJPIdcXS,Rolling Loud,"Polimá Westcoast, Young Cister",EQILIBRIO,2020-06-05,True,27,0.0169,0.686,0.732,0.0,0.168,-4.985,0.0841,155.038,0.56,155226
+2KEGpwRCWOR3tT1o67nDIt,CNECC,"Polimá Westcoast, Young Cister",EQILIBRIO,2020-06-05,True,26,0.126,0.749,0.806,0.000185,0.0734,-4.528,0.193,155.119,0.578,156063
+4a9kGbaW3klAdEHsx7Q3jQ,Brand New Day,Demi Lovato,Camp Rock 2: The Final Jam,2010-01-01,False,40,0.0154,0.362,0.882,0.0,0.085,-4.259,0.143,190.078,0.427,201147
+7Hjr124CfhS8HYAHJitVO4,Fire,"Matthew ""Mdot"" Finley",Camp Rock 2: The Final Jam,2010-01-01,False,43,0.123,0.71,0.946,0.0,0.203,-4.431,0.078,120.089,0.681,182227
+2E1V6nbjINpLpiMaWMSYZ4,Can't Back Down,"Demi Lovato, Alyson Stoner, Anna Maria Perez de Taglé, Char Ligera",Camp Rock 2: The Final Jam,2010-01-01,False,45,0.0847,0.636,0.839,0.0,0.1,-4.384,0.0961,120.035,0.658,199907
+0XQHz5C8PknyrEhyrKxVKa,Down (feat. Gucci Mane),"Fifth Harmony, Gucci Mane",Fifth Harmony,2017-10-29,False,56,0.0162,0.53,0.512,7.04e-05,0.128,-7.094,0.133,196.121,0.401,165200
+1zjcIIrm2fbVFmG3dsj03e,He Like That,Fifth Harmony,Fifth Harmony,2017-10-29,False,52,0.362,0.592,0.681,0.0,0.142,-5.597,0.141,147.016,0.491,217107
+0qnSB2EChfAdgMFGgesxhM,Sauced Up,Fifth Harmony,Fifth Harmony,2017-10-29,False,38,0.0568,0.777,0.572,0.0,0.114,-4.663,0.0408,100.0,0.326,197787
+78TdaRmo17p8J6BPvA8cGt,01 dE ENEro,"Duki, Lucho SSJ",Antes de Ameri,2023-06-22,False,66,0.0317,0.495,0.521,0.0,0.288,-9.72,0.0766,111.426,0.238,114053
+7CLja1KXFDtegtO0NCewNm,JEFES DEL SUDOESTE,Duki,Antes de Ameri,2023-06-22,True,63,0.0505,0.722,0.54,0.0,0.445,-8.13,0.0725,124.915,0.274,147579
+7vQUmIUpnnOmzmSKDGJAol,RoCKSTAR 2.0,"Duki, Jhayco",Antes de Ameri,2023-06-22,True,68,0.0522,0.545,0.738,0.0,0.283,-7.715,0.0478,84.961,0.3,173730
+2ovAjulxWyIAM6LnrPoEVU,PROTO,"Pan-Pot, Hugh Betcha",FORTE,2023-12-01,False,21,0.000838,0.661,0.822,0.662,0.119,-8.155,0.051,133.998,0.128,432075
+4HmelbaUFEnnLmpSWujbB4,BOND,Pan-Pot,FORTE,2023-12-01,False,20,0.000319,0.704,0.858,0.914,0.163,-7.9,0.0454,125.996,0.0766,379093
+02LjotUSKMkReL05VobJRI,FUTURA,Pan-Pot,FORTE,2023-12-01,False,19,0.0745,0.589,0.795,0.811,0.142,-8.533,0.0321,134.994,0.0552,449406
+3eSOZnjzDHMgGQu9SsmSvM,"hoshii, wake up!","hoshii, Kuba Więcek",hoshii,2023-11-30,False,15,0.195,0.412,0.571,0.814,0.373,-9.088,0.054,90.002,0.0398,231873
+5MZ90kqUrDS0zUgbszQf5G,hawaii,"hoshii, Kuba Więcek",hoshii,2023-11-30,False,14,0.00106,0.663,0.79,0.869,0.431,-6.081,0.0302,98.972,0.476,226000
+2AcrrcVLECdE0sNx2tx1sB,dance of hopes and disappointments,"hoshii, Kuba Więcek",hoshii,2023-11-30,False,14,0.00223,0.625,0.783,0.788,0.123,-9.248,0.0381,126.918,0.155,201375
+2R6bfevr6LdnReayEggKKT,No Pares,Standly,11/11,2022-11-11,True,40,0.0139,0.749,0.634,2.14e-05,0.149,-4.339,0.0647,89.997,0.651,156667
+0dwd3OiNzdFDU5QRyNuKOw,Diabla,Standly,11/11,2022-11-11,True,39,0.12,0.837,0.79,0.000466,0.298,-3.818,0.187,96.99,0.614,145361
+5J6MhWMuRQsZwo9MtLG31T,Perrea,Standly,11/11,2022-11-11,True,45,0.0529,0.835,0.731,1.16e-05,0.0955,-5.245,0.0752,95.011,0.818,136373
+6NNx8nJJOsxxLVWPlh41S5,Mutant Disco,Maceo Plex,Mutant Series,2019-03-29,False,28,0.0345,0.839,0.505,0.835,0.0868,-8.495,0.0692,124.013,0.391,419898
+3pVTSP5nplKHLbOQi4QRsw,Mutant DX,Maceo Plex,Mutant Series,2019-03-29,False,17,0.00136,0.749,0.786,0.842,0.114,-10.114,0.0423,128.009,0.702,340069
+5jtJFKwosksmshRB7amu1g,Mutant Romance,Maceo Plex,Mutant Series,2019-03-29,False,15,0.00232,0.741,0.708,0.796,0.0653,-7.143,0.0465,126.019,0.601,404701
+6hIXNRNOFlnvyqk4XjADrm,Speranza,MRAK,Speranza,2023-11-24,False,41,0.0041,0.525,0.923,0.863,0.109,-6.688,0.0587,123.975,0.0373,311613
+0wPKDeY4fZXT6k9bzV0kx0,That's Hilarious,Charlie Puth,CHARLIE,2022-10-07,True,73,0.739,0.713,0.442,0.0,0.112,-5.909,0.0604,108.038,0.546,144934
+3E9es0SK2EusrHA7IaO7Zu,Charlie Be Quiet!,Charlie Puth,CHARLIE,2022-10-07,False,56,0.205,0.753,0.662,3.66e-06,0.0851,-4.25,0.0702,94.958,0.466,128364
+5Q4lCfjJ1aht8YZOGFbC5U,Light Switch,Charlie Puth,CHARLIE,2022-10-07,False,52,0.105,0.689,0.627,0.000321,0.0905,-5.692,0.308,184.008,0.905,187704
+62qRT4tWMJrHJjnWyKPFQx,Abismo,"Costa, DRED BEY",Salvaje,2023-03-31,True,32,0.782,0.63,0.634,0.0,0.0849,-7.276,0.252,123.919,0.735,181346
+5xgHJoKv2ZAmOyt73ufzba,Dicen Que Soy el Diablo,"Costa, DRED BEY",Salvaje,2023-03-31,True,36,0.69,0.645,0.895,0.114,0.0949,-5.437,0.178,179.893,0.278,175917
+5jLnujbLiLX37n0BygYXre,Suicida,"Costa, DRED BEY",Salvaje,2023-03-31,True,35,0.272,0.78,0.74,0.00272,0.69,-5.289,0.0893,139.933,0.78,156000
+4jb6vGd9I1a2dltMYjsDYB,NO SON TÚ,Soge Culebra,STORM,2023-10-13,False,47,0.431,0.68,0.463,1.42e-05,0.584,-8.871,0.11,123.938,0.473,195484
+0qoHPLriSSpcNTjQWiWVDq,NEBULOSA,Soge Culebra,STORM,2023-10-13,False,45,0.121,0.883,0.566,0.000128,0.11,-7.27,0.072,127.961,0.347,183750
+1GhGiRIGShDjySWEDUtk3A,UNA ÚLTIMA VEZ,"Soge Culebra, Saiko",STORM,2023-10-13,False,55,0.153,0.616,0.719,0.0,0.462,-5.455,0.116,173.875,0.479,180690
+4L5aysnpEXU7YtRU8HQ3GI,Mini Skirt,"WILL K, Shift K3Y",Mini Skirt,2023-11-10,False,44,0.00152,0.821,0.815,0.8,0.283,-3.894,0.0933,127.983,0.875,151875
+1SrfJ6mbvp7BP7hD3DlnMZ,Nos Fuimos,FMK,Desde el Espacio,2022-03-19,False,25,0.0768,0.687,0.611,6.84e-06,0.0687,-4.318,0.109,175.848,0.865,159545
+2DYyTfBW8yCSBJYhOJpzrZ,Princesa,FMK,Desde el Espacio,2022-03-19,False,25,0.156,0.827,0.548,0.0,0.138,-5.282,0.0388,99.963,0.826,176400
+56FLi2j4yUJavMb6ID7s3d,Pal Carajo el Amor,FMK,Desde el Espacio,2022-03-19,False,25,0.174,0.529,0.746,0.0,0.0979,-5.742,0.394,212.3,0.127,196415
+04ndZkbKGthTgYSv3xS7en,Cupido,TINI,Cupido,2023-02-16,False,78,0.521,0.913,0.584,5.36e-05,0.307,-5.263,0.223,119.873,0.627,174370
+0rnZOspoTCAXfvAudOdRng,Te Pido,TINI,Cupido,2023-02-16,False,68,0.207,0.677,0.627,6.82e-06,0.102,-4.097,0.0957,187.933,0.7,174894
+4yPmTUkWmUfLPQLCccp0DR,Muñecas,"TINI, La Joaqui, Steve Aoki",Cupido,2023-02-16,False,70,0.0288,0.688,0.712,0.0,0.313,-4.791,0.0826,89.93,0.852,156319
+1DQ8D4ZhdWxEQDxqfC0gDT,Happy - Intro,Dalmata,HAPPINESS,2022-08-19,False,15,0.665,0.845,0.869,0.0,0.0693,-6.342,0.0504,159.98,0.982,38505
+0qNj4iu83JpaqKSBi2ozdp,Con Mirada y No Bala,Dalmata,HAPPINESS,2022-08-19,False,20,0.0353,0.723,0.883,6.62e-05,0.0915,-3.121,0.0921,88.987,0.948,165465
+3z7WrluAnM4S1EzuFc9ymA,Nuevo Mundo,Dalmata,HAPPINESS,2022-08-19,False,27,0.00522,0.822,0.7,0.00154,0.0736,-6.034,0.149,89.008,0.651,164494
+3199yn5nGLbFLUmCExPMoI,Sweet Dreams,Austin Farwell,Piano Poetry,2023-10-30,False,41,0.977,0.272,0.102,0.905,0.0954,-28.57,0.0429,73.523,0.465,99266
+6rCNqt38YATJWf0flj8iRK,Waltz of the Wind,Austin Farwell,Piano Poetry,2023-10-30,False,41,0.986,0.395,0.0714,0.927,0.117,-27.845,0.0447,71.277,0.162,167167
+7mfEwDyZ5jaBtX5tCJ7uPO,Dancing on Ivory,Austin Farwell,Piano Poetry,2023-10-30,False,39,0.985,0.316,0.0549,0.962,0.0918,-29.281,0.041,82.728,0.319,112679
+7rK0GuQIDNZEzvX9dIW33p,Fulton St.,Frank Leen,Miłość w czasach,2023-12-01,False,24,0.822,0.413,0.284,0.742,0.185,-17.818,0.05,125.008,0.0303,49920
+3yqkdKHD11qU1RAe5PQffz,Most,Frank Leen,Miłość w czasach,2023-12-01,False,26,0.091,0.722,0.782,3.85e-06,0.202,-5.621,0.0501,125.043,0.292,175680
+4kg1ALc7NU6gpU0aoZzzNl,Nie rzucam słów na wiatr,Frank Leen,Miłość w czasach,2023-12-01,False,25,0.051,0.751,0.856,0.00862,0.184,-5.66,0.0764,121.985,0.649,182951
+2t4SJrRZrGOEQlNDabywTw,Luz Prendía - Club Version,"J Alvarez, DJ Unic",El Toque Club Version,2023-11-30,False,24,0.103,0.707,0.875,0.0,0.144,-3.746,0.0606,94.988,0.904,138520
+0DNzQupfod8PPlGDc73kvK,Junto al Amanecer - Club Version,J Alvarez,El Toque Club Version,2023-11-30,False,39,0.0108,0.618,0.83,0.0,0.169,-5.838,0.0693,175.922,0.684,147514
+3o6EdR5YOFsxXtofzyBkux,Nos Conocimos - Club Version,"J Alvarez, DJ Unic",El Toque Club Version,2023-11-30,False,20,0.0626,0.784,0.794,0.0,0.2,-4.454,0.132,93.955,0.712,171868
+5Tx6wEQcWcUy0oTQK2LZaW,Stripped Bare,Alyson Stoner,Stripped Bare,2019-01-25,True,22,0.457,0.662,0.533,0.0,0.12,-5.159,0.067,96.817,0.293,150928
+66xH0ZJHR3GzjXdTWfpuCP,Feels Like (La La La),"Repiet, Julia Kleijn",Feels Like (La La La),2023-11-10,False,57,0.451,0.682,0.72,0.00617,0.418,-5.884,0.056,128.13,0.358,168000
+376CkDVTKJBtJROXcw7i1R,God's Plan - Operación Triunfo 2018,Damion Frost,God's Plan (Operación Triunfo 2018),2018-10-31,False,8,0.108,0.704,0.722,0.0,0.11,-5.034,0.039,153.041,0.577,132255
+6Jt18cyNzFXYYUUBllm7rZ,Heart Attack - Rock Version,Demi Lovato,REVAMPED,2023-09-15,False,60,0.000742,0.399,0.93,0.0,0.386,-3.259,0.264,174.108,0.453,239011
+1AozLLbKi1kIKMUbY3Xk7o,Confident - Rock Version,Demi Lovato,REVAMPED,2023-09-15,True,56,0.00177,0.528,0.812,1.82e-05,0.187,-3.811,0.0981,130.015,0.341,205675
+3L3IJAp60VshAFFDjdJ2FE,Sorry Not Sorry (with Slash) - Rock Version,"Demi Lovato, Slash",REVAMPED,2023-09-15,True,56,6.49e-05,0.473,0.902,0.0,0.35,-2.288,0.241,76.489,0.655,214760
+4920iOTzZUrKAKMH8SaLe5,Tírense,"Baby Rasta & Gringo, Cosculluela",The Hunting,2023-10-27,True,49,0.365,0.726,0.833,0.0,0.355,-4.002,0.339,170.095,0.459,279767
+2Qfjl3CypTXhSS1xKhkS6Y,Quiénes Son,"Baby Rasta & Gringo, Polaco, Lito MC Cassidy",The Hunting,2023-10-27,True,43,0.179,0.683,0.852,0.0,0.222,-3.943,0.43,171.73,0.561,317909
+4sCBxMSwo4HIaeImlEtddz,Dinero Fácil,"Baby Rasta & Gringo, Pacho El Antifeka, Ñengo Flow",The Hunting,2023-10-27,True,42,0.408,0.598,0.856,0.0,0.0792,-4.365,0.201,90.013,0.593,363820
+0A6rhK1bckxbfdOm1Omjq2,Quítate Eso,Justin Quiles,La Última Promesa,2021-08-19,True,44,0.0838,0.838,0.551,7.11e-06,0.0863,-2.597,0.107,81.991,0.46,166829
+2YZDh5CecWx0qlFiTvqVQ9,Colorín Colorado,Justin Quiles,La Última Promesa,2021-08-19,True,68,0.219,0.677,0.813,0.0,0.18,-4.01,0.187,169.844,0.573,194989
+7mmyIoIK9SZRW6pXJfwFnk,Americana,"Justin Quiles, Rauw Alejandro",La Última Promesa,2021-08-19,True,43,0.156,0.692,0.705,2e-05,0.144,-2.399,0.133,147.043,0.569,161784
+5VLTGxjrYu4CVejEgYBo9X,Forced to Bend,Innellea,Picture: Innellea,2020-11-20,False,28,0.0126,0.482,0.564,0.872,0.69,-10.46,0.0455,120.074,0.0359,410965
+1jflp5jRCi8mrJebQyENx8,Mars's Moon,Innellea,Picture: Innellea,2020-11-20,False,31,0.0177,0.791,0.971,0.811,0.0948,-8.716,0.0667,121.984,0.0345,413115
+5iC374D4ekhNOnr5FBPDSv,Sorrow,Innellea,Picture: Innellea,2020-11-20,False,22,0.000547,0.712,0.798,0.862,0.0731,-8.803,0.0497,131.992,0.353,208525
+31iamhCwbbko7u9RJByzRH,Just Tell Me - Mixed,Aurora Halal,fabric presents Mind Against (DJ Mix),2022-09-23,False,14,0.0506,0.571,0.72,0.692,0.185,-11.092,0.0309,122.155,0.199,265787
+2yhVpGfZ64ofZdiTCHA9qW,Bigna - Mixed,Jonathan Kaspar,fabric presents Mind Against (DJ Mix),2022-09-23,False,10,0.0162,0.782,0.76,0.884,0.127,-12.81,0.0504,122.415,0.737,237040
+1TNEYUIB5oQpOaZyOudCXw,Fatalist - Mixed,Shiffer,fabric presents Mind Against (DJ Mix),2022-09-23,False,10,0.0158,0.694,0.692,0.604,0.26,-10.385,0.0473,122.623,0.243,258200
+6FbATDAwzUG6ACQ2IStOUJ,de plata,Dave Zulueta,de plata,2023-06-09,False,13,0.338,0.728,0.841,0.0,0.379,-5.291,0.115,105.844,0.683,157774
+7J4UEiAV5yNeNjks5VfePH,Intimacy,Andrea Vanzo,Intimacy Vol. 1,2022-10-28,False,46,0.974,0.303,0.355,0.943,0.12,-20.068,0.0471,106.581,0.311,146925
+6BWMOF1Fd3hNaRFZw2Za5B,Gabriella,Andrea Vanzo,Intimacy Vol. 1,2022-10-28,False,36,0.991,0.344,0.0132,0.947,0.0924,-32.93,0.0443,138.606,0.0639,248587
+7x3pAlJzUz388yKMBNBKBC,Spring,Andrea Vanzo,Intimacy Vol. 1,2022-10-28,False,51,0.971,0.167,0.0649,0.945,0.0844,-32.576,0.0531,173.744,0.308,178712
+4AanOfVKkQKYRe4nbcaVaG,Después Del Party,Dalex,Reggaetón Sex,2023-05-05,True,44,0.248,0.833,0.817,0.00097,0.0714,-4.147,0.047,94.974,0.363,162013
+5RgBJX31NEVDcGUSMGBWWO,Perreándote,"Dalex, Ryan Castro, Symon Dice",Reggaetón Sex,2023-05-05,True,49,0.0823,0.653,0.868,1.91e-05,0.272,-4.059,0.0938,180.224,0.653,206667
+7AdDZQQNj19gZ2vVJnL1tj,Bora Bora,Dalex,Reggaetón Sex,2023-05-05,True,40,0.113,0.734,0.696,0.0,0.0886,-4.018,0.103,92.005,0.246,151304
+7qPiAhk71D2RqLRtnjDL76,No morë talk,Yeat,AftërLyfe,2023-02-24,True,70,0.00298,0.76,0.53,4.91e-06,0.113,-8.178,0.21,76.48,0.486,238507
+2fpTRcMLt4aKlqULOwuXUP,Shmunk (feat. YoungBoy Never Broke Again),"Yeat, YoungBoy Never Broke Again",AftërLyfe,2023-02-24,True,63,0.0204,0.744,0.647,0.000116,0.156,-7.301,0.111,141.929,0.096,229800
+0r9ZhD7QEbIAcvfhDkIsdV,Bëttr 0ff,Yeat,AftërLyfe,2023-02-24,True,67,0.00232,0.731,0.532,0.0,0.18,-9.815,0.0742,124.948,0.37,230453
+23yq0YZNaRDQ7AbdSbsPkN,The Fire In My Heart,"CHAD, VINAE",The Fire In My Heart,2023-11-04,False,21,0.475,0.674,0.829,0.472,0.135,-8.772,0.0639,121.004,0.407,145505
+3rtegb4u0g0ieh0TeTpP0U,Maktub,Rafa Espino,Maktub,2023-11-01,False,24,0.789,0.534,0.71,0.0,0.0719,-10.297,0.288,98.516,0.362,197405
+5nxbKkn3DnG0cW5YCyRsXd,El Amor Siempre Vuelve,"Rafa Espino, Nous Nizzy",Maktub,2023-11-01,False,23,0.867,0.541,0.691,0.0,0.163,-8.405,0.246,88.367,0.585,220272
+6XIHuFNd2nHEj7J5EOdgys,Cenizas,"Rafa Espino, AMBKOR, Dante",Maktub,2023-11-01,False,30,0.581,0.425,0.64,0.0,0.261,-8.855,0.254,81.613,0.427,202532
+05q2ObinCGFBC1hafHZaxq,Two Infinity Links,"Quavo, Takeoff",Only Built For Infinity Links,2022-10-07,True,51,0.0789,0.796,0.757,0.0,0.648,-6.381,0.235,147.933,0.591,129730
+2qi1wp1XsNO64udWaFaIIc,Tony Starks,"Quavo, Takeoff",Only Built For Infinity Links,2022-10-07,True,48,0.00423,0.922,0.418,1.72e-05,0.0946,-10.278,0.459,136.046,0.229,148235
+4vVjPTApwXZwB2H3mBq3ml,HOTEL LOBBY (Unc & Phew),"Quavo, Takeoff",Only Built For Infinity Links,2022-10-07,True,80,0.117,0.825,0.649,0.0,0.232,-4.297,0.169,127.978,0.143,142657
+6VhsUNFobFSPNgAMYoEjTP,Soldadito,Xenon,Tontas Cosas Que Decirte (Original Soundtrack),2022-11-24,False,8,0.00814,0.5,0.797,0.0,0.1,-4.495,0.0441,145.064,0.5,175345
+0xmU3WHi3XZQ33T0jSneNQ,All Star,Xenon,Tontas Cosas Que Decirte (Original Soundtrack),2022-11-24,False,11,0.0375,0.685,0.832,0.0,0.263,-6.516,0.125,145.973,0.799,161828
+3zp8YVbsY9nPRV3AuTuSsi,Lluvia y Viento,"Xenon, Alba del Vals",Tontas Cosas Que Decirte (Original Soundtrack),2022-11-24,False,12,0.262,0.588,0.692,1.53e-06,0.126,-5.348,0.0968,180.04,0.418,186697
+4K09vJ27xCOreumtSuU6Ao,Silk Sonic Intro,"Bruno Mars, Anderson .Paak, Silk Sonic",An Evening With Silk Sonic,2021-11-12,False,63,0.097,0.696,0.553,3.91e-06,0.617,-8.702,0.0759,114.993,0.674,63060
+4pryE6cN2gFL1FVF5fYINl,Leave The Door Open,"Bruno Mars, Anderson .Paak, Silk Sonic",An Evening With Silk Sonic,2021-11-12,False,72,0.182,0.586,0.616,0.0,0.0927,-7.964,0.0324,148.088,0.719,242096
+7suB6D6uKX5DfPukdGaz0W,Fly As Me,"Bruno Mars, Anderson .Paak, Silk Sonic",An Evening With Silk Sonic,2021-11-12,False,62,0.00756,0.783,0.627,0.0,0.0606,-8.521,0.102,100.025,0.48,219389
+4mMHQiLV0V2rYrquSBssRm,A Cualquiera Le Puede Pasar,Juan Antonio,A Cualquiera Le Puede Pasar,2023-09-13,False,1,0.0158,0.691,0.78,0.0,0.0672,-5.321,0.0348,87.973,0.785,169000
+7DSAEUvxU8FajXtRloy8M0,Flowers,Miley Cyrus,Endless Summer Vacation,2023-08-18,False,93,0.0584,0.706,0.691,6.99e-05,0.0232,-4.775,0.0633,118.048,0.632,200600
+0LbZLBBZI1NfaDgb4dx0UD,Jaded,Miley Cyrus,Endless Summer Vacation,2023-08-18,True,78,0.0476,0.496,0.593,0.0,0.0909,-5.154,0.0285,91.038,0.177,185933
+1nSfvLVhsozMHS7rCF1BTi,Rose Colored Lenses,Miley Cyrus,Endless Summer Vacation,2023-08-18,False,68,0.0574,0.539,0.503,2.34e-05,0.0847,-5.338,0.0385,174.068,0.836,223787
+20uXZyneJq8QjX8dPVI4ut,Intro,Zion & Lennox,El Sistema,2021-07-22,False,22,0.0257,0.858,0.751,0.0439,0.0907,-5.254,0.218,92.045,0.169,102680
+17hUeO3yozyGyXFzpEIX6D,Estrella,Zion & Lennox,El Sistema,2021-07-22,False,44,0.0293,0.777,0.766,0.0,0.136,-3.546,0.064,89.993,0.75,214626
+2Pz9DnS04JtX70gERPeorz,Entendemos,"Zion & Lennox, Sech",El Sistema,2021-07-22,False,36,0.16,0.768,0.734,0.0,0.104,-3.589,0.0876,158.026,0.806,213926
+7rSunISCOmFkcZ4pw77dDP,Start The Party (Vive Nuestra Fiesta),Ismael,Camp Rock Original Soundtrack,2008-01-01,False,2,0.00811,0.782,0.935,0.0,0.0668,-5.052,0.0943,115.989,0.626,182360
+4sAoD04nRazvYgOzGrAORf,Dale Un Respiro Al Amor,Ismael,Camp Rock Original Soundtrack,2008-01-01,False,3,0.0781,0.852,0.826,0.0,0.913,-5.216,0.0594,119.937,0.925,174373
+7IAHiyDo4UaTQyR6JCxJP3,We Rock,Cast Of Camp Rock,Camp Rock Original Soundtrack,2008-01-01,False,19,0.00644,0.636,0.947,0.0,0.0938,-3.422,0.104,143.901,0.828,192147
+7oI6UCSrFERRlBBSKII7mo,Welcome to Walkerworld,Alan Walker,Walkerworld,2023-11-10,False,38,0.0455,0.529,0.811,0.216,0.106,-6.734,0.0355,127.991,0.123,166650
+5jiDsY3XhlJ7TsByrQ4npm,Heart over Mind,"Alan Walker, Daya",Walkerworld,2023-11-10,False,38,0.000456,0.632,0.739,5.99e-06,0.181,-3.442,0.0276,117.013,0.367,189392
+7rFuXulG4qi129VYAREBf2,Hero,"Alan Walker, Sasha Alex Sloan",Walkerworld,2023-11-10,False,46,0.0289,0.596,0.733,1.13e-05,0.214,-7.082,0.03,126.007,0.0961,175271
+1Spq8zrtMorUiWK0Yf3FWL,The Dream Machine,ARMA,Global Underground #44: Amelie Lens - Antwerp (Unmixed),2022-12-09,False,14,0.000486,0.453,0.754,0.879,0.132,-8.465,0.0349,134.008,0.0658,333134
+5uI6QBvbOSqZYHMQ3Y54v0,Camino,NEON SHADOW,Global Underground #44: Amelie Lens - Antwerp (Unmixed),2022-12-09,False,15,0.288,0.765,0.929,0.897,0.14,-7.565,0.0482,131.018,0.342,335267
+0jahIZFDmbASM6n2Fhlr0q,Smoking Clouds,AIROD,Global Underground #44: Amelie Lens - Antwerp (Unmixed),2022-12-09,False,13,0.0997,0.806,0.688,0.719,0.091,-9.185,0.0699,130.035,0.2,280774
+4RawnebW4KRrhLNiDQOmGb,Sacuda,"Wisin, Los Legendarios","Multimillo, Vol. 1",2022-07-01,False,23,0.105,0.858,0.811,0.00106,0.254,-3.866,0.11,96.002,0.742,193440
+1nfE2EYcayqAN8llXWu1ma,Cerramos los Ojos (feat. Los Legendarios),"Wisin, Gotay ""El Autentiko"", Chris Andrew, Los Legendarios","Multimillo, Vol. 1",2022-07-01,False,26,0.0722,0.72,0.694,0.002,0.0893,-4.258,0.129,179.953,0.501,207440
+1NHnuko5D0e6SBGP5Mw2xC,Me Siento Bien,"Wisin, Chimbala, Los Legendarios","Multimillo, Vol. 1",2022-07-01,False,39,0.0176,0.801,0.739,9.29e-05,0.113,-3.846,0.131,94.996,0.521,256200
+6pC6TW94GCOUwEj7ZchIk6,Feeling For You (feat. FARLEY),"CHANEY, FARLEY",Feeling For You (feat. FARLEY),2023-11-24,False,41,0.00449,0.68,0.875,7.44e-05,0.637,-5.429,0.117,125.975,0.691,226786
+74BfFG9qR85KXxN49esFVA,Main Titles (You’ve Been Called Back to Top Gun),"Harold Faltermeyer, Lady Gaga, Hans Zimmer, Lorne Balfe",Top Gun: Maverick (Music From The Motion Picture),2022-05-27,False,63,0.0404,0.493,0.302,0.834,0.107,-12.478,0.0289,107.425,0.157,150667
+4XGl23ZBBQQ7KD9uSpvswx,Danger Zone,Kenny Loggins,Top Gun: Maverick (Music From The Motion Picture),2022-05-27,False,0,0.0697,0.553,0.887,0.0,0.186,-6.463,0.0387,156.767,0.687,215573
+5jximgvZO7gGAFQndsSltj,Darkstar,"Harold Faltermeyer, Lady Gaga, Hans Zimmer, Lorne Balfe",Top Gun: Maverick (Music From The Motion Picture),2022-05-27,False,55,0.666,0.448,0.381,0.756,0.0781,-18.062,0.0346,145.031,0.14,181053
+6uIODsxIHybW8ngRUAACb6,One Of The Boys,Katy Perry,One Of The Boys (15th Anniversary Edition),2023-06-20,False,44,0.00215,0.565,0.912,1.67e-06,0.0807,-2.34,0.0525,145.951,0.686,247653
+1uQDjeqWqHd3LwkYZ2vKvP,I Kissed A Girl,Katy Perry,One Of The Boys (15th Anniversary Edition),2023-06-20,False,50,0.00238,0.68,0.787,0.0,0.0888,-3.195,0.104,129.998,0.686,179640
+0WDYdvKkDrwnVuxtNJtLHE,Waking Up In Vegas,Katy Perry,One Of The Boys (15th Anniversary Edition),2023-06-20,False,45,0.00129,0.532,0.867,0.0,0.119,-3.146,0.0336,130.971,0.654,199187
+1PkrJceNgWCtvse0OhDbdQ,El mundo bajo mis pies,Subze,Casi nada,2023-07-14,False,22,0.298,0.656,0.643,0.0,0.185,-7.377,0.453,85.018,0.282,213818
+2IqiRRVaTzv6YDNnqFdVpu,Death row,Subze,Casi nada,2023-07-14,True,20,0.116,0.639,0.388,0.0,0.129,-9.241,0.0369,123.822,0.286,191614
+18E50KJhUMXcsoRLBgy6BQ,Cryptolais,Subze,Casi nada,2023-07-14,False,19,0.0961,0.87,0.783,0.0,0.531,-6.221,0.255,115.975,0.752,188418
+14Y6K8JKPglmbPp3QwrX5i,Me Enamora,"Lenny Tavárez, Zion & Lennox",KRACK DELUXE,2022-03-03,False,29,0.232,0.74,0.673,4.45e-06,0.12,-2.872,0.102,180.026,0.698,198592
+1V0QAjYD9LkDTUlHAtPDFb,Imagínate (feat. Nicky Jam),"Lenny Tavárez, Nicky Jam",KRACK DELUXE,2022-03-03,True,27,0.386,0.741,0.784,0.0,0.25,-4.534,0.088,94.007,0.697,187840
+5WqETTgZEuQF1PHKELc7HR,Kush,"Lenny Tavárez, Rauw Alejandro",KRACK DELUXE,2022-03-03,True,29,0.375,0.724,0.537,6.8e-06,0.0693,-6.94,0.292,73.976,0.45,214054
+16nItJy3LUeqGSboABfWWY,Avisa,"Kramps, Kidd Voodoo, Santi Valencia",Avisa,2023-12-01,False,43,0.194,0.619,0.649,0.0,0.152,-6.334,0.0447,180.122,0.743,187159
+7BFj9LKuwSTiBn5k73Sur3,Miracle,Jonas Brothers,The Album,2023-05-12,False,57,0.0389,0.644,0.838,0.0,0.144,-5.076,0.194,179.956,0.889,141148
+2jpVAeVwDtvOwdyUYH3NxN,Montana Sky,Jonas Brothers,The Album,2023-05-12,False,62,0.0363,0.752,0.839,0.0,0.102,-5.026,0.0746,131.011,0.777,169062
+7DVcgqaCDXtwZIjRTPb8bm,Wings,Jonas Brothers,The Album,2023-05-12,False,66,0.129,0.7,0.728,0.0,0.12,-5.419,0.0418,121.06,0.3,118994
+0P6iIXYsjLeTGdZ9EtfgY9,Anti-Hero,"Beutos, All Beats",Anti-Hero,2022-12-30,False,50,0.117,0.666,0.595,0.0,0.346,-9.528,0.235,104.991,0.237,133000
+25NFTtKpxxczJSBRiJM4zZ,Back Again (Interlude),K-Ci & JoJo,My Brother's Keeper,2013-09-30,False,5,0.972,0.351,0.222,2.48e-06,0.109,-12.049,0.0308,61.735,0.115,48960
+64JAXQIODz2YzT8OhoWmVo,Knock it Off,K-Ci & JoJo,My Brother's Keeper,2013-09-30,False,5,0.132,0.779,0.613,0.0,0.344,-6.879,0.172,85.002,0.714,229573
+4sBgw2lx43ouOGdcmmB4Jz,Middle of the Night,K-Ci & JoJo,My Brother's Keeper,2013-09-30,False,5,0.0132,0.669,0.423,0.0,0.0976,-8.889,0.0846,91.818,0.36,198747
+0TdKvw86k95MpKXD6pamFN,BACK FOR MORE,Angrybaby,BACK FOR MORE,2023-11-10,False,47,0.0596,0.605,0.806,0.454,0.0934,-7.188,0.0372,132.068,0.269,175938
+0eaVIYo2zeOaGJeqZ5TwYz,No Pole,Don Toliver,Love Sick (Deluxe),2023-02-28,True,71,0.0714,0.328,0.631,0.0,0.567,-5.169,0.0465,85.262,0.382,187613
+6w9GrSUaQQIaMBYtabge7p,Embarrassed (feat. Travis Scott),"Don Toliver, Travis Scott",Love Sick (Deluxe),2023-02-28,True,74,0.382,0.861,0.496,2.57e-06,0.107,-5.537,0.0357,116.008,0.543,192693
+1g4DPOlfsDTIzq9fTU2SFE,Geronimo,Don Toliver,Love Sick (Deluxe),2023-02-28,True,59,0.488,0.741,0.563,0.0,0.191,-6.721,0.049,125.026,0.448,123000
+19CTf8Ej9FbtTmZKhrsUJV,Working,King Savagge,WorKING,2023-03-09,True,10,0.627,0.683,0.651,0.0,0.0954,-12.948,0.431,150.048,0.204,137600
+7pBbeil4JpApPYxavgRpWJ,Tengo Polola Nueva,King Savagge,WorKING,2023-03-09,True,11,0.154,0.797,0.645,7.32e-05,0.0714,-10.56,0.184,100.025,0.693,148800
+5TF6x1UsQnX3Tv3wd5Fw78,NOPALATELE,"King Savagge, Ak4:20, Paloma Mami",WorKING,2023-03-09,True,14,0.25,0.787,0.711,0.0,0.377,-11.102,0.1,94.985,0.813,257683
+6aDKDILq51oYRJb0jTKMPZ,En libertad,Juancho Marqués,Paraíso 39,2023-05-18,False,35,0.599,0.656,0.588,0.0128,0.0836,-8.798,0.0449,130.014,0.466,232615
+5apMYRrfxC7o2YgeQo30i5,tú que ves en mí,Juancho Marqués,Paraíso 39,2023-05-18,False,46,0.396,0.655,0.7,0.021,0.114,-8.493,0.155,175.976,0.429,165675
+318v1RtYEdM3NWA0ZsZltc,Esferas,Juancho Marqués,Paraíso 39,2023-05-18,False,36,0.632,0.601,0.551,0.01,0.383,-9.179,0.104,163.873,0.473,207745
+2F7Lgq3RcsmvZ8xD4C6lry,fall apart,"Rommii, Adam Pastel",fall apart,2023-09-29,False,33,0.000211,0.734,0.717,4.12e-05,0.147,-8.231,0.113,125.989,0.5,154286
+5D9ne9N6AQz51aGZd21Z05,Grace,Borrtex,Pure,2023-12-01,False,31,0.99,0.285,0.117,0.847,0.136,-28.695,0.0353,134.242,0.363,154468
+1Gnq6I5W9wVEKRWZXjTjC4,Fate,Borrtex,Pure,2023-12-01,False,13,0.991,0.534,0.0988,0.921,0.133,-25.496,0.0524,117.289,0.251,116071
+5BsQ1oCPIGGMW6aheLj4de,Brise,Borrtex,Pure,2023-12-01,False,13,0.983,0.543,0.0801,0.884,0.123,-26.949,0.0359,124.225,0.193,153456
+2xBuDFGbFc3NbUzCI8W4RW,EN 4,Darell,EVERYBODY GO TO THE DISCOTEK,2023-07-28,True,48,0.484,0.734,0.73,4.82e-05,0.116,-3.926,0.371,195.894,0.537,191813
+24JgCDBVduwcrgtQUKpcLC,Party Encendido,"Darell, Jory Boy",EVERYBODY GO TO THE DISCOTEK,2023-07-28,True,44,0.511,0.736,0.709,1.09e-05,0.0861,-4.336,0.396,192.069,0.628,184733
+6Sbv9Zabrkjt07ifGx4Qj0,Deshidrato,Darell,EVERYBODY GO TO THE DISCOTEK,2023-07-28,True,47,0.109,0.868,0.727,1.83e-05,0.121,-4.058,0.163,91.974,0.583,191973
+3ardTKlR7VEELLh8iI3bpK,Horizon,"1991, Poppy Baskcomb",Horizon,2023-11-10,False,52,0.00693,0.526,0.972,0.0734,0.364,-2.023,0.054,115.998,0.155,180690
+0tYufROBZ8VaZ6nSGV1zBX,Chuleria en pote - Remix,"Alan Gomez, Jona Mix",Classic Edition (Remix),2020-09-18,False,27,0.152,0.813,0.578,0.0433,0.0879,-7.687,0.103,102.012,0.66,164708
+0jP9KkL3KHOamGLwkWT72d,A puro dolor - Remix,"Alan Gomez, Jona Mix",Classic Edition (Remix),2020-09-18,False,25,0.115,0.8,0.598,3.7e-05,0.133,-7.703,0.108,100.037,0.645,117600
+1Lg4dT1Yk1a8bhsjnz1cBM,La Camisa Negra - Remix,"Alan Gomez, Jona Mix",Classic Edition (Remix),2020-09-18,False,24,0.0563,0.714,0.624,0.0,0.0946,-6.782,0.301,204.028,0.87,124706
+2hJcvSDeAmgoftVEeAuk1Y,Midnight (feat. Liam Payne),"Alesso, Liam Payne",LP1,2019-12-06,False,41,0.0561,0.587,0.648,0.0,0.115,-6.927,0.0439,144.028,0.281,220141
+426utyJ4B1l4vi5i5ULU5k,Stack It Up (feat. A Boogie Wit da Hoodie),"Liam Payne, A Boogie Wit da Hoodie",LP1,2019-12-06,True,51,0.153,0.743,0.812,0.0,0.0713,-3.069,0.132,100.05,0.606,165710
+2uAX7DbFp5GWCkE1bpkUn4,Remember,Liam Payne,LP1,2019-12-06,False,50,0.297,0.675,0.606,0.0,0.23,-5.102,0.0285,103.968,0.317,189423
+3SMkND1Jt7Rzjzh4O0vINL,First minute of 28 looking for metaphors about daily living,Mattia Vlad Morleo,Twelve Unanswered Questions for Piano,2023-11-17,False,20,0.976,0.312,0.312,0.847,0.373,-25.99,0.153,81.827,0.431,73427
+0W6PMFsnFpr8HUHKm6kWhD,Naive,Mattia Vlad Morleo,Twelve Unanswered Questions for Piano,2023-11-17,False,19,0.995,0.349,0.0747,0.894,0.111,-27.989,0.0488,173.995,0.545,124125
+26LaHWy0JxFZ7SExpGYJUK,Need,Mattia Vlad Morleo,Twelve Unanswered Questions for Piano,2023-11-17,False,32,0.995,0.34,0.0775,0.956,0.101,-23.549,0.0444,100.012,0.213,140438
+410bqi03Q13Xn1HOe2yCy8,Ambient Eastern Flute Solo,Rafael Krux,Middle Eastern Flute,2023-10-19,False,27,0.995,0.129,0.125,0.947,0.105,-18.143,0.0409,172.082,0.105,180067
+2FXnIhbKW4cFeEn76a4gAy,Calm Middle Eastern Flute Solo,Rafael Krux,Middle Eastern Flute,2023-10-19,False,16,0.996,0.291,0.0567,0.742,0.0935,-18.861,0.0475,115.784,0.276,104167
+4T7SpLtkUD5IjhoncZEARs,Camel Ride in Egypt,Rafael Krux,Middle Eastern Flute,2023-10-19,False,10,0.334,0.709,0.238,0.000761,0.102,-14.329,0.0376,119.959,0.343,182900
+1gAPIjqunPXRA4y1kYZi0q,Besos con Fernet,"Rusherking, Marama",Besos con Fernet,2023-11-07,False,75,0.179,0.742,0.692,0.0,0.188,-3.687,0.0469,100.03,0.897,148800
+4a9kGbaW3klAdEHsx7Q3jQ,Brand New Day,Demi Lovato,Camp Rock 2: The Final Jam,2010-01-01,False,40,0.0154,0.362,0.882,0.0,0.085,-4.259,0.143,190.078,0.427,201147
+7Hjr124CfhS8HYAHJitVO4,Fire,"Matthew ""Mdot"" Finley",Camp Rock 2: The Final Jam,2010-01-01,False,43,0.123,0.71,0.946,0.0,0.203,-4.431,0.078,120.089,0.681,182227
+2E1V6nbjINpLpiMaWMSYZ4,Can't Back Down,"Demi Lovato, Alyson Stoner, Anna Maria Perez de Taglé, Char Ligera",Camp Rock 2: The Final Jam,2010-01-01,False,45,0.0847,0.636,0.839,0.0,0.1,-4.384,0.0961,120.035,0.658,199907
+6RCwPJ2mYbapVc62qryGTC,"Chapetona - Francisco Allendes, Pablito Pesadilla Remix","Loyaltty, Francisco Allendes, Pablito Pesadilla",Chapetona (Francisco Allendes & Pablito Pesadilla Remix),2023-10-27,False,28,0.0783,0.817,0.988,0.671,0.275,-6.43,0.0637,127.994,0.445,197813
+5wcghdKONQcc5TKx9jCcns,ROZE | DJ TAO Turreo Sessions #22,"DJ Tao, Roze Oficial",ROZE | DJ TAO Turreo Sessions #22,2023-11-23,False,61,0.0805,0.814,0.63,0.0,0.101,-3.69,0.0881,89.974,0.702,155292
+0HeWjqONpLAHig0hf1dIgL,Aeropuerto,Camilo,De Adentro Pa Afuera (Deluxe Edition),2023-06-08,False,39,0.0328,0.69,0.58,0.0,0.328,-4.395,0.199,197.635,0.708,177627
+73oSZUOhgENWgpXS6Cas0t,Ambulancia,"Camilo, Camila Cabello",De Adentro Pa Afuera (Deluxe Edition),2023-06-08,False,39,0.386,0.822,0.613,0.0,0.269,-5.574,0.0465,132.023,0.852,212813
+6wrG4jaPMy5hAoRzLBbAWR,Bebiendo Sola,"Camilo, Myke Towers",De Adentro Pa Afuera (Deluxe Edition),2023-06-08,False,39,0.185,0.574,0.667,0.0,0.134,-5.69,0.296,78.416,0.687,179067
+0HMVTE8b6OZJsDGVawPOOC,One - Main,Tyrese,Alter Ego,2006-12-11,True,34,0.0727,0.69,0.809,0.0,0.287,-4.042,0.0576,126.942,0.645,223373
+5YdRGwK9ors1WhRsjjHufT,Lights On,Tyrese,Alter Ego,2006-12-11,True,30,0.0502,0.577,0.601,0.0,0.255,-8.312,0.142,152.097,0.564,248147
+6rNzpKK3Br0GG6TMyKmu7B,Turn Ya Out (feat. Lil' Jon) - Main,"Tyrese, Lil Jon",Alter Ego,2006-12-11,False,33,0.0471,0.653,0.758,0.0,0.0774,-4.521,0.084,130.031,0.532,224120
+0hL9gOw6XBWsygEUcVjxEc,HYAENA,Travis Scott,UTOPIA,2023-07-28,True,79,0.0305,0.608,0.754,0.0,0.119,-5.277,0.0719,97.071,0.455,222085
+1PH2MDbcBAU094DlgTIND1,THANK GOD,Travis Scott,UTOPIA,2023-07-28,True,81,0.254,0.657,0.553,0.0,0.129,-7.08,0.0394,134.925,0.576,184889
+3KCNiDi9Pza6ZD8FggNoaw,MODERN JAM (feat. Teezo Touchdown),"Travis Scott, Teezo Touchdown",UTOPIA,2023-07-28,True,77,0.000564,0.517,0.539,1.4e-05,0.537,-6.474,0.038,108.984,0.531,255413
+05viSJk3lY45GOieqQqLgl,The Last Time,Chris Avantgarde,The Last Time,2023-12-01,False,24,0.0277,0.626,0.963,0.837,0.215,-2.26,0.0572,138.0,0.495,309565
+0DrlRbxtPU5vW3L2hbrtNZ,Cirrosis,Ikki,The Mixtape,2023-09-04,False,1,0.274,0.434,0.327,0.937,0.0976,-13.398,0.0794,129.968,0.0397,192000
+2Hy8mNqQSnAWxpF5KBHTCr,C.D.H,"Ikki, KASHZOMBIE",The Mixtape,2023-09-04,False,2,0.0624,0.718,0.679,0.57,0.098,-10.867,0.316,168.783,0.417,96000
+1EP0fZ4N68TCSpbk0HrAa8,Coma,"Ikki, ASEK36",The Mixtape,2023-09-04,False,1,0.0054,0.653,0.71,0.725,0.0571,-8.581,0.0422,133.057,0.482,230977
+0yCQL5ddb86N8GWI5qrEQY,Dreamcatcher - Mixed,Ann Clue,Faith Homesession (DJ Mix),2020-05-29,False,17,0.000268,0.783,0.592,0.884,0.108,-11.381,0.0464,127.017,0.345,370240
+0FY44nKtoQEhb4XR23aDfN,Conscious - Mixed,Ann Clue,Faith Homesession (DJ Mix),2020-05-29,False,16,0.0295,0.788,0.691,0.793,0.113,-13.193,0.0586,126.977,0.159,404720
+1pJzSnoM0n2iPX1BtXlMki,Young & Stupid - Mixed,"Boris Brejcha, Ann Clue",Faith Homesession (DJ Mix),2020-05-29,False,17,0.00272,0.833,0.608,0.771,0.106,-10.14,0.0496,127.011,0.149,392840
+72hCP2qsad7CAlvkocreur,Movie,"Keffantony, Galee Galee",Movie,2023-08-21,False,41,0.103,0.836,0.645,0.00808,0.248,-10.859,0.0903,101.985,0.733,197736
+5UkqH9t76GxI48YHA0thsy,Honeymoon Avenue,Ariana Grande,Yours Truly (Tenth Anniversary Edition),2023-08-25,False,62,0.208,0.688,0.611,0.0,0.337,-5.298,0.0423,125.015,0.478,339735
+6qT31f20CXWq0zkz4BME32,Baby I,Ariana Grande,Yours Truly (Tenth Anniversary Edition),2023-08-25,False,58,0.0208,0.714,0.775,0.0,0.367,-3.743,0.0382,101.93,0.516,197603
+5aKqhRdBmC5Qp2c3oek9ft,Right There (feat. Big Sean),"Ariana Grande, Big Sean",Yours Truly (Tenth Anniversary Edition),2023-08-25,False,57,0.138,0.652,0.836,0.0,0.112,-3.3,0.101,77.974,0.593,247082
+1hGHHKR7KFF2Wl78LBgKBz,Calamity,ZAYN,Nobody Is Listening,2021-01-15,False,52,0.94,0.542,0.291,0.000197,0.105,-14.415,0.105,94.882,0.0428,187560
+5CBnWXD8M7e8Q6WubFLtXy,Better,ZAYN,Nobody Is Listening,2021-01-15,False,60,0.354,0.696,0.409,0.0,0.132,-7.135,0.235,84.652,0.0962,174520
+6f8cT6qJ1KqqVXjx0xRJBt,Outside,ZAYN,Nobody Is Listening,2021-01-15,True,55,0.0957,0.475,0.343,0.00024,0.149,-9.407,0.0397,113.016,0.0536,208920
+1WumDA51R5dHvmRVhmoP6t,Sinner,Nu Aspect,Sinner,2023-06-30,False,72,0.0967,0.707,0.934,0.207,0.085,-5.911,0.0395,135.99,0.546,191166
+2EEnT5rCeO7GsJDGSCFfSY,Sinner - Extended,Nu Aspect,Sinner,2023-06-30,False,36,0.00128,0.771,0.989,0.802,0.0504,-6.158,0.0573,135.986,0.872,283897
+5fqnDLnhFM2hkZZrdXlk7M,Talking To A Stranger,"Thunder, Aube.",Talking To A Stranger,2022-08-11,False,29,0.277,0.724,0.672,1.48e-05,0.0739,-7.368,0.0741,117.926,0.125,134746
+5zZebRXTe2T7LL9FrivPXX,Intro,Denis Stelmakh,Mayday,2023-10-06,False,12,0.994,0.222,0.171,0.8,0.0721,-20.251,0.0387,136.165,0.0363,306000
+3YqpzWZkZkhElz82muo7n2,Mayday,Denis Stelmakh,Mayday,2023-10-06,False,14,0.993,0.156,0.453,0.858,0.0735,-15.492,0.0498,104.461,0.0808,475714
+4rM0y8UmxdKv1Ham7pFVHM,Untitled Song,Denis Stelmakh,Mayday,2023-10-06,False,14,0.986,0.263,0.0293,0.919,0.151,-23.794,0.0356,69.606,0.0392,319357
+6vbBeine7SvXpvLOcQUEWF,Royal Rumble (Se Van),"Daddy Yankee, Wise, Don Omar, Hector, Yomo, Wisin, Franco, Alexi, Zion, Arcángel",Los Benjamins - La Continuacion,2007-05-14,False,36,0.247,0.826,0.82,0.0,0.106,-4.99,0.242,93.994,0.764,376027
+2LDky5d1Xn8Y0ExCqaGUDs,Lento,RBD,Los Benjamins - La Continuacion,2007-05-14,False,20,0.128,0.7,0.855,0.000804,0.176,-4.977,0.0431,81.985,0.822,196800
+6A2u0AuWXFVsEyi7rgDFEf,Hello,Zion,Los Benjamins - La Continuacion,2007-05-14,False,23,0.244,0.756,0.86,0.000475,0.0839,-3.239,0.0437,93.984,0.793,206160
+71mPUsIl4zcHwiJKYB24op,NO VUELVO A CAER,BM,NO VUELVO A CAER,2023-11-22,False,63,0.067,0.716,0.416,0.0,0.0962,-4.86,0.0667,90.043,0.183,148036
+1lSayCmr2lS6ndxELoabIG,Lágrimas | CROSSOVER #4,"Big One, TINI, BM",Lágrimas | CROSSOVER #4,2023-10-10,False,73,0.0863,0.771,0.656,0.0,0.115,-4.078,0.065,93.069,0.609,167419
+7tRvzdzYXZaxyTfy8CnT7v,Mentiras | CROSSOVER #3,"Big One, Ulises Bueno, Rusherking",Lágrimas | CROSSOVER #4,2023-10-10,False,33,0.0164,0.696,0.696,0.0,0.104,-5.679,0.0531,150.028,0.86,168000
+0zNBTwX9LaDcqYMELP3sDj,Un Finde | CROSSOVER #2,"Big One, FMK, Ke Personajes",Lágrimas | CROSSOVER #4,2023-10-10,False,32,0.0613,0.528,0.659,0.0,0.219,-3.623,0.0604,192.055,0.8,162500
+4isCOGxBND4Nv5gIH3JMJr,lento/rápido,Marta Sango,lento/rápido,2023-09-15,False,27,0.757,0.524,0.729,0.00831,0.121,-5.624,0.0489,125.063,0.296,162240
+7zllNkjJSYfKr4eqNfSDRb,Te Pienso,Angel Y Khriz,New Season,2020-11-27,False,9,0.479,0.696,0.697,1.87e-06,0.0907,-6.453,0.164,177.916,0.553,182840
+777lIDpqscIw4yFOs0Ascd,Canta,Angel Y Khriz,New Season,2020-11-27,False,9,0.00913,0.723,0.855,0.0,0.128,-4.964,0.045,100.009,0.56,219707
+1M3U4MSVKq5NRWr2SU8kTj,Tócate Tú Misma,Angel Y Khriz,New Season,2020-11-27,False,9,0.0701,0.779,0.654,1.2e-05,0.121,-5.476,0.0916,80.084,0.815,183707
+6p5e9Itrj5xLhywPWV5O5w,SUCKS TO BE YOU,Anne-Marie,SUPER UNHEALTHY (VOICENOTE EDITION),2023-07-31,True,31,0.992,0.564,0.317,0.0137,0.375,-7.211,0.041,174.258,0.851,43613
+1fOrQuR3jJW2dqMPbDUdL3,SAD B!TCH,Anne-Marie,SUPER UNHEALTHY (VOICENOTE EDITION),2023-07-31,True,32,0.296,0.544,0.692,0.0,0.131,-3.207,0.155,193.954,0.618,132794
+7nDWp3W9qEXDVhlg2FVOFV,PSYCHO,"Anne-Marie, Aitch",SUPER UNHEALTHY (VOICENOTE EDITION),2023-07-31,True,33,0.014,0.506,0.666,0.0,0.0271,-4.999,0.372,81.749,0.69,162667
+4mXTeip21AJN3DhII4iMVg,Phillie y Botella (Remix),"Nickoog Clk, Pailita, Simon la Letra, Standly",GIRO 180,2023-09-07,True,48,0.194,0.778,0.651,0.0,0.103,-8.648,0.0449,114.988,0.761,288004
+1Ph3gk6SRAHRzecyfAVJJx,ESE CULITO,"Nickoog Clk, Dainesitta",GIRO 180,2023-09-07,False,41,0.217,0.799,0.583,0.0,0.07,-10.267,0.0472,97.003,0.549,222693
+7ylrNnMLZSHvG8tBOgqZ4o,En El Jacuzzi,Nickoog Clk,GIRO 180,2023-09-07,True,50,0.126,0.859,0.492,0.0,0.0982,-9.757,0.0933,96.973,0.895,164543
+5AiGpfWDQCb0DdVfMkA9W9,Rumba,Natos y Waor,Luna llena,2022-09-13,False,59,0.0994,0.776,0.813,6.16e-05,0.097,-5.323,0.146,93.998,0.397,99000
+2vitZ5fxaFmnYmzrzWooaV,Septiembre,Natos y Waor,Luna llena,2022-09-13,True,56,0.55,0.765,0.556,2.13e-05,0.105,-9.078,0.272,90.995,0.225,219167
+6xRglH0lCDxiHEjbDRxT3v,Hasta que salga el sol,"Natos y Waor, Recycled J",Luna llena,2022-09-13,False,50,0.00193,0.903,0.476,0.0343,0.285,-8.298,0.0532,119.974,0.825,247000
+1iqVrZ20FO0PwsNqc5ch6X,Serenity In Silence,Jethro,Yogi Strings - Acoustic Guitar for Mindful Yoga Sessions,2023-11-10,False,0,0.888,0.773,0.123,0.738,0.11,-15.417,0.0532,115.983,0.35,195593
+3HzI051t8tJxT1zoaoQL7e,Heavenly Piano Visions Of Tranquility,Jethro,Yogi Strings - Acoustic Guitar for Mindful Yoga Sessions,2023-11-10,False,0,0.879,0.57,0.186,0.92,0.0983,-15.787,0.0494,75.995,0.405,126357
+643DkpUgpmOl5ExWam44ft,Gettin Older,Jethro,Yogi Strings - Acoustic Guitar for Mindful Yoga Sessions,2023-11-10,False,0,0.811,0.671,0.191,0.963,0.111,-15.103,0.0468,136.021,0.37,134191
+75hZkSXmSecpkmSkgcbozB,Getting Better,Danilo Stankovic,Getting Better,2023-10-31,False,21,0.974,0.554,0.352,0.94,0.118,-12.414,0.0492,146.041,0.256,63271
+13CVSGLSFl4UxpDVR6u3dq,Strangers By Nature,Adele,30,2021-11-19,False,65,0.798,0.387,0.253,0.000159,0.0848,-8.901,0.0336,68.004,0.134,182163
+46IZ0fSY2mpAiktS3KOqds,Easy On Me,Adele,30,2021-11-19,False,83,0.578,0.604,0.366,0.0,0.133,-7.519,0.0282,141.981,0.13,224695
+2DuPBbS5mIldXnh7Wum8Cy,My Little Love,Adele,30,2021-11-19,False,68,0.829,0.339,0.492,0.00377,0.147,-10.661,0.0559,151.865,0.102,389107
+57VSdN8FQk5yaV83U7fBXU,Made In Qatar,Ozuna,Cosmo,2023-11-17,False,64,0.197,0.847,0.805,0.000656,0.105,-5.04,0.0734,140.054,0.384,150027
+74ORZ2qrQK0pDL8rzoiuyr,Baccarat,Ozuna,Cosmo,2023-11-17,False,69,0.115,0.766,0.659,0.0,0.154,-4.203,0.26,177.998,0.781,197180
+2XNtRxyRdSdhNLMJAeq8nS,El Plan,"Ozuna, Chencho Corleone, Sky Rompiendo",Cosmo,2023-11-17,False,68,0.0323,0.823,0.751,1.08e-05,0.102,-5.131,0.107,172.004,0.767,226725
+0rlFlRLU4Ko1qLpKWrjzNo,INTRO,"Cecilio G., Jueen",SAN BALLANTINES,2023-02-14,True,20,0.00525,0.643,0.892,0.0,0.75,-4.176,0.0756,98.102,0.259,116308
+3CcB9kguYY2FDsh1xrADre,HEY GYAL,"Cecilio G., NeroBeatz",SAN BALLANTINES,2023-02-14,True,22,0.119,0.714,0.62,0.0,0.111,-7.228,0.219,92.005,0.319,157827
+6QeKRjr8Bn3jh7wH0PHhnA,C.R.E.A.M,"Cecilio G., NeroBeatz",SAN BALLANTINES,2023-02-14,True,28,0.119,0.714,0.62,0.0,0.111,-7.228,0.219,92.005,0.319,157827
+4d1fa0AVA4guKRZyRauYIw,History,Fantasia,Sketchbook,2019-10-11,True,15,0.343,0.677,0.722,0.0,0.348,-5.12,0.24,112.908,0.653,212815
+4C0To3ZeNhQwiqukMJim27,PTSD (feat. T-Pain),"Fantasia, T-Pain",Sketchbook,2019-10-11,True,24,0.107,0.697,0.599,0.0,0.126,-5.83,0.0737,113.086,0.544,238561
+6NBghUX83oPtu1mkq3vtWU,Believer,Fantasia,Sketchbook,2019-10-11,False,23,0.392,0.471,0.718,0.0,0.203,-4.419,0.0729,144.61,0.541,240928
+5HdI4hj7DvV1kf2mzdxAPX,The Strange One,Abel Korzeniowski,Emily: Original Motion Picture Soundtrack,2022-11-16,False,42,0.974,0.273,0.276,0.775,0.0959,-14.277,0.0436,171.078,0.382,60361
+5AwyJVO4ZOOPR6t4rg6Wbi,Rondo I,Abel Korzeniowski,Emily: Original Motion Picture Soundtrack,2022-11-16,False,26,0.995,0.307,0.0571,0.928,0.0959,-30.71,0.0474,82.14,0.438,53897
+61KrJzjKheK8vZBecHkbno,No Coward Soul Is Mine,Abel Korzeniowski,Emily: Original Motion Picture Soundtrack,2022-11-16,False,28,0.958,0.603,0.298,0.535,0.0977,-13.802,0.0272,92.049,0.29,95340
+0FBdJP7yzvq88bG1keGgt4,High and I Like It,"it's murph, Evalyn",High and I Like It,2023-12-01,False,49,0.069,0.809,0.765,0.327,0.0828,-4.758,0.0484,128.005,0.613,223379
+7K3YkUDC9RJAMMLNi0FRVe,Tú y Yo,Noelia Franco,Tú y Yo,2023-11-24,False,18,0.127,0.495,0.755,0.000591,0.39,-5.333,0.0562,173.861,0.447,177759
+2g7Grfc7vOg9UyUbb62Foi,Smash - Explicit - 3:54,"Stubby N' Jacostta, Flii Stylz",Smash,2008-12-30,False,0,0.00996,0.661,0.576,0.0,0.129,-11.029,0.273,96.064,0.676,232000
+6s1tjrSReaLpgabbdeLsjf,Smash - Radio,"Stubby N' Jacostta, Flii Stylz",Smash,2008-12-30,False,0,0.00914,0.436,0.58,0.0,0.102,-11.013,0.371,97.853,0.669,232000
+2acStN7z11bv6nI9bpU63O,Smash - Instrumental,"Stubby N' Jacostta, Flii Stylz",Smash,2008-12-30,False,0,0.000339,0.758,0.437,0.308,0.48,-13.03,0.11,95.965,0.525,232000
+4fLTtg48X0QtKrj0Jv8I3v,Hey Angel,One Direction,Made In The A.M. (Deluxe Edition),2015-11-13,False,61,0.0202,0.523,0.883,0.0,0.116,-2.956,0.0365,92.215,0.35,240000
+2K87XMYnUMqLcX3zvtAF4G,Drag Me Down,One Direction,Made In The A.M. (Deluxe Edition),2015-11-13,False,81,0.109,0.73,0.703,0.0,0.0657,-5.672,0.0369,138.113,0.595,192120
+3NLnwwAQbbFKcEcV8hDItk,Perfect,One Direction,Made In The A.M. (Deluxe Edition),2015-11-13,False,81,0.0598,0.647,0.823,0.0,0.119,-5.231,0.0762,99.933,0.396,230333
+4cwGjuklrJn4JLzXFpUC3P,Changes,"Jethro, Tia Lake",Changes,2021-10-15,False,45,0.785,0.586,0.361,0.0,0.154,-6.506,0.0339,141.567,0.506,102361
+11ZVX9aMH4HnP3D6JuvHxL,Still,SWV,Still,2016-02-05,False,25,0.426,0.584,0.654,0.0,0.156,-5.942,0.0579,97.862,0.346,210373
+2Z5avrRA5DXZwTQI8OCfR2,MCE (Man Crush Everyday),SWV,Still,2016-02-05,False,39,0.281,0.569,0.529,0.0,0.128,-6.851,0.0984,149.841,0.314,235893
+11ol2UCyVvdV0XtuSksoxx,On Tonight,SWV,Still,2016-02-05,False,15,0.105,0.826,0.907,0.0,0.0449,-4.354,0.0738,117.466,0.961,185440
+2NAjBeyMUrba97IXdLVMqp,PERREO FURIOSO,Maria Becerra,LA NENA DE ARGENTINA,2022-12-09,True,47,0.135,0.79,0.578,0.0021,0.143,-4.863,0.106,90.008,0.782,152280
+1K1JosFYBCtBUmdRLhFWqr,AUTOMÁTICO,Maria Becerra,LA NENA DE ARGENTINA,2022-12-09,False,47,0.0911,0.68,0.808,2.23e-06,0.205,-3.854,0.224,176.131,0.868,175317
+5NdRUKHYRteqJ7DNaSFbRJ,CUANDO HACEMOS EL AMOR,Maria Becerra,LA NENA DE ARGENTINA,2022-12-09,False,49,0.316,0.638,0.606,0.0,0.367,-3.982,0.0901,151.86,0.354,214009
+42nXC7Dau2SBHAQxtvro4r,Intro With Swizz - Skit,Eve,Scorpion (Deluxe),2021-03-05,False,0,0.969,0.681,0.417,2.14e-05,0.379,-23.463,0.5,93.091,0.0711,18594
+0z9HF4VbKHU7WpQBM8vm4g,Cowboy,Eve,Scorpion (Deluxe),2021-03-05,True,12,0.0164,0.781,0.809,0.0,0.192,-2.768,0.27,83.173,0.674,195164
+7dlpPjopQ2cHgkuK7CCN5W,Who's That Girl?,Eve,Scorpion (Deluxe),2021-03-05,True,22,0.0137,0.771,0.843,0.000518,0.0664,-4.351,0.182,96.42,0.529,281907
+3iYNJX4FTRGlfMQySjlGNr,Future Nostalgia,Dua Lipa,Future Nostalgia (The Moonlight Edition),2021-02-11,False,61,0.00618,0.875,0.813,0.0,0.321,-4.502,0.0579,114.993,0.859,184882
+2FlcxnvybdwpaMmMhaRtSN,Don't Start Now,Dua Lipa,Future Nostalgia (The Moonlight Edition),2021-02-11,False,70,0.0123,0.793,0.793,0.0,0.0951,-4.521,0.083,123.95,0.679,183290
+4Ulqu89XempybuL8ApUeqL,Cool,Dua Lipa,Future Nostalgia (The Moonlight Edition),2021-02-11,False,61,0.133,0.469,0.785,1.55e-06,0.0931,-4.015,0.0664,89.719,0.79,209583
+2NgiF6eqvymW9cKT0HPlg3,Skinny Love,PRSM,Skinny Love,2023-12-01,False,33,0.186,0.703,0.682,3.96e-05,0.122,-7.87,0.199,99.994,0.274,137705
+6knXMt7UIPPJveAtsP1Dq4,Don't Run Away,"Tyler James Williams, IM5",Let It Shine (Original Soundtrack),2012-06-12,False,61,0.0783,0.747,0.801,0.0,0.0656,-6.172,0.0493,126.798,0.713,176253
+6OYhXMCDHZ2FYJ7wozgob4,Guardian Angel,"Coco Jones, Tyler James Williams",Let It Shine (Original Soundtrack),2012-06-12,False,48,0.0127,0.564,0.934,0.0,0.301,-6.37,0.203,132.031,0.329,222133
+33pEKWX4isAp2xAp82gzbj,Me And You,"Coco Jones, Tyler James Williams",Let It Shine (Original Soundtrack),2012-06-12,False,58,0.183,0.619,0.894,9.48e-06,0.172,-5.127,0.0457,92.015,0.676,216600
+7zp9FOU4cjFdGN1zdWTvcB,TAKE IT OFF,"FISHER, Aatig",TAKE IT OFF,2023-06-23,True,74,0.000502,0.884,0.707,0.258,0.363,-6.607,0.202,127.013,0.582,194604
+0Ywnnq7lpBEmMTzPsj8ZxC,Południowy Biegun,Julia Żugaj,Świąteczne Harmonie,2023-12-01,False,33,0.000377,0.618,0.818,0.0,0.121,-7.054,0.038,142.85,0.554,174545
+2Rwtbjvj7QisnGnsqgOsi7,Zimowy Bal,Julia Żugaj,Świąteczne Harmonie,2023-12-01,False,32,0.579,0.651,0.453,3.89e-05,0.168,-10.212,0.0251,108.071,0.423,130778
+1QiwzpMh0z8K3z59VZJInv,Tyle Lat,Julia Żugaj,Świąteczne Harmonie,2023-12-01,False,32,0.0138,0.728,0.854,0.0,0.154,-6.361,0.0349,125.947,0.426,131429
+78whTQUB0qWESEYhVJcm4f,Miura P400,Sech,El Bloke Hills,2023-09-21,True,44,0.366,0.652,0.728,6.76e-05,0.186,-5.31,0.05,139.976,0.347,183215
+04YIYmjQ0GeIq7QMsmdor0,Reggaeton Drugs,Sech,El Bloke Hills,2023-09-21,True,49,0.226,0.694,0.747,0.000812,0.17,-4.568,0.0434,98.117,0.38,142000
+6uL89TPiBHaiIEhqK4sohb,Cafe Malibú,"Sech, Mora, Saiko",El Bloke Hills,2023-09-21,True,60,0.349,0.739,0.582,0.0,0.123,-7.661,0.0469,130.04,0.575,260307
+1UPHMJXoblTbOlRyZcSouK,Moje kurtki mają ślady od bójki,"VAE VISTIC, Michał Anioł",Omirya,2023-11-30,True,33,0.568,0.645,0.505,0.0,0.241,-6.819,0.081,125.637,0.546,144286
+3LpfBL0gvszRxTGfts30Gk,YOSHI,"VAE VISTIC, Kubi Producent",Omirya,2023-11-30,True,33,0.144,0.679,0.807,0.0,0.122,-5.548,0.163,140.052,0.445,183429
+4ZdEogtof3ehe7gozPoUUH,Oko w purpurze,"VAE VISTIC, Pezet",Omirya,2023-11-30,True,41,0.147,0.704,0.739,0.000143,0.309,-7.031,0.0949,140.036,0.382,194571
+776kuXQSyuw7GsWz9lxus3,VITAL,Droow,k2,2022-12-08,False,18,0.139,0.877,0.432,0.00559,0.113,-10.556,0.0481,119.986,0.466,164000
+1G9VEDrBkXR7YuTdDmzlfp,HUMO Y CAFÉ,Droow,k2,2022-12-08,False,24,0.0762,0.527,0.41,0.000138,0.119,-10.989,0.154,195.897,0.397,176327
+4t1SjKqQGpejrR7JPCbRco,SE DEJA VER,Droow,k2,2022-12-08,True,16,0.724,0.816,0.425,0.00945,0.109,-10.735,0.151,140.024,0.394,195429
+21EMnhfPmznmRtXVAa7XVw,Energy,Massano,Symbolism,2021-09-17,False,32,0.00927,0.646,0.64,0.909,0.111,-9.635,0.0436,124.004,0.116,407355
+4FUL4uq8rVwUbCT9VyDrq0,Energy - Raphael Mader Remix,"Massano, Raphael Mader",Symbolism,2021-09-17,False,29,0.126,0.593,0.656,0.887,0.0982,-10.845,0.039,122.998,0.238,362576
+7ekkXS4zj1yw1Kb9fMqC8v,In Your Eyes,Massano,Symbolism,2021-09-17,False,38,0.111,0.712,0.672,0.883,0.0864,-9.309,0.0538,121.989,0.122,393449
+6bRXONmpYZQOk8kj54FaRz,Annihilate - Spider-Man: Across the Spider-Verse,"Metro Boomin, Swae Lee, Lil Wayne, Offset",METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE [SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE (METROVERSE INSTRUMENTAL EDITION)],2023-08-04,False,58,0.219,0.61,0.515,0.0,0.194,-6.363,0.0644,145.818,0.205,231747
+46631VBdAu3LkySeMIHJtd,Am I Dreaming,"Metro Boomin, A$AP Rocky, Roisee",METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE [SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE (METROVERSE INSTRUMENTAL EDITION)],2023-08-04,False,62,0.0471,0.593,0.538,0.00189,0.184,-7.799,0.0386,90.088,0.128,256027
+2JHMRT2gvjh6P7ejierydm,All The Way Live - Spider-Man: Across the Spider-Verse,"Metro Boomin, Future, Lil Uzi Vert",METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE [SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE (METROVERSE INSTRUMENTAL EDITION)],2023-08-04,False,55,0.191,0.772,0.54,0.00243,0.216,-7.333,0.17,134.994,0.326,245240
+1e8Td90ZGztGpK94FGC6Ud,This Is Your Life - 2022 Remaster,En Vogue,Funky Divas (Expanded Edition) [2022 Remaster],2022-03-25,False,8,0.205,0.716,0.773,0.0,0.968,-7.102,0.104,108.473,0.781,305413
+0tZV6SSI2K5Be9A6U64cXy,My Lovin' (You're Never Gonna Get It) - 2022 Remaster,En Vogue,Funky Divas (Expanded Edition) [2022 Remaster],2022-03-25,False,15,0.024,0.749,0.805,1.67e-05,0.0708,-6.287,0.0711,98.038,0.415,282493
+753FswwoGwf6lt06RRNAhr,Hip Hop Lover - 2022 Remaster,En Vogue,Funky Divas (Expanded Edition) [2022 Remaster],2022-03-25,False,8,0.0216,0.903,0.595,1.14e-06,0.415,-8.482,0.14,104.008,0.774,313627
+0TzPcGalV2nb2LqRNDk543,No Te Sientes Igual,Manuel Turizo,2000,2023-03-17,False,45,0.191,0.576,0.699,1.19e-05,0.168,-8.627,0.0586,89.973,0.367,180004
+6JpUHnddHwv9cJ6sFD0nzM,Triste,Manuel Turizo,2000,2023-03-17,False,50,0.0477,0.702,0.62,3.03e-05,0.118,-7.077,0.166,123.008,0.0669,221777
+6lpGP2JvV7grJ8LBZ5obQS,El Merengue,"Marshmello, Manuel Turizo",2000,2023-03-17,False,51,0.0313,0.775,0.677,0.00517,0.112,-4.703,0.0442,124.011,0.698,189357
+1PPmg6kVul7vWToAv8QiNQ,Intro,FERNANDOCOSTA,Tirititando,2022-05-27,False,41,0.581,0.723,0.725,0.0,0.108,-9.206,0.46,94.899,0.736,159585
+3DtGkVAmRvhlYpEmfVDICa,100 problemas (feat. Foyone),"FERNANDOCOSTA, Foyone",Tirititando,2022-05-27,False,41,0.0867,0.719,0.728,0.0,0.208,-6.434,0.284,91.848,0.332,194000
+4SAy4v0GtZaRxSCvvzTJaO,Hasta Cuando,FERNANDOCOSTA,Tirititando,2022-05-27,False,57,0.158,0.588,0.598,0.0,0.0664,-7.692,0.139,95.645,0.265,199596
+53lzKjlVaL7iyFwp1bphde,Don't Give Up On Us,Nick Jonas,Spaceman (Deluxe),2021-03-15,False,27,0.0452,0.798,0.778,0.000116,0.112,-6.428,0.0881,111.955,0.34,201795
+0jhAsw5bb1pKJNO1XJV5Gs,Heights,Nick Jonas,Spaceman (Deluxe),2021-03-15,False,26,0.35,0.698,0.663,1.67e-05,0.112,-7.318,0.0498,104.977,0.599,217103
+0VxCttf0en2xoROcwVE0Mt,Spaceman,Nick Jonas,Spaceman (Deluxe),2021-03-15,False,29,0.324,0.548,0.601,0.0,0.107,-7.366,0.235,155.554,0.358,197000
+3sSlrxRD9X1jYCzBtbbiwg,Jonesboro,Young Thug,BUSINESS IS BUSINESS (Metro's Version),2023-06-26,True,49,0.51,0.567,0.66,1.14e-05,0.186,-6.357,0.317,108.81,0.262,163800
+332TO0w5iJ8h4h55Qq5a0R,Mad Dog,Young Thug,BUSINESS IS BUSINESS (Metro's Version),2023-06-26,True,44,0.00927,0.639,0.519,0.0,0.197,-6.334,0.238,160.404,0.359,229000
+2BR4cE9udCDcvZ2HtuLv3N,Uncle M,Young Thug,BUSINESS IS BUSINESS (Metro's Version),2023-06-26,True,45,0.0153,0.699,0.62,0.0,0.213,-6.664,0.069,142.104,0.266,140000
+5el1yANyqhFWsjLWGYpcTZ,OBVIO,Myke Towers,LVEU: VIVE LA TUYA...NO LA MIA,2023-11-23,True,72,0.152,0.83,0.535,0.0,0.181,-5.223,0.282,84.053,0.591,162448
+7iUtQNMRB8ZkKC4AmEuCJC,LA FALDA,Myke Towers,LVEU: VIVE LA TUYA...NO LA MIA,2023-11-23,True,81,0.372,0.8,0.738,0.00877,0.19,-4.26,0.0691,103.008,0.267,174230
+139mO3ryLnLwrO5hQMgWqM,COSMETICOS,Myke Towers,LVEU: VIVE LA TUYA...NO LA MIA,2023-11-23,True,74,0.48,0.775,0.742,1.33e-05,0.109,-4.398,0.247,179.909,0.421,141863
+6NxT9CHTUZx8BkOh6gCEvh,Disco Tool (Taiki Nulight Remix),"Matroda, Bleu Clair, Taiki Nulight",Disco Tool (Remixes),2021-10-29,False,50,0.000847,0.811,0.759,0.774,0.0551,-6.822,0.0467,126.049,0.423,217143
+655bVyFYERoWAPacZHEu97,Disco Tool (San Pacho Tech Mix),"Matroda, Bleu Clair, San Pacho",Disco Tool (Remixes),2021-10-29,False,31,0.00226,0.787,0.934,0.495,0.0827,-4.168,0.0545,124.953,0.666,182400
+1E90LzSUR4Hsfk3YeCwB7w,Disco Tool (David Herrlich Remix),"Matroda, Bleu Clair, David Herrlich",Disco Tool (Remixes),2021-10-29,False,18,0.00177,0.682,0.923,0.364,0.135,-7.109,0.0608,128.004,0.596,191654
+6JUbK7UNcxnbvQjsK07iyY,Al Borde,"Zetazen, PMP",Vacío Blanco,2021-11-11,True,29,0.697,0.507,0.486,9.37e-06,0.203,-10.189,0.0732,120.0,0.259,168364
+50VdSueNXcsf4hz7XUDmeG,404,"Zetazen, Recycled J",Vacío Blanco,2021-11-11,True,42,0.433,0.764,0.631,4.14e-06,0.0993,-7.049,0.128,99.991,0.252,201421
+4gD1joqaW2otfaUMShb4JR,Islandia,Zetazen,Vacío Blanco,2021-11-11,True,34,0.49,0.581,0.515,0.0,0.0928,-10.422,0.0332,150.267,0.558,220808
+7fwo5HLXjnGH2k5jXvCrO2,Novella,Jordan Critz,Novella,2022-04-08,False,35,0.949,0.361,0.154,0.979,0.0962,-16.361,0.0354,116.028,0.0625,211960
+2CHU4jx0WDXqgid08iZOB6,Starry Night,Jordan Critz,Novella,2022-04-08,False,54,0.97,0.432,0.137,0.937,0.0775,-17.478,0.0294,143.896,0.128,298320
+7Hg78pZZGdlI41pst7Fu8g,Imbre,Jordan Critz,Novella,2022-04-08,False,40,0.857,0.453,0.212,0.919,0.0888,-14.072,0.0317,127.883,0.0772,230000
+0j2Lt5qaqEobvoqrqpJlp7,Count on Me (Intro),NAV,Demons Protected By Angels (Bonus Version),2022-09-14,True,33,0.661,0.605,0.528,8.81e-05,0.137,-6.89,0.0931,79.953,0.299,126508
+3BwIj2cR0kfw72weUiTBaV,Baby,NAV,Demons Protected By Angels (Bonus Version),2022-09-14,True,34,0.0623,0.931,0.55,0.0,0.25,-8.632,0.192,132.103,0.621,162443
+0PjHA8ONcsmsZ1uuJocHvk,Dead Shot (with Lil Uzi Vert),"NAV, Lil Uzi Vert",Demons Protected By Angels (Bonus Version),2022-09-14,True,37,0.0431,0.837,0.654,0.0,0.172,-4.606,0.274,151.2,0.35,181355
+6NyZ2yToUkVN9EqDrf1IiT,Antisocial,"Javiielo, Nekxum",Trust No One,2023-11-03,True,43,0.16,0.854,0.648,5.35e-05,0.123,-4.082,0.298,91.989,0.358,166957
+7FDw1iCGQk8rRBzRQnBgws,La 40 Pa' Cuidarte,"Javiielo, Nekxum",Trust No One,2023-11-03,False,43,0.574,0.807,0.679,3.69e-05,0.131,-4.579,0.185,97.037,0.12,141699
+4TRbfD98ZO6ASeruZ66OL0,Sexting,"Javiielo, Anubiis, Nekxum",Trust No One,2023-11-03,True,37,0.716,0.681,0.59,0.0,0.197,-7.492,0.11,89.819,0.443,212667
+0HzOhZUf3Ew4x1sMTFU3SP,Feels Different,Brandy,Christmas With Brandy,2023-11-10,False,47,0.458,0.602,0.551,0.000984,0.234,-8.489,0.14,95.077,0.235,176361
+7MeJ8GQz5nUxjrai6tEf3J,Somebody's Waiting,Brandy,Christmas With Brandy,2023-11-10,False,46,0.601,0.392,0.543,0.000277,0.228,-6.492,0.0438,89.849,0.264,181721
+17k57GBQgEC9rfhsgepOoi,Christmas Party for Two,Brandy,Christmas With Brandy,2023-11-10,False,51,0.69,0.465,0.487,2.66e-05,0.103,-7.743,0.0361,134.515,0.269,234481
+433JQzP71mim8tYkCI2cxV,PLAYA X PLAYA,"La Pantera, BlueFire",PLAYA X PLAYA,2023-11-30,False,46,0.291,0.735,0.691,0.000319,0.12,-5.917,0.0424,100.048,0.624,159300
+3vr9p7j0IAhkj6xCVvSZup,LACOSTA,"Hard GZ, Marcelus Airlinez",LACOSTA,2023-11-17,False,51,0.593,0.696,0.621,2.05e-06,0.283,-6.917,0.313,93.031,0.587,176181
+22lIkwvJzk9TmHERxDvR1H,NUBES,"Hard GZ, Marcelus Airlinez",LACOSTA,2023-11-17,False,51,0.733,0.633,0.594,0.0,0.104,-11.337,0.311,92.407,0.724,214703
+463VPNMkJAbRUFYlEf8NMJ,EL CIELO,"Hard GZ, Kaze, Marcelus Airlinez",LACOSTA,2023-11-17,False,54,0.484,0.761,0.596,0.0,0.0641,-6.892,0.171,91.979,0.516,265918
+30bmc9ZRhqi4l9JrOADsV0,Fueled Up,Quavo,Rocket Power,2023-08-18,True,61,0.502,0.472,0.594,0.0,0.136,-6.47,0.0357,143.104,0.291,188751
+485mSqbTvp0pdiK0UW2wbt,Patty Cake (feat. Takeoff),"Quavo, Takeoff",Rocket Power,2023-08-18,True,65,0.0655,0.833,0.695,0.0,0.356,-5.395,0.18,144.08,0.455,133289
+69pERsAEF1iG84e1CxZJod,Mama Told Me,Quavo,Rocket Power,2023-08-18,True,52,0.0951,0.753,0.495,0.000247,0.135,-6.031,0.035,119.99,0.216,145045
+29VRZu5HMBhWL6sjCNlQNg,Es Lo Que Hay,Ricky Merino,Ricky Merino,2021-11-26,False,10,0.0032,0.798,0.711,0.000216,0.27,-5.807,0.0337,111.991,0.871,175995
+3OthGtHSUT61p4BecCygTy,El De Ayer,Ricky Merino,Ricky Merino,2021-11-26,True,6,0.0399,0.804,0.386,0.0,0.137,-8.043,0.0698,125.103,0.423,163410
+4j5Iv7DFTUTEw8JCG7en1P,Otra Vez,Ricky Merino,Ricky Merino,2021-11-26,False,6,0.0048,0.672,0.848,0.0,0.0866,-4.176,0.0353,128.002,0.86,187744
+6zsvDXNgIPcnfXsAceGkLH,MAN$ION,LIT killah,SnipeZ,2022-10-27,True,55,0.0897,0.853,0.729,0.0,0.058,-4.308,0.081,124.04,0.674,160409
+3iKdQ7C5XliDWw5JIUIfbc,Luz Verde,LIT killah,SnipeZ,2022-10-27,True,51,0.00882,0.648,0.5,0.0,0.421,-5.997,0.0388,93.983,0.199,180159
+3XQlzdBYy7aXYwdD82WSu7,Bad B*tches,"LIT killah, Rei",SnipeZ,2022-10-27,True,53,0.159,0.708,0.686,0.0,0.101,-5.471,0.0566,165.029,0.591,154182
+3cWmqvMwVQKDigWLSZ3w9h,Rockstar Made,Playboi Carti,Whole Lotta Red,2020-12-25,True,73,0.0398,0.773,0.612,0.0,0.142,-5.73,0.232,149.999,0.381,193575
+0F13K9dwYH2zpTWiR8d628,Go2DaMoon (feat. Kanye West),"Playboi Carti, Kanye West",Whole Lotta Red,2020-12-25,True,71,0.204,0.693,0.434,0.0,0.277,-8.786,0.385,147.066,0.542,119738
+2lLG56qpLP3UbcLuzMvkWX,Stop Breathing,Playboi Carti,Whole Lotta Red,2020-12-25,True,75,0.00637,0.856,0.57,0.0,0.0984,-4.486,0.286,154.967,0.155,218943
+7cu5mthywk97LwG4V463on,Tóxicos,Jowell & Randy,Viva el Perreo,2020-08-06,True,43,0.0179,0.852,0.814,3.11e-05,0.455,-5.1,0.0896,97.984,0.415,151317
+0Qb6O6yQvUZZSZTs2PVYsI,Bien Arrebatao,"Jowell & Randy, Miky Woodz",Viva el Perreo,2020-08-06,True,47,0.022,0.763,0.739,1.16e-05,0.152,-5.853,0.0726,179.983,0.757,212385
+3qwB1GLNMogyktLqN5ANBE,Perriando,Jowell & Randy,Viva el Perreo,2020-08-06,True,49,0.0822,0.661,0.656,0.0,0.109,-7.27,0.148,92.986,0.241,187363
+4zsN5MrNCnANOwyfXlIRcC,I Love You,"Tito ""El Bambino"", Jay Wheeler",El Muñeco,2020-12-18,False,37,0.185,0.734,0.817,4.08e-06,0.165,-4.479,0.201,168.076,0.768,181496
+6yTPAzXmuvE5E4J7zfUKIu,Se Va,"Tito ""El Bambino"", Farruko",El Muñeco,2020-12-18,False,29,0.0303,0.766,0.849,0.0,0.215,-1.987,0.0352,128.981,0.863,199320
+3jztoVZMBEaTX0bJDJREUB,Tímida,"Tito ""El Bambino"", Chencho Corleone",El Muñeco,2020-12-18,False,47,0.116,0.719,0.893,1.49e-06,0.0838,-5.214,0.0697,176.001,0.903,221933
+6g1q2DC2q09TvLbmkYkGko,Tangerine Trees,Tomek Ziętek,Some Old Songs,2023-11-29,False,23,0.0357,0.606,0.624,0.0131,0.115,-8.249,0.0249,97.933,0.783,152853
+7MbvOJSDQNB2HWFGLcMWyp,Right Time,Tomek Ziętek,Some Old Songs,2023-11-29,False,34,0.425,0.627,0.531,0.000199,0.123,-9.562,0.023,76.025,0.874,173373
+1iOB2whhdE8L8tspsrOQcL,Your Kiss,Tomek Ziętek,Some Old Songs,2023-11-29,False,20,0.658,0.494,0.286,0.00515,0.0976,-10.411,0.031,98.942,0.171,206416
+1LYTsT3oNJpieujoCLyx7a,Nothing Ever Changes - Mixed,The Black Dog,Mixmag Presents Charlotte de Witte (DJ Mix),2021-07-30,False,27,0.991,0.555,0.274,0.966,0.103,-23.547,0.0715,166.998,0.746,42749
+6Vrm248bAGYOd6XSt3XB7c,Ochen - Mixed,Shadowax,Mixmag Presents Charlotte de Witte (DJ Mix),2021-07-30,False,28,0.711,0.818,0.673,0.879,0.114,-17.49,0.0956,134.024,0.418,79251
+59g25pTsw9cZhSyn9UMXhy,We Fall - Mixed,Heerhorst,Mixmag Presents Charlotte de Witte (DJ Mix),2021-07-30,False,29,0.0265,0.583,0.807,0.856,0.119,-16.123,0.0515,134.245,0.328,318234
+6WrVjGhIm749e1rMEhYZbY,Snowman Pt. 1 - Lofi Soundscape,"Sia, Endel",Gimme Christmas (Lofi Soundscape),2023-09-10,False,2,0.172,0.517,0.424,0.847,0.133,-16.001,0.0342,80.013,0.288,140870
+3p4EFYuQGYofKSZL5HeIUi,Snowman Pt. 2 - Lofi Soundscape,"Sia, Endel",Gimme Christmas (Lofi Soundscape),2023-09-10,False,1,0.104,0.505,0.445,0.779,0.144,-13.556,0.0306,159.966,0.37,179410
+13nUQUsqIiqFyunTYurMIN,Snowman Pt. 3 - Lofi Soundscape,"Sia, Endel",Gimme Christmas (Lofi Soundscape),2023-09-10,False,1,0.115,0.56,0.446,0.767,0.155,-14.127,0.0354,160.037,0.306,204721
+3FEMjjoFRddZFkRqvgVzwW,Winner,"Matthew ""Mdot"" Finley",Winner,2022-12-12,False,8,0.000255,0.63,0.536,9.39e-06,0.154,-8.549,0.0312,92.972,0.0987,165281
+0e64VMVgTH94gBD2EUlGP1,I Apologize,"blue my mind, Adeema, XYSM",I Apologize,2023-10-05,False,48,0.165,0.656,0.785,0.000607,0.607,-8.944,0.0461,115.027,0.143,156000
+4ajpGKQETGGKXZIoHAUUGK,Still Feel (feat. Ailbhe Reddy) - ESSEL Remix Radio Edit,"Elaine Mai, Ailbhe Reddy, ESSEL",Still Feel (feat. Ailbhe Reddy) [ESSEL Remix],2023-11-17,False,18,0.000662,0.606,0.773,0.0866,0.165,-8.451,0.0321,123.995,0.359,176129
+5EUlFIaIRbTVsxRWeKV0qL,Still Feel (feat. Ailbhe Reddy) - ESSEL Remix,"Elaine Mai, Ailbhe Reddy, ESSEL",Still Feel (feat. Ailbhe Reddy) [ESSEL Remix],2023-11-17,False,10,0.000273,0.665,0.588,0.269,0.249,-8.531,0.032,123.981,0.583,234194
+70GgHLoMnMYrN2r8JUpCaB,Tu veneno,"Calero LDN, BOXINBOX",Rozando el cielo,2021-10-01,True,22,0.449,0.715,0.758,0.0,0.103,-6.847,0.0579,149.988,0.764,213000
+3lOwIYFB2jkHXKk9n9CeXQ,SIN TI,"Calero LDN, Nova Caeli, BOXINBOX",Rozando el cielo,2021-10-01,False,22,0.368,0.791,0.769,0.0,0.0989,-5.107,0.0852,103.029,0.362,218000
+60Ol2BUfD1wr0cqM4aDjYw,Ni bien ni mal,"Calero LDN, BOXINBOX",Rozando el cielo,2021-10-01,True,19,0.303,0.719,0.759,0.0,0.175,-6.379,0.0449,95.035,0.43,186000
+56XvJOt7PJhpGdZat5gwBf,Astralis,Boris Brejcha,Christmas Mix 2022,2023-12-01,False,48,0.000282,0.796,0.458,0.892,0.0983,-13.69,0.0796,125.003,0.17,462720
+6XNBYLafAnjLgJsQGDIvuI,Northern Lights,Boris Brejcha,Christmas Mix 2022,2023-12-01,False,36,0.000153,0.804,0.813,0.923,0.104,-7.633,0.0427,125.009,0.14,462720
+2Nyu250YEqbgzVSuxpq0V5,Just Do It,Boris Brejcha,Christmas Mix 2022,2023-12-01,False,35,0.000806,0.778,0.595,0.889,0.105,-10.714,0.0568,125.012,0.42,481920
+2Bxn2GOHx3oxPLAgCkfsxY,Ketuvim,Argy,The Interior Journey,2021-05-28,False,46,0.117,0.79,0.57,0.848,0.119,-9.978,0.0594,123.993,0.716,308000
+1R6LtnRNB7l9M0H3vcyzxn,A Course In Miracles,Argy,The Interior Journey,2021-05-28,False,20,0.0374,0.78,0.553,0.81,0.111,-10.325,0.131,125.046,0.194,277500
+1dGyr5lx5pApMOgaVj2n4L,Power Of Detachment,Argy,The Interior Journey,2021-05-28,False,37,0.0445,0.686,0.858,0.709,0.102,-8.528,0.043,123.982,0.0728,325500
+7r6ubHsaieaig4kORmmsDy,We Rock,Cast Of Camp Rock,Camp Rock,2008-01-01,False,52,0.00635,0.638,0.953,0.0,0.12,-3.491,0.11,143.849,0.799,190933
+5MTQbjkMmE6WsDQ8JlyEVo,Play My Music,Jonas Brothers,Camp Rock,2008-01-01,False,54,0.000652,0.471,0.875,0.0,0.239,-3.499,0.087,177.98,0.759,197507
+2oOCYaGkOpOB5HPo15cEGl,"Gotta Find You - From ""Camp Rock""/Soundtrack Version",Joe Jonas,Camp Rock,2008-01-01,False,57,0.0491,0.326,0.743,0.0,0.0874,-5.139,0.0352,80.475,0.459,241867
+0AbPAD8Ay2gUsBxqp0VHZF,Mi Gran Noche - Operación Triunfo 2017,Operación Triunfo 2017,Mi Gran Noche (Operación Triunfo 2017),2018-02-05,False,25,0.171,0.736,0.777,0.0,0.0888,-4.502,0.0357,138.931,0.926,181372
+3WnBG1gkpOHvOHjU2ZcXpQ,All About Me Intro,Xscape,Traces Of My Lipstick,1998-05-01,False,17,0.0347,0.856,0.424,0.0,0.295,-9.061,0.115,93.975,0.804,119800
+1dAF3TZnGrpEzEdOUyXG82,My Little Secret,Xscape,Traces Of My Lipstick,1998-05-01,False,43,0.371,0.814,0.431,0.0,0.335,-9.125,0.0936,129.957,0.542,268040
+7eLXeSNdNqnnWswqmgLsa7,Softest Place On Earth,Xscape,Traces Of My Lipstick,1998-05-01,False,42,0.415,0.773,0.309,0.00014,0.111,-8.5,0.0339,128.105,0.42,256720
+17M52WhfSLRyAu0T0UC7E1,INTRO,"Harry Nach, Tripper, Nikxz",FRÍO,2022-08-04,False,32,0.872,0.227,0.52,0.921,0.203,-12.606,0.06,73.906,0.13,40000
+3R3GUkBgCVQC1NMlmNtntv,COMO LAS DEMAS,"Harry Nach, Tom fomt",FRÍO,2022-08-04,True,54,0.307,0.793,0.628,0.000805,0.306,-6.613,0.0444,96.002,0.576,160000
+4j8FCRh7DoLXwANGZXZDYd,LOKOTRON,"Harry Nach, Aqua VS, Tom fomt, Savage Kreamly",FRÍO,2022-08-04,True,45,0.139,0.865,0.483,2.12e-05,0.233,-9.49,0.131,91.992,0.757,220700
+2Ul7codMpIxUYt9JQee6PZ,Pa Que Pichea,"Easykid, Dysbit","Sorry, Estoy en Mi Darkera",2023-07-27,False,57,0.228,0.355,0.881,1.06e-05,0.273,-4.485,0.079,196.192,0.391,162989
+6BdKAQJQkKthJdEoTvEJG1,Siempre Pienso en Tí,Easykid,"Sorry, Estoy en Mi Darkera",2023-07-27,True,59,0.139,0.753,0.718,1.28e-06,0.426,-6.264,0.0361,100.004,0.352,199687
+14RsJscbfqJ1wrMjzI5aOY,Coketa,"Easykid, Kris Floyd, Nyruz","Sorry, Estoy en Mi Darkera",2023-07-27,True,50,0.0248,0.731,0.895,6.54e-05,0.222,-5.382,0.0665,94.99,0.871,202693
+43HxXK7EpXJzNMb8M5SlqV,La Hoguera,Arce,Stand By,2022-06-21,False,44,0.116,0.57,0.655,0.0,0.111,-5.627,0.414,177.997,0.675,148315
+2YNceQwPb2gsZbElLrC5pI,Dile,Arce,Stand By,2022-06-21,False,49,0.293,0.708,0.532,0.0,0.0847,-4.067,0.339,86.017,0.301,206512
+57OQirVWqa5B3YQjXuyQxo,Globetrotters,"Arce, Carmona, Costa",Stand By,2022-06-21,True,29,0.167,0.805,0.604,0.0,0.212,-3.223,0.236,140.032,0.674,284571
+2nEZoTyLtm83Nvk8cNlQir,Pressure,"The High, Ruuben",Pressure,2023-08-18,False,27,0.17,0.629,0.858,0.000522,0.272,-7.187,0.11,128.071,0.364,141904
+3EDOwvDyNzrjM0i1sNoCX8,Pressure (Extended Mix),"The High, Ruuben",Pressure,2023-08-18,False,4,0.00924,0.705,0.531,0.00306,0.292,-7.944,0.205,127.997,0.558,183154
+04v1IMQMdemyNhfH5G2uyp,Ya No,Nicki Nicole,ALMA,2023-05-18,False,56,0.94,0.759,0.339,0.0036,0.11,-7.314,0.0274,98.047,0.47,171851
+6r0TaoZh1Oc1KkuL4rC1kB,DISPARA ***,"Nicki Nicole, Milo j",ALMA,2023-05-18,True,80,0.48,0.81,0.657,0.0,0.108,-2.978,0.155,89.972,0.698,143936
+1gs7YjXiXhGKXrv50fGlQo,NO voy a llorar :'),Nicki Nicole,ALMA,2023-05-18,False,58,0.633,0.751,0.48,3.62e-06,0.191,-5.71,0.0473,93.364,0.353,178874
+3fdXEMBTjHNJ5Bug5c7rZi,Mystery - Tale Of Us & Mathame Remix,"Adriatique, Mathame, Tale Of Us",Nude Remixes,2019-10-25,False,51,0.017,0.728,0.579,0.682,0.0654,-9.778,0.0525,124.005,0.0367,424431
+0tEXw5WFaX9QpSVB8T7U1f,Nude - Solomun Remix,"Adriatique, Solomun",Nude Remixes,2019-10-25,False,27,0.000203,0.755,0.735,0.866,0.102,-5.698,0.0413,124.988,0.28,484299
+4k7b4gCqMdY1MVE705dJB2,Tachykardia - Kobosil Remix,"Adriatique, Kobosil",Nude Remixes,2019-10-25,False,26,0.00103,0.756,0.755,0.903,0.112,-6.855,0.0733,124.996,0.0377,315447
+0za29dPt7X6gWCM3G8Mt2g,When everyone is asleep,Yehezkel Raz,There is no time,2021-12-02,False,18,0.988,0.346,0.000882,0.0456,0.0888,-32.469,0.0478,136.177,0.0326,50250
+60KNQwr1agdALmewmoPznZ,(217) Miles,Yehezkel Raz,There is no time,2021-12-02,False,16,0.989,0.435,0.133,0.918,0.089,-26.006,0.0258,140.342,0.119,242500
+5Ei0zRBIzN9WXvGwBz3CDL,Tint,Yehezkel Raz,There is no time,2021-12-02,False,15,0.985,0.373,0.0128,0.796,0.1,-25.525,0.0429,109.853,0.0846,285125
+4O158bZx1OCEpUpQLaM1xG,Fiel a mi plan,"Xcese, Chickjuarez",Don César,2023-11-16,True,16,0.00138,0.365,0.901,2.31e-05,0.106,-4.616,0.0688,112.096,0.126,246875
+65DJQcw5Oz5KAzuetp4lC5,Volvió el O.G.,Xcese,Don César,2023-11-16,True,16,0.0373,0.525,0.815,0.0,0.798,-5.162,0.159,83.095,0.703,178000
+1ax1p3hJVAwG13RLrHOuLh,Dice que me odia,"Xcese, Chickjuarez",Don César,2023-11-16,True,15,0.053,0.788,0.723,1.51e-06,0.396,-7.436,0.306,99.044,0.624,229091
+1tldBDywyXkVoL1ZqGOGGJ,Dark Spaces,Zak Down,Dark Spaces,2021-06-25,False,21,0.477,0.596,0.557,0.0934,0.158,-12.208,0.0606,99.966,0.0749,164587
+58075OzOMiH6noBYFGgt1d,Anochece,SWIT EME,Ikigai,2023-05-25,False,25,0.479,0.394,0.274,0.000936,0.141,-10.571,0.0323,114.914,0.074,104000
+0Mh2xeWXRDHOnnOErafu8d,Alma Perdida,SWIT EME,Ikigai,2023-05-25,False,34,0.257,0.697,0.801,0.0,0.109,-5.987,0.166,87.791,0.566,155000
+2lPEdMmuFyfYMBp88uz80y,Álbum de Fotos,SWIT EME,Ikigai,2023-05-25,False,32,0.237,0.677,0.694,0.0,0.0864,-8.206,0.278,89.951,0.639,236000
+2xMmmIOl2nUNZ2Dh7MS8rK,Code Red (feat. Missy Elliott & Laiyah),"Monica, Missy Elliott, Laiyah",Code Red,2015-12-18,True,16,0.0484,0.751,0.88,0.0,0.224,-5.662,0.289,135.062,0.795,264560
+5QWkNtNkhWLLKpQngO6S06,Just Right for Me (feat. Lil Wayne),"Monica, Lil Wayne",Code Red,2015-12-18,True,35,0.0698,0.519,0.821,0.0,0.0925,-4.582,0.146,130.012,0.538,200133
+6bEEZMWK9sr4LIUlpckKHd,Love Just Ain't Enough (feat. Timbaland),"Monica, Timbaland",Code Red,2015-12-18,True,17,0.106,0.515,0.496,0.0,0.189,-7.315,0.0601,169.452,0.355,202707
+6458NPlhSeU8lYBYPrAorR,Mi Cárcel - Capítulo I,"Mayo 214, Blues Proders, Seijas",Estas 4 Paredes,2023-01-27,False,40,0.928,0.543,0.521,0.0,0.0908,-7.993,0.0342,120.193,0.337,240150
+6Fsy5ICPhufKxpnV594y1A,Este Dolor (feat. Seijas) - Capítulo II,"Mayo 214, J Abecia, Toni Anzis, Seijas",Estas 4 Paredes,2023-01-27,False,41,0.589,0.543,0.439,3.28e-05,0.129,-9.427,0.0357,85.975,0.203,226441
+3N0USoFo1y3FSXTHxB23mg,Heridas - Capítulo III,"Mayo 214, Blues Proders, Seijas",Estas 4 Paredes,2023-01-27,False,32,0.019,0.631,0.605,8.81e-05,0.0911,-10.253,0.0289,120.005,0.527,274000
+0HtPqfv3gj21pFOkJm5bv3,Koa and the Five Pirates of Mara,Adrián Berenguer,Koa and the Five Pirates of Mara,2023-07-28,False,17,5.14e-05,0.645,0.857,0.905,0.101,-9.599,0.0333,100.531,0.973,143881
+693XNTPdSKcUw2tyOgjlbV,Summer Day,Adrián Berenguer,Koa and the Five Pirates of Mara,2023-07-28,False,16,0.404,0.755,0.747,0.693,0.0913,-11.054,0.0618,120.018,0.975,142500
+6p3nykLA09HLRgsc7JwBJ0,Navy Friends,Adrián Berenguer,Koa and the Five Pirates of Mara,2023-07-28,False,14,0.000737,0.537,0.921,0.902,0.125,-9.735,0.0393,180.05,0.969,137333
+2Yc3MHpZ9R5UCIz78E20AQ,ALAKRAN,Feid,FERXXOCALIPSIS,2023-12-01,False,73,0.039,0.692,0.633,4.09e-05,0.118,-3.085,0.0721,98.088,0.319,90613
+2FhmPPAersOD9YcQ9v8upy,50 PALOS,Feid,FERXXOCALIPSIS,2023-12-01,True,72,0.0942,0.719,0.669,2.41e-06,0.243,-2.032,0.069,93.932,0.666,167240
+01W6syCgxisKd0gDqFRdEG,LA VUELTA,"Feid, Mañas Ru-Fino",FERXXOCALIPSIS,2023-12-01,False,73,0.0416,0.835,0.824,2.52e-06,0.122,-3.928,0.288,93.932,0.323,121920
+4HQhkWIKKcTImkRxDRGGw3,Epicentro,Julia Medina,Epicentro,2021-09-30,False,22,0.0344,0.581,0.7,0.0,0.24,-4.665,0.0455,165.046,0.328,187500
+0bAemXX5S3mjXiYqGEWxhc,Idas Y Venidas,Julia Medina,Epicentro,2021-09-30,False,17,0.588,0.76,0.635,0.0,0.105,-6.333,0.036,103.948,0.596,209500
+4RNjmGxjeE1RA45DScpfJX,A Mordiscos,Julia Medina,Epicentro,2021-09-30,False,21,0.829,0.489,0.472,0.0,0.104,-7.323,0.0402,78.867,0.411,288000
+46BMW299GoqXOTXvHa97Kq,ADHD,Ostatni Dzień Lata,Ostatni Dzień Lata,2023-12-01,False,12,0.196,0.483,0.78,1.35e-06,0.127,-7.464,0.0472,167.818,0.845,142747
+62HOVx9K4q0WOYKaFx5XNU,O sto myśli mniej,Ostatni Dzień Lata,Ostatni Dzień Lata,2023-12-01,False,24,0.023,0.483,0.886,0.0935,0.298,-6.295,0.0493,97.957,0.454,180800
+1rWcBFPVXfUZpTigBfpXXQ,Jutro,Ostatni Dzień Lata,Ostatni Dzień Lata,2023-12-01,False,12,0.128,0.196,0.799,0.00312,0.541,-6.669,0.0814,77.572,0.724,176933
+4fDWFXAuaDtB7CPYQc1Oiz,Intro Broke & Famous,Ñejo & Dalmata,Broke & Famous,2007-01-01,False,23,0.0014,0.508,0.799,0.0452,0.186,-7.773,0.0692,85.086,0.206,90493
+6s2T0cUL8fCxivUgxz7sBE,Hoy Me Atrevo,Ñejo & Dalmata,Broke & Famous,2007-01-01,False,57,0.158,0.854,0.846,2.55e-05,0.0525,-6.641,0.146,98.004,0.805,208733
+3YuO6ZhURt5jlFvQexWhP8,Mirala,Ñejo & Dalmata,Broke & Famous,2007-01-01,False,47,0.229,0.747,0.787,0.0,0.108,-9.553,0.0988,97.985,0.658,210107
+4Br6Yr5pKaf1ehJ7bKPWO6,The Tradition,Halsey,"If I Can’t Have Love, I Want Power (Deluxe)",2022-08-31,False,46,0.797,0.436,0.267,0.0,0.111,-7.6,0.0298,103.092,0.264,226373
+1f9w8oZn54lhdqNLqWNxzR,Bells in Santa Fe,Halsey,"If I Can’t Have Love, I Want Power (Deluxe)",2022-08-31,True,45,0.616,0.65,0.495,0.00739,0.385,-8.196,0.0317,150.026,0.392,217653
+1xf77KU2haNuAJA3yGI9IV,Easier than Lying,Halsey,"If I Can’t Have Love, I Want Power (Deluxe)",2022-08-31,False,45,9.66e-05,0.499,0.845,0.321,0.129,-3.85,0.167,182.012,0.374,206347
+7r6ubHsaieaig4kORmmsDy,We Rock,Cast Of Camp Rock,Camp Rock,2008-01-01,False,52,0.00635,0.638,0.953,0.0,0.12,-3.491,0.11,143.849,0.799,190933
+5MTQbjkMmE6WsDQ8JlyEVo,Play My Music,Jonas Brothers,Camp Rock,2008-01-01,False,54,0.000652,0.471,0.875,0.0,0.239,-3.499,0.087,177.98,0.759,197507
+2oOCYaGkOpOB5HPo15cEGl,"Gotta Find You - From ""Camp Rock""/Soundtrack Version",Joe Jonas,Camp Rock,2008-01-01,False,57,0.0491,0.326,0.743,0.0,0.0874,-5.139,0.0352,80.475,0.459,241867
+6i4G85fdtDwK6UpQba337E,2 Much,Justin Bieber,Justice (The Complete Edition),2021-10-08,False,51,0.593,0.583,0.444,0.0,0.353,-8.601,0.0456,119.59,0.167,152796
+2t96tGXVqmNT9KbbIXyEP1,Deserve You,Justin Bieber,Justice (The Complete Edition),2021-10-08,False,49,0.0314,0.677,0.633,0.0,0.112,-7.831,0.0771,89.934,0.409,187239
+5RE1BlC2bVRL02T0wcLq2X,As I Am (feat. Khalid),"Justin Bieber, Khalid",Justice (The Complete Edition),2021-10-08,False,49,0.127,0.595,0.543,0.0,0.0975,-8.149,0.038,99.928,0.109,174406
+1lxFk1Pn1ge1wcIh7XoznU,Cabeza y Corazón,Dante,Horizonte,2021-12-03,True,27,0.886,0.63,0.524,1.45e-06,0.158,-12.172,0.374,84.921,0.467,207000
+4IzjK7xY4s5UZSLG7d8cl5,Fantasmas,Dante,Horizonte,2021-12-03,True,33,0.726,0.793,0.675,0.0,0.174,-10.316,0.276,91.113,0.63,130000
+71NCfen8tRTKuXW344hgOF,2020,Dante,Horizonte,2021-12-03,True,22,0.829,0.575,0.719,0.0,0.109,-14.01,0.54,170.707,0.202,178000
+1yaEZwbabqGa9BYXIRa0ua,Ki (feat. Daniel Habif),"Farruko, Oneill, Daniel Habif",La 167,2021-10-01,False,40,0.384,0.494,0.705,0.0,0.225,-4.487,0.13,171.868,0.133,210000
+7Crx42VpbY4h4qrz2q9DuH,La Tóxica,Farruko,La 167,2021-10-01,False,61,0.0882,0.659,0.701,0.0,0.0866,-4.107,0.164,91.97,0.623,180520
+2B4GHvToeLTOBB4QLzW3Ni,Pepas,Farruko,La 167,2021-10-01,True,72,0.00776,0.762,0.766,6.98e-05,0.128,-3.955,0.0343,130.001,0.442,287120
+0rSMaI0KjVMC532Xitwnb0,Os Ha Llegado la Hora,Iván Nieto,Amen,2017-05-09,True,14,0.00309,0.669,0.856,0.00145,0.0551,-4.91,0.213,130.036,0.349,170625
+4fk8QqZD3P1e03jRmorHgF,Mirame a la Cara,Iván Nieto,Amen,2017-05-09,True,18,0.0273,0.587,0.925,3.65e-06,0.111,-5.304,0.104,174.023,0.22,209317
+7L94wi4FT7Qza4MSbWChHo,Iguales,"Iván Nieto, Ocer y Rade",Amen,2017-05-09,True,30,0.222,0.467,0.701,0.0,0.0823,-6.253,0.427,177.066,0.246,226364
+7LMd7iyJyS2y3lGzYLuMQR,Harakiri,"Kaydy Cain, Aqua VS, Harry Nach",Harakiri,2023-11-29,True,43,0.121,0.865,0.607,1.5e-05,0.0984,-7.188,0.244,112.993,0.399,225315
+3nwaVdnXeMBqL3q8QjVtOI,Me Cuesta la Vida,Mireya Bravo,Tu Reflejo,2018-06-22,False,11,0.162,0.578,0.698,0.0,0.12,-6.243,0.0452,159.812,0.451,208781
+11Zaech6Qw2fLM8LYzjjin,Corazón Vendío,Mireya Bravo,Tu Reflejo,2018-06-22,False,18,0.209,0.845,0.719,0.0,0.0522,-4.988,0.0667,98.019,0.526,186114
+5j2WR1tffSBqNZrdKjucST,Mentiras de Papel,Mireya Bravo,Tu Reflejo,2018-06-22,False,12,0.189,0.702,0.674,0.0,0.0678,-5.69,0.0338,95.03,0.593,193263
+10MB5BRNILT229BsnB2oRU,BARCELONA,"Polimá Westcoast, Standly, Bad Gyal",DE CAMINO A HERMES,2023-11-08,True,64,0.00506,0.746,0.778,1.4e-05,0.109,-4.146,0.0454,91.972,0.411,243913
+2ovkVowpkJuGPTpArt16h3,USHUAIA,"Polimá Westcoast, Nio Garcia",DE CAMINO A HERMES,2023-11-08,True,59,0.074,0.767,0.781,7.15e-05,0.0984,-4.006,0.113,104.005,0.638,218077
+19gLERR7ZX8NNCCMnP1jjR,GATO & GATA/POPULAR,Polimá Westcoast,DE CAMINO A HERMES,2023-11-08,False,47,0.0572,0.498,0.757,0.0,0.094,-4.348,0.365,179.617,0.469,261137
+2g7C6cihBai7u7RGgK6qZ1,Tranquility I,"Max Richter, Clarice Jensen, Brian Snow",SLEEP: Tranquility Base,2023-02-24,False,42,0.994,0.145,0.00152,0.934,0.0784,-46.653,0.0434,102.983,0.0836,83000
+3C6SnHzfIxlUFyVPK7vqJG,Tranquility II,"Max Richter, Grace Davidson, Clarice Jensen, Brian Snow",SLEEP: Tranquility Base,2023-02-24,False,46,0.965,0.206,0.0129,0.856,0.13,-31.713,0.0439,70.553,0.0444,82229
+3rr5HvlPYOO6m219tdofPG,Tranquility III,"Max Richter, Grace Davidson, Clarice Jensen, Brian Snow",SLEEP: Tranquility Base,2023-02-24,False,37,0.597,0.191,0.0594,0.907,0.114,-28.967,0.0376,69.871,0.0367,123521
+71C8UYVhQFyfebDmJR2AXw,Severe Clear,Tony Anderson,Debris,2022-09-09,False,23,0.912,0.111,0.274,0.864,0.672,-20.636,0.0472,88.815,0.0399,256999
+5UugEVTyaRJXXNQivsWqFD,Collapse,Tony Anderson,Debris,2022-09-09,False,19,0.638,0.119,0.717,0.892,0.411,-24.314,0.0869,84.729,0.0216,141997
+3piWXwyyM3DnfB3tCgYuLR,"On This Day, Tuesday",Tony Anderson,Debris,2022-09-09,False,18,0.863,0.29,0.381,0.863,0.119,-26.172,0.0643,115.004,0.0423,55009
+1GBBbKOarAJ38HwIfLcOji,Eternity,"Anyma, Chris Avantgarde",Genesys,2023-08-11,False,70,0.00316,0.606,0.861,0.844,0.113,-6.332,0.0406,125.005,0.313,186240
+7hV8vZMezoQdSdvsi70Ioa,Welcome To The Opera (with Grimes),"Anyma, Grimes",Genesys,2023-08-11,False,63,0.00983,0.341,0.918,0.335,0.455,-6.401,0.0548,124.994,0.0411,245280
+44OT4QbPqu2ZLXVkVSW6VG,Chordial,Anyma,Genesys,2023-08-11,False,50,0.00267,0.667,0.847,0.815,0.101,-8.082,0.0389,122.993,0.133,222470
+4w1qoT3PeCj0qpyt0ut6Fq,Dance,Toni Braxton,Spell My Name,2020-08-28,False,37,0.00587,0.802,0.643,0.000803,0.552,-6.024,0.0683,112.008,0.926,232170
+2CSuJJWjb35CmAwjzf3CNX,Do It (with Missy Elliott),"Toni Braxton, Missy Elliott",Spell My Name,2020-08-28,False,35,0.0434,0.699,0.684,0.0,0.428,-7.077,0.0779,91.03,0.353,204633
+6ZeFPc7KUp9RH4s0Skj24H,Gotta Move On (feat. H.E.R.),"Toni Braxton, H.E.R.",Spell My Name,2020-08-28,False,45,0.0418,0.554,0.352,0.000365,0.0895,-6.658,0.0302,67.011,0.374,258125
+1BWQoJP3g9gb41nIYxSORo,Universo,Agents Of Time,Universo,2022-10-14,False,26,0.134,0.536,0.634,0.856,0.25,-9.947,0.0292,125.953,0.318,146645
+2xohxBkUSdqh7caDzorSLL,Fallin,"Agents Of Time, Audrey Janssens",Universo,2022-10-14,False,18,0.0121,0.723,0.72,0.39,0.166,-6.609,0.0373,129.976,0.766,227676
+3ZZCnrbd7Vxec1QPEP8i5g,Interstellar Cowboy,Agents Of Time,Universo,2022-10-14,False,34,0.0141,0.786,0.66,0.191,0.104,-7.347,0.0385,126.013,0.352,413312
+5LYMamLv12UPbemOaTPyeV,Music For a Sushi Restaurant,Harry Styles,Harry's House,2022-05-20,False,78,0.258,0.72,0.715,0.0568,0.107,-4.652,0.04,107.041,0.357,193813
+1qEmFfgcLObUfQm0j1W2CK,Late Night Talking,Harry Styles,Harry's House,2022-05-20,False,85,0.298,0.714,0.728,0.0,0.106,-4.595,0.0468,114.996,0.901,177955
+4j6kId9QIqhoXvqHKgSKa0,Grapejuice,Harry Styles,Harry's House,2022-05-20,False,74,0.357,0.645,0.721,0.143,0.204,-4.394,0.0336,182.928,0.88,191959
+1ebJkSxcO6QeX1FZZ7IR2u,EL NIÑO,RAOUL,EL PECADO,2023-06-02,False,21,0.908,0.349,0.267,4.01e-05,0.1,-11.448,0.0356,90.974,0.656,91587
+2A1trdlltyU4LeEaNb8RUD,PRISIONERO,RAOUL,EL PECADO,2023-06-02,False,22,0.609,0.613,0.414,0.000666,0.307,-7.496,0.176,179.978,0.414,147587
+2m5jf6MlN3lnCrOPSifKIN,UN GANADOR,RAOUL,EL PECADO,2023-06-02,False,21,0.357,0.617,0.7,0.00493,0.189,-7.752,0.0616,114.916,0.353,189053
+6wQaKs1COnCnqPIsIKsccx,Fall Back Down,"PALASTIC, James French",Fall Back Down,2023-09-15,False,58,0.112,0.611,0.871,0.015,0.191,-7.087,0.0393,126.063,0.254,191101
+3FHbLrB0YtEkVAkOVl516Z,Fall Back Down - Extended,"PALASTIC, James French",Fall Back Down,2023-09-15,False,18,0.24,0.667,0.769,0.394,0.107,-8.986,0.0609,126.023,0.122,446696
+7CAUCor77enYo6ZCwHtiRC,Like You,Amés,Like You,2023-08-18,False,39,0.21,0.654,0.814,0.114,0.0991,-7.181,0.036,121.974,0.355,144606
+03zQBNQWnXekVBTbMIrrMi,NOMBRE DIRECCIÓN,"Kaze, Toni Anzis",NOMBRE DIRECCIÓN,2023-11-30,False,45,0.128,0.671,0.343,0.0,0.132,-9.913,0.503,167.814,0.676,130000
+6HrVhNq1hhfmpp4m0qdt8Z,T K T,"Kaze, Toni Anzis",NOMBRE DIRECCIÓN,2023-11-30,False,43,0.00329,0.818,0.721,0.000275,0.0577,-6.38,0.196,141.951,0.437,180846
+43y7AvcG0HjDSO46RxA8lX,GUAPA CABREÁ,"Kaze, Toni Anzis, Ptazeta",NOMBRE DIRECCIÓN,2023-11-30,False,47,0.00825,0.898,0.731,0.000115,0.0939,-2.918,0.0811,124.953,0.946,134445
+20FmDZvBw0RzESCu8mQL4g,Mafia Chilena: LOS CHICHOS,ITHAN NY,Mafia Chilena,2023-12-01,False,37,0.0324,0.671,0.78,0.0,0.752,-6.237,0.0599,87.91,0.462,122386
+2gaJkW0XaO5GIAd47YAsKN,Mafia Chilena: MAFIA,"ITHAN NY, Drakomafia, JulianoChieff",Mafia Chilena,2023-12-01,False,37,0.0853,0.617,0.673,0.0,0.087,-6.728,0.301,140.236,0.284,163714
+2lcIN8Y9oy2Uq0gOvSJapf,Mafia Chilena: WHIPPING,"ITHAN NY, Piero 47",Mafia Chilena,2023-12-01,False,38,0.0424,0.639,0.769,0.0,0.245,-6.892,0.0663,109.106,0.317,180550
+4YhZ7ZwfkVbrNyR5WkL35d,One Too Many Tries - BOILERS Remix,"Louise CS, Lillebror, BOILERS",One Too Many Tries (BOILERS Remix),2023-11-03,False,32,0.00677,0.697,0.836,2.07e-06,0.153,-6.523,0.0408,126.972,0.437,152244
+0FcZM4SaXoYKR8T70S5DLd,Tình Đầu Khi Không Còn Em,Ryan,Tình Đầu Khi Không Còn Em,2020-07-02,False,3,0.837,0.601,0.173,0.0,0.0913,-15.003,0.0392,123.915,0.149,313579
+0qa2kasy9c7A6WNo7InrX7,Noche,"Ray Menace, Tobal Mj, Tunechikidd",Noche,2023-11-01,False,32,0.136,0.733,0.448,0.0,0.13,-12.729,0.19,89.993,0.361,195736
+2CcSyPbrU5qToZpr0OeELW,One In A Million,Aaliyah,Ultimate Aaliyah,2005-05-10,False,30,0.0437,0.717,0.584,1.18e-05,0.044,-4.091,0.0504,121.901,0.344,273027
+5IpIEOtweX53CVvPxJdLlG,If Your Girl Only Knew,Aaliyah,Ultimate Aaliyah,2005-05-10,False,31,0.159,0.836,0.737,9.27e-05,0.116,-3.46,0.0365,88.408,0.815,292173
+5vTnc50bPmwoe4pa1mXwgK,Hot Like Fire,Aaliyah,Ultimate Aaliyah,2005-05-10,False,26,0.0954,0.727,0.715,2.04e-05,0.325,-5.289,0.107,80.966,0.665,264733
+6YnruFEY5MaUZINP4lIHfr,I'M EVERY WOMAN,Deborah Cox,I WILL ALWAYS LOVE YOU,2017-03-31,False,17,0.0555,0.696,0.829,1.93e-05,0.0606,-4.793,0.0569,118.972,0.539,280280
+4JDI6iQU0k5pYZXTWwewZN,I HAVE NOTHING,Deborah Cox,I WILL ALWAYS LOVE YOU,2017-03-31,False,18,0.595,0.384,0.501,0.0,0.166,-6.036,0.0422,152.663,0.184,300560
+5R0ePbaytDxuxJ4tqP3MbE,ALL THE MAN I NEED,Deborah Cox,I WILL ALWAYS LOVE YOU,2017-03-31,False,19,0.14,0.597,0.573,0.0,0.153,-5.733,0.0301,75.538,0.224,235840
+0fTGL7IzfUAmVFMoAfLpBU,Out of Brain - Mixed,"Boris Brejcha, Deniz Bul",FCKNG SERIOUS - FIVE YEARS Homesession (DJ Mix),2020-09-04,False,10,0.000137,0.792,0.622,0.874,0.114,-11.053,0.0543,124.009,0.0678,555600
+3Oioa8uvyD9neqqJvedYb8,Hailstorm - Mixed,Theydream,FCKNG SERIOUS - FIVE YEARS Homesession (DJ Mix),2020-09-04,False,11,0.00522,0.47,0.857,0.56,0.101,-7.888,0.0418,124.737,0.0602,325960
+1Ez9GGcr5O5c40p0RcRVd4,Faith - Mixed,Ann Clue,FCKNG SERIOUS - FIVE YEARS Homesession (DJ Mix),2020-09-04,False,24,0.000268,0.804,0.572,0.818,0.101,-10.039,0.0461,124.048,0.0773,232160
+4NuFl9q8DfCb6vJV9i3lyz,Ignition Key,Adam Beyer,Ignition Key,2002-09-25,False,11,4.27e-05,0.537,0.941,0.871,0.0709,-7.788,0.0319,132.002,0.424,484747
+31MXRr6p6vYhUIpklMGh5g,Sthlm,Adam Beyer,Ignition Key,2002-09-25,False,10,1.21e-05,0.687,0.955,0.858,0.104,-8.125,0.0532,132.002,0.961,292827
+403ssSO3PJlckvgHr9Px0L,Flamethrower,Adam Beyer,Ignition Key,2002-09-25,False,9,0.0398,0.599,0.819,0.114,0.134,-7.411,0.0521,125.982,0.579,338041
+6O4fgFpzBg3jYAZntlciiB,Ghost,"LANDR, Colone",Ghost,2022-10-14,False,10,0.0423,0.639,0.7,0.00135,0.111,-8.617,0.0428,119.962,0.251,164000
+6ZZ7nA0oAcGzSB2bpR2uuE,H.O.P.E.,Hozho,"Singles Collection, Vol. 1",2019-09-25,False,31,0.0664,0.712,0.474,0.745,0.0998,-11.715,0.0516,127.026,0.0839,569783
+5twhdTf9EcTpEZZBEn7of4,Control Yourself,Hozho,"Singles Collection, Vol. 1",2019-09-25,False,30,0.0952,0.8,0.545,0.747,0.11,-11.732,0.045,124.982,0.237,372505
+3mP9fqeY5kKb2j4Np2wiGf,Realities,Hozho,"Singles Collection, Vol. 1",2019-09-25,False,35,0.0108,0.788,0.499,0.742,0.107,-10.092,0.0436,127.009,0.211,515910
+3sVuWmggRqfAK3qk7OIEAz,BB,"MYA, Emilia",SUENA MYA!,2021-11-23,False,60,0.137,0.769,0.764,0.0,0.088,-4.709,0.181,88.06,0.846,156326
+1QpmpEDCrlVJJfyt5eFYSS,Online,MYA,SUENA MYA!,2021-11-23,False,42,0.146,0.737,0.796,0.0,0.0895,-3.142,0.0805,168.07,0.856,165364
+6lobzm99pbHbAadY6VdMgd,La Difícil,"MYA, FMK",SUENA MYA!,2021-11-23,False,43,0.0701,0.774,0.7,0.0,0.0673,-3.283,0.0786,167.887,0.798,165647
+6GLATZeuyPYDhYs5VEOq7s,Be Somebody,"Otto Knows, Alex Aris",Be Somebody,2023-05-05,False,43,0.132,0.708,0.885,0.866,0.612,-5.733,0.0617,124.903,0.377,240000
+054mLFn8Dtx8bIO85NYWYZ,Welcome To OG City,Miky Woodz,OG CITY,2023-04-20,True,36,0.186,0.725,0.784,0.0,0.355,-6.008,0.306,143.773,0.736,161695
+7Afw4NNhLzcaJ0okcBN6gA,Por Mi Lau,Miky Woodz,OG CITY,2023-04-20,True,40,0.303,0.68,0.66,0.0,0.341,-4.467,0.216,163.978,0.352,188819
+57iiuZKwlmXH9F0sg8YUUM,Me Quieres Mentir,Miky Woodz,OG CITY,2023-04-20,True,34,0.444,0.784,0.778,0.0,0.163,-3.799,0.0985,93.98,0.319,220960
+2M3GwgWQ2Z0swHkap5gWCm,PLAYA SATURNO INTRO,Rauw Alejandro,PLAYA SATURNO,2023-07-07,True,60,0.869,0.53,0.322,1.69e-05,0.355,-10.105,0.0532,85.757,0.608,75415
+4OVHxReloGwGriqVFF2M79,CUANDO BAJE EL SOL,Rauw Alejandro,PLAYA SATURNO,2023-07-07,True,70,0.327,0.794,0.756,0.0,0.334,-2.4,0.0641,99.977,0.568,166740
+110wwp2SRousmXjvx8zIoI,AL CALLAO',Rauw Alejandro,PLAYA SATURNO,2023-07-07,True,78,0.284,0.688,0.682,1.67e-06,0.11,-3.836,0.247,104.992,0.709,242820
+2WAufixPkOjvrBtAdQQTbr,trademark usa,Baby Keem,The Melodic Blue (Deluxe),2022-10-28,True,56,0.108,0.613,0.6,1.67e-06,0.274,-5.621,0.281,130.732,0.067,270671
+6ujdLuZXkyp4yKOZSE64nM,pink panties,Baby Keem,The Melodic Blue (Deluxe),2022-10-28,True,51,0.00898,0.653,0.547,0.0,0.116,-6.324,0.171,93.631,0.248,163509
+0s2eTTKN5deHJttejOJDhg,scapegoats,Baby Keem,The Melodic Blue (Deluxe),2022-10-28,True,51,0.923,0.585,0.437,0.0,0.154,-7.145,0.223,80.178,0.618,76832
+4wT8W7JV8CuHNS5GH40sXT,O Holy Night,James Quinn,A Gentle Christmas,2023-12-01,False,18,0.991,0.309,0.0138,0.892,0.112,-28.701,0.0383,150.686,0.168,173563
+6OzRKgOXzv6JjuWvXDjdEy,In The Bleak Midwinter,James Quinn,A Gentle Christmas,2023-12-01,False,17,0.995,0.395,0.0145,0.928,0.0747,-29.816,0.0393,88.913,0.29,145910
+1RZ5fiCklPgeWBbtgw5cny,O Little Town Of Bethlehem,James Quinn,A Gentle Christmas,2023-12-01,False,17,0.993,0.476,0.109,0.919,0.0941,-25.889,0.0434,120.18,0.284,112875
+1O5HGqTyQwb0N87beG7mLC,"Intro (feat. Alex Santos, Valentino Santos & Solano Santos)","Romeo Santos, Katt Williams, Alex Santos, Valentino Santos, Solano Santos","Fórmula, Vol. 3",2022-09-01,False,48,0.691,0.569,0.189,1e-05,0.359,-13.386,0.438,145.402,0.265,101400
+7HsebNHZDGj8UhWIrZaMx6,Bebo,Romeo Santos,"Fórmula, Vol. 3",2022-09-01,False,69,0.105,0.765,0.878,0.0,0.314,-3.649,0.0465,125.046,0.96,235733
+6mjhmQB61lSVhgcmOFJv9L,Ayúdame,Romeo Santos,"Fórmula, Vol. 3",2022-09-01,False,63,0.108,0.811,0.81,0.0,0.0627,-3.748,0.0422,124.053,0.75,224427
+4drTfZwGTDNrbg3dQ17d0w,Love Me More,Sam Smith,Gloria (Special Edition),2023-04-12,False,44,0.447,0.783,0.404,1.84e-05,0.176,-6.39,0.0722,85.004,0.476,203135
+6uHyUNwt9h4Q1Um222MDai,No God,Sam Smith,Gloria (Special Edition),2023-04-12,False,43,0.406,0.616,0.509,0.000296,0.109,-7.663,0.141,89.82,0.152,197394
+0rqtmKms6Wv2yvLrK4CrKH,Hurting Interlude,Sam Smith,Gloria (Special Edition),2023-04-12,False,4,0.987,0.447,0.484,0.806,0.186,-20.303,0.325,134.258,0.932,18338
+15pIWUsFWtp3lMIYcVcRep,Unreality,"Mathame, Small Black",MEMO,2023-06-30,False,32,0.672,0.534,0.418,0.539,0.11,-12.543,0.044,127.933,0.0395,258750
+7uNcS4pnF8GQIVLGXFNAQj,Feel Your Ghost,"Tiësto, Mathame",MEMO,2023-06-30,False,56,0.00921,0.732,0.895,0.000101,0.703,-3.936,0.0603,133.029,0.442,205260
+5f6XJFi9DluZrOilfnNDD1,Come For You,Mathame,MEMO,2023-06-30,False,42,0.139,0.5,0.531,0.846,0.159,-10.372,0.0297,124.956,0.0635,224640
+64cEwldF0EC7g7fRYK7PDF,Over,Marino Canal,Over Under,2016-08-19,False,6,0.0204,0.616,0.71,0.851,0.105,-17.234,0.0483,123.0,0.116,313040
+7DjGDnZOUAEmlCAYYWRhFo,Rubirosa,Marino Canal,Over Under,2016-08-19,False,6,0.000785,0.587,0.725,0.786,0.137,-11.024,0.0328,125.011,0.3,339200
+3GOaucdpe3U8y7fB2GDoEO,Solace,Marino Canal,Over Under,2016-08-19,False,5,0.417,0.691,0.715,0.866,0.104,-13.274,0.0432,123.013,0.441,447683
+6NtEyIBt9KpNF1a1Om367P,60 Barras,Noriel,Cerrando Capítulo,2021-12-03,True,40,0.504,0.872,0.926,0.0,0.252,-3.283,0.301,129.943,0.361,187695
+3j85wOfRE12YUnUL4enGxI,Mala Influencia,"Noriel, Manuel Turizo",Cerrando Capítulo,2021-12-03,False,33,0.132,0.796,0.717,0.0,0.0511,-4.843,0.261,99.956,0.594,194580
+14GuTVQHLBma9CixOi9JdS,Sin Miedo a Morir,"Noriel, Brray",Cerrando Capítulo,2021-12-03,True,25,0.26,0.882,0.847,0.0,0.0703,-4.291,0.214,90.964,0.855,181348
+1JDOFpGNaLnAd9uCEkgm7S,MAYBACH,"Drago200, Ak4:20",INMORTALES,2021-08-27,True,33,0.186,0.76,0.767,0.0,0.156,-5.341,0.196,89.988,0.652,142750
+2MGpqHciSe1LhNU9HA94tY,HOOD,"Drago200, Ak4:20",INMORTALES,2021-08-27,True,26,0.0613,0.573,0.696,0.0,0.325,-5.594,0.325,88.508,0.311,186134
+3xUKKV1A2XXl7j1QBioIQ3,ESE BOO,"Drago200, Ak4:20",INMORTALES,2021-08-27,True,30,0.0204,0.75,0.771,0.0,0.0564,-3.463,0.258,179.972,0.671,132685
+5LjOMGBzyCSBF6rhEKuhTQ,Analogy,Stephan Jolk,Analogy,2020-05-29,False,5,0.0475,0.75,0.617,0.918,0.114,-11.167,0.0384,123.005,0.187,400427
+0s6zeig9t0njAWJgqrERVI,Cylon,Stephan Jolk,Analogy,2020-05-29,False,4,0.000229,0.79,0.746,0.904,0.0868,-11.185,0.0559,124.989,0.419,330103
+4V7FhqLh1UI8UhUGZkDnMI,Esplora,Stephan Jolk,Analogy,2020-05-29,False,3,0.0195,0.5,0.292,0.869,0.102,-13.121,0.0672,125.993,0.101,329560
+49Br4XqYMOBlwM2YRGPQYy,Madrid,Juhn,Madrid,2023-12-01,True,43,0.371,0.768,0.599,0.0,0.0935,-5.953,0.345,88.909,0.541,177613
+6Odjp2wB7SbeBGq9k2H9HF,Push To Start - t e s t p r e s s Remix,"Noizu, Westend, t e s t p r e s s, No/Me",Push To Start (t e s t p r e s s Remix),2023-12-01,False,40,0.0131,0.532,0.999,0.451,0.0681,-6.603,0.0788,74.987,0.847,158400
+6iKFebFmd3r98aV2QOS9RG,Básicamente,Sebastian Yatra,Dharma +,2022-07-29,False,41,0.336,0.533,0.596,0.0,0.126,-6.185,0.0474,125.937,0.313,145000
+03ZfKUIydhz85Dof18k7nI,Dharma,"Sebastian Yatra, Jorge Celedón, Rosario",Dharma +,2022-07-29,False,41,0.134,0.468,0.962,0.0,0.174,-3.25,0.331,78.758,0.766,195760
+38hFnK6nxBx6muZixBbh4k,Modo Avión,Sebastian Yatra,Dharma +,2022-07-29,False,40,0.132,0.684,0.815,0.0,0.0981,-4.747,0.0758,140.011,0.627,171053
+7r6ubHsaieaig4kORmmsDy,We Rock,Cast Of Camp Rock,Camp Rock,2008-01-01,False,52,0.00635,0.638,0.953,0.0,0.12,-3.491,0.11,143.849,0.799,190933
+5MTQbjkMmE6WsDQ8JlyEVo,Play My Music,Jonas Brothers,Camp Rock,2008-01-01,False,54,0.000652,0.471,0.875,0.0,0.239,-3.499,0.087,177.98,0.759,197507
+2oOCYaGkOpOB5HPo15cEGl,"Gotta Find You - From ""Camp Rock""/Soundtrack Version",Joe Jonas,Camp Rock,2008-01-01,False,57,0.0491,0.326,0.743,0.0,0.0874,-5.139,0.0352,80.475,0.459,241867
+6bDMSQJWQ7qnYolQ73Hq2H,Anthem,Dru Hill,Dru Hill (Deluxe Edition),2021-12-03,False,8,0.0244,0.76,0.421,0.000616,0.172,-10.9,0.0667,97.053,0.764,59733
+6KE5qpoe6ZSqIjrYblFWBV,Nothing To Prove,Dru Hill,Dru Hill (Deluxe Edition),2021-12-03,False,9,0.196,0.731,0.586,0.0,0.0678,-9.174,0.0547,91.902,0.65,247600
+0V1kUexgMFdP7S9fpwd7f6,Tell Me,Dru Hill,Dru Hill (Deluxe Edition),2021-12-03,False,14,0.231,0.728,0.301,0.0,0.145,-9.983,0.0325,130.155,0.532,253667
+6ISjZP3QyQapi7wpmIiWSp,SSM Foreva,Julianno Sosa,El Rey De Los Trenches,2023-02-24,True,33,0.0986,0.604,0.747,0.0,0.106,-5.573,0.197,173.748,0.607,176552
+3WlkTZHCaHlWPX54UL3fpG,Te Mintieron,Julianno Sosa,El Rey De Los Trenches,2023-02-24,True,36,0.0623,0.848,0.829,0.00114,0.127,-5.824,0.0854,104.956,0.519,155429
+0jHq07f9WWNC9lBG01aoRN,En El Trap,Julianno Sosa,El Rey De Los Trenches,2023-02-24,True,32,0.104,0.818,0.704,5.4e-05,0.176,-5.914,0.0611,105.013,0.572,150857
+4Ho9uIrilCZEFLQKj3kuFN,A Billion,"Faith Evans, The Notorious B.I.G.",The King & I,2017-05-19,False,24,0.675,0.306,0.396,0.0,0.232,-8.693,0.0307,34.498,0.308,60133
+3TaB7A1jlJJW2fWbdkscIh,Legacy,"Faith Evans, The Notorious B.I.G.",The King & I,2017-05-19,True,27,0.645,0.681,0.547,0.0,0.506,-7.054,0.0748,101.913,0.443,251160
+1NzEbfiJIDTUeFPUMp0Ki2,Beautiful - Interlude,"Faith Evans, The Notorious B.I.G.",The King & I,2017-05-19,False,30,0.0783,0.813,0.653,0.00216,0.444,-9.142,0.498,125.276,0.788,30747
+2rQc56rotGmIyl7CL9QJBm,Nasty,Lyanno,El Cambio,2022-04-21,True,31,0.139,0.65,0.557,1.6e-06,0.596,-8.328,0.0473,139.929,0.556,199714
+4wccdHSJv4IjOSlNYZVYBN,Hasta Cuando,Lyanno,El Cambio,2022-04-21,True,27,0.212,0.669,0.754,1.85e-05,0.107,-3.854,0.155,176.065,0.591,208774
+68OpadfcNyC3iMIPaKrikB,Mi Momento Favorito,"Lyanno, Dalex, Caleb Calloway",El Cambio,2022-04-21,True,30,0.116,0.698,0.773,0.0416,0.17,-3.569,0.122,173.921,0.553,208746
+3Cnz3Bu9Wcw8p3kiBTXTxp,Unity (Voyage Mix) Pt. 1,Tale Of Us,Unity (Voyage Mix),2020-04-03,False,33,0.00399,0.695,0.736,0.86,0.091,-11.371,0.0374,124.001,0.0509,5237296
+4v02fJGsLG1GGIDYrqd9q2,Unity (Voyage Mix) Pt. 2,Tale Of Us,Unity (Voyage Mix),2020-04-03,False,28,0.0312,0.694,0.58,0.847,0.0878,-11.347,0.0406,123.991,0.0421,4852382
+1PSlMgsJ0V7pUeumk13fbs,ASQUEROSO,"Tiago PZK, ZECCA",ASQUEROSO,2023-07-13,True,68,0.024,0.705,0.737,1.04e-06,0.0688,-3.961,0.0713,179.924,0.716,159246
+03nz8v0N02RboRcLuTlKqM,Me Enteré,"Tiago PZK, TINI",ASQUEROSO,2023-07-13,False,37,0.121,0.595,0.675,1.24e-06,0.314,-3.814,0.108,140.978,0.612,182076
+218tRuUE3j9MxC16BGzxrS,One Less,Howard Harper-Barnes,Pemberleigh,2017-07-07,False,24,0.955,0.477,0.136,0.936,0.0659,-20.121,0.0306,100.011,0.166,150020
+5X57E92pyiuKz6GiZFvpbm,"Never Complain, Never Explain",Howard Harper-Barnes,Pemberleigh,2017-07-07,False,19,0.815,0.422,0.159,0.934,0.132,-17.268,0.0337,140.024,0.219,210857
+3XETHje2hap3iVAjOu2ICl,In a Perfect World,Howard Harper-Barnes,Pemberleigh,2017-07-07,False,21,0.753,0.611,0.231,0.973,0.0853,-14.086,0.0523,120.041,0.568,127936
+4eMRhv8upvXUYIEytqTFCT,Desahogo,Pablo Chill-E,El Duende Verde,2023-03-29,True,49,0.356,0.606,0.577,0.0,0.185,-6.312,0.363,124.028,0.469,241495
+6O9GITkN2mfIgN3zVCeoom,Nunca Duermo,Pablo Chill-E,El Duende Verde,2023-03-29,True,44,0.165,0.758,0.641,6.78e-06,0.102,-4.77,0.0825,107.918,0.15,197778
+0nzJmTKU8LgqN9ucykfAGO,Una Bolsa,Pablo Chill-E,El Duende Verde,2023-03-29,True,40,0.124,0.847,0.665,0.0,0.0963,-5.841,0.286,128.967,0.604,171163
+0RYvwT03KcNKfWtZFPwslG,Yokohama,PRO8L3M,PROXL3M,2023-11-30,True,59,0.0117,0.7,0.537,0.000296,0.296,-6.897,0.109,77.002,0.221,202920
+422qQPiaDdgzKSb7ZBKwwr,Każdy tylko nie ja,PRO8L3M,PROXL3M,2023-11-30,True,59,0.628,0.567,0.606,0.000316,0.314,-7.664,0.358,88.491,0.285,209240
+4dUBoXpJ3ZtlcpNXRtt4VQ,Chciwość,PRO8L3M,PROXL3M,2023-11-30,True,57,0.254,0.542,0.572,0.00669,0.306,-7.754,0.41,82.605,0.448,43533
+659c0YL8r0hZtXkHqwOQio,How I'm Feelin (with Shenseea),"Belly, Shenseea",Madden NFL 22 Soundtrack,2021-08-13,False,33,0.0628,0.94,0.634,3.94e-05,0.217,-6.765,0.108,107.01,0.303,182405
+75KIE2AtdE5wnLPXvvlZKN,Mime,Morray,Madden NFL 22 Soundtrack,2021-08-13,False,38,0.00833,0.886,0.599,0.0,0.0571,-6.008,0.279,150.078,0.459,178508
+5KWwD9LzZa6ruNYGNqAqoN,Ball Is Life (feat. Jack Harlow),"Swae Lee, Jack Harlow",Madden NFL 22 Soundtrack,2021-08-13,False,49,0.114,0.79,0.606,0.0,0.127,-5.69,0.228,136.005,0.288,323319
+1Ovr9hdmrxjkjI3BFwNw0J,El Verano Todo Lo Mueve - El Remix,"Jey One, Chris Lebron, MelyMel, Nico Clinico, La Perversa",El Verano Todo Lo Mueve – El Remix,2023-08-08,False,39,0.232,0.682,0.952,0.00013,0.115,-1.194,0.0671,132.089,0.881,163636
+25dXuQZNcO7wTJ2hGR8vWg,Si Estoy Facil,Hector & Tito,Season Finale,2005-01-01,False,53,0.0259,0.596,0.633,0.0,0.0417,-13.723,0.525,96.865,0.82,199200
+0QAoVCD2KVNP7qVwSPsMOp,Pegate,Hector & Tito,Season Finale,2005-01-01,False,28,0.000403,0.771,0.439,0.0,0.12,-14.994,0.381,100.831,0.591,135893
+07IIThjezGk4l1Gca2z2qZ,Guata Gatas,Hector & Tito,Season Finale,2005-01-01,False,25,0.0571,0.789,0.575,0.0,0.316,-13.29,0.203,96.474,0.523,235133
+5zFglKYiknIxks8geR8rcL,Beautiful Mistakes (feat. Megan Thee Stallion),"Maroon 5, Megan Thee Stallion",JORDI (Deluxe),2021-06-11,False,80,0.0377,0.713,0.676,0.0,0.154,-5.483,0.027,99.048,0.721,227395
+6tHQAadcluhVV4oD2IvHSk,Lost,Maroon 5,JORDI (Deluxe),2021-06-11,False,54,0.223,0.766,0.706,0.00028,0.064,-6.553,0.16,142.989,0.766,172598
+54WpJSyO81dpA40MKJHd0C,Echo (feat. blackbear),"Maroon 5, blackbear",JORDI (Deluxe),2021-06-11,False,53,0.0204,0.759,0.67,0.0,0.0953,-5.309,0.0509,136.027,0.741,178620
+5KVBfYMia4pVQAVhBE3wQe,Posicionao,"Luar La L, Sinfonico",L3tra 2,2022-12-18,True,47,0.466,0.689,0.657,0.0,0.106,-6.033,0.367,86.984,0.439,225718
+4OxYiUMfFINfeOHgb8RhwB,Guerra,"Luar La L, Lil Geniuz",L3tra 2,2022-12-18,True,48,0.569,0.818,0.637,0.0,0.111,-5.198,0.311,87.95,0.659,189949
+3SooDD3ycCki4IMZCHM7OR,Mention,Luar La L,L3tra 2,2022-12-18,True,52,0.3,0.591,0.557,0.0,0.101,-6.921,0.399,151.549,0.23,183428
+2TLu6vPeidl6xu9Q8N1kDR,Los Gangsters,"Keylon, Marcianeke, Simon la Letra",Los Gangsters,2023-11-14,True,51,0.346,0.601,0.859,0.0,0.204,-2.696,0.146,93.955,0.626,231127
+1aLIFdfXRGwSfYNF8GIS0O,TRAPPii,Jay Wheeler,TRAPPii,2023-10-27,True,61,0.482,0.781,0.517,0.0,0.154,-9.157,0.209,132.959,0.729,177515
+76X0sg9YMAfH6P38NMUp6O,THROWBACK,Jay Wheeler,TRAPPii,2023-10-27,True,62,0.789,0.799,0.552,0.0,0.115,-9.159,0.172,92.035,0.402,147391
+4ofO3RstzApodaEEPILupI,GANGSTA LUV,"Jay Wheeler, Anubiis",TRAPPii,2023-10-27,True,59,0.447,0.588,0.535,0.0,0.176,-7.605,0.277,86.817,0.479,218523
+6tK8vlUpvzMdd1iEQ0St4t,Rose - Solomun Remix,"Stephan Bodzin, Solomun",Boavista Remixes,2022-02-25,False,35,0.0614,0.701,0.725,0.773,0.0633,-10.783,0.0535,127.989,0.38,420400
+215z00CrTsmjBop1O4kbWz,River - Adriatique Remix,"Stephan Bodzin, Adriatique",Boavista Remixes,2022-02-25,False,34,0.021,0.661,0.513,0.83,0.112,-11.165,0.0439,122.993,0.156,381162
+1cQCfrLGc5GpBC6bNPlsUm,Earth - Mind Against Remix,"Stephan Bodzin, Mind Against",Boavista Remixes,2022-02-25,False,39,0.0105,0.776,0.927,0.887,0.0992,-7.38,0.0489,125.015,0.0334,450725
+63xhzDBP3FO6azIjH7DOvD,EN LA CHATA,Callejero Fino,HAGAN CA$0,2023-07-30,True,58,0.414,0.853,0.715,0.0,0.34,-5.902,0.225,95.956,0.717,138839
+4tJQaVo1gyfhBPqM2TsXKk,AL PISO,"Callejero Fino, Alan Gomez",HAGAN CA$0,2023-07-30,True,39,0.121,0.848,0.592,0.0,0.0952,-6.23,0.167,89.991,0.497,158500
+6sxzozWrhljSPgHSHbGJpg,"TURRAS, ROCHAS, TURRAS",Callejero Fino,HAGAN CA$0,2023-07-30,True,38,0.213,0.885,0.579,0.0,0.056,-6.072,0.0478,96.003,0.871,162506
+0XFwFzMCR6nndeRL6G5NUL,Free Fallin,"NUUD, Carlén",Free Fallin,2023-03-31,False,45,0.562,0.439,0.641,3.37e-06,0.153,-7.886,0.0602,173.936,0.335,201379
+2VhJYfE6xg7KlhbAyuOobQ,The Queen Is Here,Ivy Queen,Llego La Queen,2019-02-28,True,23,0.358,0.707,0.746,3.95e-05,0.205,-4.157,0.19,190.013,0.813,199987
+1xF9LZI2M40SGEs65yy8MG,Llego La Queen,Ivy Queen,Llego La Queen,2019-02-28,False,35,0.101,0.684,0.77,2.65e-06,0.0916,-4.986,0.145,171.942,0.512,229027
+6jht7zto5OToAwwu6WrZ8b,Y Tú,Ivy Queen,Llego La Queen,2019-02-28,False,26,0.139,0.832,0.662,0.00219,0.0658,-4.069,0.048,90.007,0.475,213680
+1VmOBILGWzRl76jzu9rFRQ,Cornfield Chase (Slowed + Reverb),Dorian Marko,Cornfield Chase (Slowed + Reverb),2022-04-04,False,46,0.939,0.238,0.158,0.923,0.103,-22.004,0.0336,155.346,0.0744,157071
+4lbN59oAXTZuKkq16ACHbE,Jefa,Cazzu,Nena Trampa (Deluxe Edition),2023-04-13,True,39,0.384,0.761,0.78,1.05e-05,0.103,-3.861,0.261,140.032,0.43,135522
+6v3oRcV32Jj1zzFjBRspfq,Nena Trampa,Cazzu,Nena Trampa (Deluxe Edition),2023-04-13,True,39,0.262,0.587,0.604,9.67e-05,0.0814,-4.138,0.345,169.864,0.439,147371
+5ByA0jlwkRZVglVi8U4mSC,Isla Velde,Cazzu,Nena Trampa (Deluxe Edition),2023-04-13,True,39,0.243,0.879,0.681,0.000252,0.269,-4.147,0.0878,93.98,0.556,196558
+2lOY5Ah2pRRMdjA6yBRgwW,Summertime Friends,The Chainsmokers,Summertime Friends,2023-10-20,False,66,0.011,0.522,0.69,7.81e-06,0.4,-5.574,0.0325,160.054,0.28,136586
+4jpNmNXMzO3aVgJhy8sdxL,Think Of Us,"The Chainsmokers, GRACEY",Summertime Friends,2023-10-20,False,68,0.488,0.747,0.7,0.0,0.154,-6.563,0.0904,95.033,0.721,170617
+1tKUFSLuJCSlzBXm2l4HRo,See You Again,"The Chainsmokers, ILLENIUM, Carlie Hanson",Summertime Friends,2023-10-20,False,58,0.0844,0.478,0.497,0.00118,0.178,-4.992,0.0304,144.046,0.209,163452
+4u4H28BG1cjbcLKyaj5Ej0,Kiss So Fatal,"IZKO, Dawty, RBZ",Kiss So Fatal,2023-04-14,False,27,0.0393,0.708,0.718,0.000157,0.103,-7.38,0.0389,126.001,0.369,151328
+3z3up6159OqYc9t10R86TY,Sing Pray Love - Interlude,Kelly Price,Sing Pray Love Vol. 1: Sing,2014-06-03,False,2,0.306,0.321,0.214,0.0,0.359,-11.205,0.0304,53.64,0.0977,126933
+55oOEulHQzjAOptTq3Ldlu,It's My Time,Kelly Price,Sing Pray Love Vol. 1: Sing,2014-06-03,False,2,0.00398,0.636,0.724,0.0,0.218,-6.228,0.0811,92.18,0.702,306307
+3i3IyOeggPtDmaMyI52XMC,Back 2 Love,"Kelly Price, Ruben Studdard",Sing Pray Love Vol. 1: Sing,2014-06-03,False,2,0.159,0.57,0.684,0.0,0.163,-7.042,0.26,102.873,0.723,191920
+1wsyFaNnorpsGPum1FdZZm,Demon,Brytiago,Trap Vibes,2023-05-18,False,33,0.305,0.541,0.518,2.41e-06,0.0987,-8.442,0.0857,146.924,0.193,217148
+0CmQa0j3VQM5bcGYQW85l1,Dame Luz,Brytiago,Trap Vibes,2023-05-18,False,37,0.271,0.732,0.641,5.57e-05,0.112,-7.627,0.253,150.058,0.747,227200
+3nuv4KFJCze5vcQC7kBBz3,Designer,Brytiago,Trap Vibes,2023-05-18,False,30,0.188,0.813,0.667,0.0,0.241,-6.326,0.0972,92.025,0.928,159130
+5vAx3lTS8Rw7AlREnkzsLK,Alejandro Sanz,"Sule B, Mumbai Moon, Mario Rubio",Benzo la Joya,2022-05-20,False,15,0.58,0.745,0.732,0.000258,0.122,-8.741,0.229,170.048,0.583,191000
+4IKh0k3g3xY2roeFJMVg1i,No Me Vale,"Sule B, Mumbai Moon, Mario Rubio",Benzo la Joya,2022-05-20,True,26,0.239,0.744,0.596,0.0,0.298,-9.558,0.183,96.026,0.772,155999
+10O7Bv2bjTLAlsujsif61x,Problemas,"Sule B, Mumbai Moon, Mario Rubio",Benzo la Joya,2022-05-20,True,11,0.477,0.611,0.556,1.37e-06,0.136,-9.993,0.229,179.962,0.879,174000
+1ow3BiZOxCijhybMH2i0yj,Ese algo - Remix,"Darmo, Wolfrank Zannou",Resiliencia (Remix),2021-04-20,True,2,0.494,0.599,0.712,0.0,0.113,-8.7,0.165,87.007,0.456,207931
+2mOdOKysNpwrkXW1VctVlv,Déjame verte - Remix,"Darmo, Wolfrank Zannou",Resiliencia (Remix),2021-04-20,True,6,0.0879,0.724,0.778,0.0,0.144,-8.581,0.0515,92.986,0.505,159317
+2oiWIqXb51fFby66xcmNra,1 moneda 2 caras - Remix,"Darmo, Wolfrank Zannou",Resiliencia (Remix),2021-04-20,True,3,0.0664,0.676,0.885,0.0,0.105,-7.051,0.0689,103.094,0.376,207968
+5IIZJ1ozOp4NS4Or6Ytssv,Hoy Vamos a Ver,Trebol Clan,Los Bacatranes,2023-06-30,False,14,0.153,0.778,0.925,0.0,0.142,-4.118,0.0766,96.002,0.64,178913
+5t1fruLyUAtyhiA0Efyqql,Amor Prohibido,Trebol Clan,Los Bacatranes,2023-06-30,False,31,0.247,0.651,0.884,0.0257,0.0536,-4.092,0.0362,95.01,0.699,249051
+7ololbdI40hWb7Puwh7vhZ,Agárrala,"Trebol Clan, Don Omar",Los Bacatranes,2023-06-30,False,20,0.147,0.797,0.878,4.75e-06,0.323,-5.861,0.0737,95.01,0.876,262870
+1gjalqQoPmCcinxHroLQkD,Singularity,Øostil,Singularity,2020-01-31,False,23,0.0527,0.783,0.909,0.86,0.111,-10.032,0.0463,127.002,0.0917,426705
+6MIHhlFY4Y8RW9sTd9rQRV,Singularity - Brian Cid Remix,"Øostil, Brian Cid",Singularity,2020-01-31,False,20,0.179,0.578,0.734,0.927,0.111,-12.741,0.0419,124.006,0.239,483067
+2dri6VvbWqG91b1sKOT4yA,Placebo,Øostil,Singularity,2020-01-31,False,16,0.0062,0.801,0.645,0.933,0.0922,-13.261,0.0474,126.999,0.153,429819
+3Fi1cKWZcwM6qwzsbsbPG3,Exit - Live,Sam Paganini,Live (Istanbul 01/28/2023),2023-02-22,False,9,0.84,0.122,0.189,0.639,0.101,-16.505,0.0414,149.595,0.0341,230059
+1iC2dtrxAlB7Euf5Pa9iE4,Fire in My Arms - Live,Sam Paganini,Live (Istanbul 01/28/2023),2023-02-22,False,12,0.0397,0.746,0.958,0.86,0.181,-7.673,0.0387,127.999,0.358,276561
+1SpZ3a4Nosj5Nl50qTRTx7,Flash - Live,"Sam Paganini, Zøe",Live (Istanbul 01/28/2023),2023-02-22,False,9,4.03e-05,0.652,0.895,0.826,0.501,-9.319,0.0402,130.99,0.424,179769
+5MUArEfVcI58wHXy5ovchP,Desperté,Miriam Rodríguez,La Dirección De Tu Suerte,2020-04-02,False,26,0.0846,0.461,0.682,0.0,0.114,-5.022,0.0323,126.889,0.327,243825
+1bOAC6fuojXSTtFWlPvSQS,Que Hablen,Miriam Rodríguez,La Dirección De Tu Suerte,2020-04-02,False,20,0.535,0.401,0.394,0.0,0.164,-8.221,0.0359,147.854,0.324,247935
+0isK08mm4DTSEoQZkWbyEY,No Vuelvas,Miriam Rodríguez,La Dirección De Tu Suerte,2020-04-02,False,26,0.266,0.64,0.682,0.0,0.156,-8.554,0.0837,105.158,0.577,172766
+1rydhdFtKe2CRkiaVb7aGF,the BLACK seminole.,Lil Yachty,Let’s Start Here.,2023-01-27,False,64,0.063,0.302,0.557,0.344,0.118,-5.737,0.0326,113.563,0.103,411912
+04HeNxRRVjcwctfp2K2kMu,the ride-,Lil Yachty,Let’s Start Here.,2023-01-27,False,62,0.381,0.414,0.791,0.00102,0.375,-4.847,0.0661,151.895,0.588,190581
+7zy7iE31dGO70ShMXghsfj,running out of time,Lil Yachty,Let’s Start Here.,2023-01-27,False,62,0.331,0.651,0.72,0.413,0.528,-6.529,0.161,90.024,0.705,269245
+4BQQ72HXQh3FvbIP238zlT,Si Quieres B*C*O,De La Ghetto,GZ,2023-06-30,True,37,0.145,0.819,0.627,0.0,0.178,-5.37,0.0598,137.87,0.515,159565
+7B53HRqzTKqPm968y1Cg06,Prendía,"De La Ghetto, RaiNao",GZ,2023-06-30,True,38,0.803,0.833,0.536,0.0,0.0727,-5.936,0.189,90.021,0.306,232333
+1TWkuY4nCVcqNgWQKHxFHA,My Love,"De La Ghetto, Quevedo",GZ,2023-06-30,False,56,0.376,0.767,0.568,0.0,0.103,-6.593,0.0421,141.049,0.556,214123
+5B3aPS91anMHqoqqFazZvL,Vertigo,Kevin de Vries,Vertigo,2019-04-19,False,22,0.148,0.772,0.734,0.891,0.101,-11.399,0.0488,124.982,0.0314,434292
+3X56GQ3TERExemeyF337FS,Vertigo - Marco Faraone Remix,"Kevin de Vries, Marco Faraone",Vertigo,2019-04-19,False,12,0.0053,0.699,0.782,0.866,0.0915,-9.188,0.0635,131.984,0.0385,428099
+3QC8vfD9sAIzmyYeRbuI2B,Mângata,Kevin de Vries,Vertigo,2019-04-19,False,20,0.0002,0.771,0.639,0.725,0.1,-9.727,0.0499,126.023,0.0342,432666
+3NzJFClcbZ97n5nn7ptoc0,2012,Chester See & Jason Evigan,2012,2012-12-18,False,2,0.0021,0.683,0.8,0.0104,0.0861,-9.358,0.0785,130.006,0.335,232433
+7K8Oon0qc4CvkLSQRlhTQN,Lento,El BAI,Lento,2020-07-07,False,15,0.756,0.747,0.597,3.92e-06,0.121,-6.927,0.186,83.008,0.585,216346
+7ap6vRag8XQmkt5r8KrDGO,Informeshe,El BAI,Lento,2020-07-07,False,2,0.106,0.862,0.764,0.0,0.309,-9.829,0.262,95.006,0.826,196911
+2TV5GIUgezcw0ZKtI3Zzbl,Fuck love,El BAI,Lento,2020-07-07,True,1,0.944,0.508,0.409,1.05e-05,0.108,-11.971,0.101,60.868,0.322,125022
+4daEMLSZCgZ2Mt7gNm2SRa,Flooded The Face,Lil Uzi Vert,Pink Tape,2023-06-30,True,79,0.492,0.64,0.609,2.47e-06,0.152,-7.714,0.304,131.889,0.393,192727
+3fDTzkvrOo5xQIO480Qmsb,Suicide Doors,Lil Uzi Vert,Pink Tape,2023-06-30,True,68,0.0113,0.538,0.783,0.0,0.281,-2.565,0.222,75.388,0.553,259080
+2Hc1LaV6bzFil3dE71eORA,Aye (feat. Travis Scott),"Lil Uzi Vert, Travis Scott",Pink Tape,2023-06-30,True,75,0.000713,0.777,0.604,5.64e-05,0.151,-4.452,0.0397,111.998,0.121,207836
+2QWV6LlwgXF0ZIcg4VxkUh,Facts.mp3,Emilia,.mp3,2023-11-03,False,71,0.00984,0.871,0.739,1.03e-06,0.183,-4.891,0.135,127.029,0.928,130098
+5XUWO8VqwE4PEkLYAtt7h7,Jagger.mp3,Emilia,.mp3,2023-11-03,False,70,0.0893,0.543,0.6,6.73e-05,0.186,-7.185,0.0783,89.915,0.527,155862
+2raFBS5ysJMxhd755bvAcf,JET_Set.mp3,"Emilia, NATHY PELUSO",.mp3,2023-11-03,False,1,0.0341,0.658,0.798,0.0,0.175,-4.108,0.138,135.515,0.568,145920
+3wl7aNDF5Gite8A7iPr3Zu,Cole World (Intro) (feat. DJ Khaled),"Keyshia Cole, DJ Khaled",11:11 Reset,2017-10-20,False,21,0.0157,0.413,0.797,2.16e-05,0.374,-7.441,0.306,160.047,0.459,84120
+5S250pBB2QzI8jSK7YGctt,Unbothered,Keyshia Cole,11:11 Reset,2017-10-20,False,30,0.0588,0.634,0.723,1.17e-06,0.0936,-2.927,0.134,85.504,0.385,145947
+0yrRMqTTz5behxCQ8Elggf,You (feat. Remy Ma & French Montana),"Keyshia Cole, Remy Ma, French Montana",11:11 Reset,2017-10-20,True,42,0.0233,0.614,0.628,0.0,0.0585,-3.679,0.198,177.295,0.267,233067
+0yUIZvv6RsmV8yRWsbtlpJ,Ahora,Jadiel,Tsunami Is Back,2017-02-14,False,15,0.318,0.676,0.72,1.34e-05,0.193,-5.967,0.09,175.963,0.738,196573
+2xcqidY67LlI8zXw5EVTjQ,Volverte a Ver,Jadiel,Tsunami Is Back,2017-02-14,False,28,0.25,0.737,0.509,0.0,0.265,-7.12,0.042,130.112,0.502,285480
+3YJedMXEwKPUht8dck3opj,La Carta,Jadiel,Tsunami Is Back,2017-02-14,False,22,0.131,0.627,0.673,0.0,0.276,-7.268,0.0647,147.007,0.774,249253
+7MBdtBJvyn90mXqTOqI8PA,Intro,Shawn Mendes,Wonder (Deluxe),2020-12-07,False,44,0.944,0.507,0.182,0.00138,0.444,-11.166,0.0353,76.007,0.394,62423
+7rV6w1rff0TA61omGxvcCB,Wonder,Shawn Mendes,Wonder (Deluxe),2020-12-07,False,49,0.136,0.442,0.631,2.29e-05,0.133,-5.096,0.05,139.774,0.129,172693
+2syfxA0hm59eHKjAPcxRuf,Higher,Shawn Mendes,Wonder (Deluxe),2020-12-07,False,45,0.0149,0.745,0.773,1.1e-05,0.315,-4.611,0.0562,120.032,0.944,160144
+4n0kSbGX13a7lZ4Yplv4WT,EL Ejército de un Hombre Solo,"Israel B, LOWLIGHT",El Ejército de un Hombre Solo,2022-10-14,True,42,0.628,0.596,0.478,1.82e-06,0.0735,-9.812,0.348,130.051,0.22,168625
+6N6i8cJC82imepxf1c6049,Ghostface Killer,"Israel B, LOWLIGHT",El Ejército de un Hombre Solo,2022-10-14,True,53,0.401,0.725,0.654,1.18e-06,0.131,-9.061,0.39,89.852,0.772,108250
+4ryggkr9fTHsFxVDT8ZOPY,Espíritu,"Israel B, LOWLIGHT",El Ejército de un Hombre Solo,2022-10-14,True,37,0.182,0.672,0.511,0.0,0.342,-8.854,0.21,91.115,0.225,175000
+4jzz1dFGn1osftEfcKSAeV,LEGENDADDY,Daddy Yankee,LEGENDADDY,2022-03-25,False,44,0.855,0.233,0.876,0.527,0.744,-8.766,0.24,170.197,0.24,48520
+7IatvjEcXEeeXnHC2gMZ2j,CAMPEÓN,Daddy Yankee,LEGENDADDY,2022-03-25,False,53,0.00951,0.963,0.861,0.0,0.102,-5.628,0.229,119.993,0.63,194515
+65MqlYPOWReasKWcuCaOCW,REMIX,Daddy Yankee,LEGENDADDY,2022-03-25,True,61,0.0323,0.819,0.781,0.0012,0.121,-4.879,0.0547,100.062,0.385,163680
+6DxS2ZRl8G3EagHkovYXA2,Zun Da Da,Zion,The Perfect Melody,2007-06-05,False,71,0.266,0.782,0.767,3.64e-05,0.0947,-7.981,0.0871,88.005,0.622,304091
+3pvBJ1blQ2UZVXWsjZKHTV,Habre La Puerta,Zion,The Perfect Melody,2007-06-05,False,30,0.419,0.767,0.618,3.53e-06,0.269,-8.362,0.057,94.004,0.711,228598
+1ylFJOaF7wAgHTeUskuJTT,The Way She Moves,"Zion, Akon",The Perfect Melody,2007-06-05,False,43,0.234,0.701,0.829,0.0,0.071,-4.055,0.0467,95.001,0.562,233509
+5drP4HTZ9zCYBuvGmwIU6p,Functional Basic Unit of Life,Enrico Sangiuliano,Biomorph,2018-06-01,False,27,0.511,0.248,0.323,0.00431,0.196,-16.376,0.0434,120.522,0.0387,114083
+70ICwjp8R8gOv1XXcWZsCB,Multicellular,Enrico Sangiuliano,Biomorph,2018-06-01,False,29,0.0276,0.716,0.832,0.863,0.108,-8.85,0.0464,128.015,0.0329,456392
+121DnWxGEkULCRXSL3YgR3,Generative Model,Enrico Sangiuliano,Biomorph,2018-06-01,False,22,0.0825,0.67,0.711,0.901,0.224,-8.751,0.0434,114.998,0.0671,254989
+11Y3Vbq1Jnk3Di0f2tWRbZ,Get Off The World,"Denom, Blues Proders",Get Off The World - Pa' Bailar Llorando,2023-10-20,False,32,0.132,0.771,0.805,3.31e-05,0.0771,-6.263,0.0791,107.952,0.718,201944
+59w1UoE37I00zquBv64WY7,Sorry Not Sorry,"Denom, Natos y Waor, Los del Control",Get Off The World - Pa' Bailar Llorando,2023-10-20,True,41,0.218,0.788,0.769,0.0,0.114,-6.207,0.0399,128.509,0.765,212918
+6Vikatutmz7gApilKujz5D,Don't Stop Won't Stop,"Denom, Al Safir, Midas Alonso",Get Off The World - Pa' Bailar Llorando,2023-10-20,False,43,0.225,0.804,0.69,0.000164,0.0767,-6.264,0.217,100.036,0.445,225600
+6fTFird47hH4AMxFtwnp25,Kryptonite,"Lost Ways, Yiqi",Kryptonite,2023-08-25,False,52,0.611,0.785,0.481,1.45e-06,0.135,-7.628,0.0289,105.021,0.398,169143
+1zcoKXkjNP3DXeF9NAhgcm,Bienvenidos Al Show,Amaia,Cuando No Sé Quién Soy,2022-05-12,False,40,0.348,0.571,0.715,0.0,0.135,-5.303,0.0646,141.882,0.336,228253
+16v7ZAjjwtyy8CRfO2vIhG,Dilo Sin Hablar,Amaia,Cuando No Sé Quién Soy,2022-05-12,False,44,0.577,0.759,0.49,0.0,0.0569,-4.402,0.034,117.906,0.713,180013
+0JuQBaJ7pJnwve6EnmXqqR,La Vida Imposible,Amaia,Cuando No Sé Quién Soy,2022-05-12,False,42,0.455,0.582,0.618,8.87e-05,0.188,-4.331,0.0304,75.026,0.441,221907
+11AwO3WYjBnabDK9qiA30B,Oversize,Alex Rose,Oversize,2023-07-28,False,39,0.0925,0.56,0.618,0.0,0.367,-5.175,0.232,101.119,0.727,91960
+2FhutoXqAKByw4f0A9Fq9y,Frío,Alex Rose,Oversize,2023-07-28,False,39,0.33,0.49,0.579,0.0,0.234,-6.732,0.261,85.441,0.341,145413
+5DLK0uvYApI5xiRQTAZwJz,La Segura,"Alex Rose, Dalex",Oversize,2023-07-28,False,49,0.349,0.826,0.681,0.00036,0.127,-5.004,0.099,90.97,0.411,209533
+0LFxsB0fdwNIjfUtVpvAmq,Apretaito,Greeicy,La Carta,2022-03-04,False,43,0.16,0.854,0.704,0.0,0.138,-4.053,0.0611,100.008,0.534,161533
+50SFVefoyzWnJy1oQWfRtr,Los Besos,Greeicy,La Carta,2022-03-04,False,63,0.071,0.678,0.752,5.15e-06,0.0963,-4.242,0.212,167.822,0.662,202333
+42JYxlcwegYRJr4IZ0k0Lm,Tóxico,Greeicy,La Carta,2022-03-04,False,47,0.178,0.7,0.711,0.0,0.184,-3.822,0.275,175.977,0.905,198413
+6cCoviYGLAPHwXbVQAmKYT,Binary Choices,Colyn,Binary Choices,2018-07-10,False,19,0.0675,0.64,0.834,0.882,0.0846,-9.391,0.0396,139.982,0.331,202547
+0nhyvNQEIZw2GIO1U3g8yI,Spheric Anomalies,Colyn,Binary Choices,2018-07-10,False,15,0.0116,0.775,0.631,0.897,0.12,-10.761,0.0569,123.007,0.0336,445133
+2yMVTXGerSLtRG3pRGLy3O,Alienated,Colyn,Binary Choices,2018-07-10,False,14,0.0909,0.79,0.654,0.874,0.138,-13.285,0.0489,124.986,0.055,403453
+3GPKjrAutKTSaCCqdWmvUx,Hope,"Discofields, Roiyal, Erlando",Hope,2021-10-22,False,35,0.197,0.593,0.69,0.897,0.116,-10.556,0.0298,95.006,0.0858,182913
+0XFwFzMCR6nndeRL6G5NUL,Free Fallin,"NUUD, Carlén",Free Fallin,2023-03-31,False,45,0.562,0.439,0.641,3.37e-06,0.153,-7.886,0.0602,173.936,0.335,201379
+6TvCNh37pSO9rp9fIhskKN,Numb,"Twin Diplomacy, Sunday Scaries",Numb,2023-10-06,False,53,0.0146,0.738,0.723,0.146,0.0862,-7.237,0.0551,126.003,0.814,178300
+0nAYPzFbosQZ0a60zf88aN,Dancing At The Disco,"J. Worra, Cherry Tooth",Dancing At The Disco,2023-09-08,False,55,0.0403,0.728,0.884,0.815,0.0783,-5.426,0.0444,129.985,0.371,194423
+01X0IMz15dIsArTtmHv4ZS,Kerlann - Solo Piano,Yann Tiersen,Kerber (Solo Piano),2023-09-15,False,34,0.991,0.413,0.0369,0.943,0.107,-17.218,0.0449,120.417,0.0615,342413
+3o4kQKTnSmSEOLwCMTZia8,Ar Maner Kozh - Solo Piano,Yann Tiersen,Kerber (Solo Piano),2023-09-15,False,33,0.989,0.405,0.252,0.923,0.108,-16.619,0.0358,100.69,0.276,271573
+2QGroZiw5BbXFIW4lk6l0Z,Kerdrall - Solo Piano,Yann Tiersen,Kerber (Solo Piano),2023-09-15,False,35,0.991,0.346,0.128,0.917,0.11,-16.086,0.0389,95.927,0.0799,311427
+2sOj4GGKPLVLfgBexpZbrb,Impressum,Fideles,Impressum,2017-10-27,False,9,0.417,0.772,0.426,0.847,0.107,-15.589,0.0553,124.011,0.0938,396488
+0XOypcpjrjtaCMqUwRoGm1,Hadar,Fideles,Impressum,2017-10-27,False,8,0.00163,0.734,0.509,0.844,0.486,-18.21,0.0445,125.0,0.108,408623
+5gLwmQjMjcs2xxP1qFK7MO,The Tensior,Fideles,Impressum,2017-10-27,False,6,0.111,0.795,0.479,0.795,0.0745,-11.149,0.0614,120.0,0.035,407139
+4a9kGbaW3klAdEHsx7Q3jQ,Brand New Day,Demi Lovato,Camp Rock 2: The Final Jam,2010-01-01,False,40,0.0154,0.362,0.882,0.0,0.085,-4.259,0.143,190.078,0.427,201147
+7Hjr124CfhS8HYAHJitVO4,Fire,"Matthew ""Mdot"" Finley",Camp Rock 2: The Final Jam,2010-01-01,False,43,0.123,0.71,0.946,0.0,0.203,-4.431,0.078,120.089,0.681,182227
+2E1V6nbjINpLpiMaWMSYZ4,Can't Back Down,"Demi Lovato, Alyson Stoner, Anna Maria Perez de Taglé, Char Ligera",Camp Rock 2: The Final Jam,2010-01-01,False,45,0.0847,0.636,0.839,0.0,0.1,-4.384,0.0961,120.035,0.658,199907
+1OuWozfCvIjzVacG3JRvlK,150 CANCIONES,"Recycled J, Selecta",CASANOVA DELUXE,2023-10-20,False,40,0.0124,0.692,0.649,1.05e-06,0.085,-6.06,0.0759,161.98,0.904,127458
+5wVU3WWpaBQqHhU1gZdbnF,GANAS,Recycled J,CASANOVA DELUXE,2023-10-20,False,41,0.185,0.751,0.593,0.0,0.229,-6.961,0.041,144.871,0.542,172542
+6so2hzKWHTd2sXN2N3cqRe,BABY BOO,"Recycled J, Enry-K",CASANOVA DELUXE,2023-10-20,False,45,0.00846,0.612,0.749,0.000217,0.367,-5.531,0.0339,75.498,0.218,157421
+5vQes2u26o4ia2eMxMHEk1,Hoy,"RADE, Ocer y Rade, SokeThugPro",Hoy,2023-11-17,False,39,0.133,0.804,0.587,0.0,0.0978,-8.41,0.219,100.931,0.403,191953
+5Dor1ZjCnBYmC136ytDzJp,Obsesión,Lali,LALI,2023-04-13,False,57,0.199,0.762,0.858,0.0048,0.117,-4.116,0.0891,99.997,0.653,191864
+5VmevlHJrUiQZ29JzpfZB5,Disciplina,Lali,LALI,2023-04-13,False,52,0.122,0.936,0.523,0.000194,0.0845,-6.108,0.0407,119.987,0.801,157625
+1OXvHS29qz48nwoBclCl6k,Cómprame un Brishito,Lali,LALI,2023-04-13,False,47,0.21,0.841,0.745,6.02e-06,0.0761,-4.144,0.0611,99.941,0.35,144996
+6ei0W4T1vFScCTM3UuLrIr,Lo Real,"Hard GZ, Nikone, Dualy",Mar y Tierra,2022-03-24,False,62,0.297,0.684,0.567,1.92e-06,0.096,-10.766,0.128,100.095,0.575,206843
+1sN0HGA9UKTMKkjBU6R2oh,Horizonte,"Hard GZ, Nikone, Lupita's Friends",Mar y Tierra,2022-03-24,False,47,0.0478,0.795,0.561,9e-06,0.107,-8.286,0.0976,120.025,0.121,211250
+2wvGiVKB2JKBTsm2MrNfng,6 AM,"Hard GZ, Nikone, Lupita's Friends",Mar y Tierra,2022-03-24,False,37,0.354,0.803,0.674,0.0,0.103,-7.292,0.284,95.523,0.682,202580
+4LwrgltRSrddxeyhIPSoqa,Start of Something New,"Troy, Gabriella Montez, Disney",High School Musical,2006-01-01,False,64,0.283,0.665,0.754,0.0,0.114,-6.437,0.0305,103.989,0.234,196773
+3sT37kCEpxM1zQ8s98i7ps,Get'cha Head In The Game,"Troy, Disney",High School Musical,2006-01-01,False,60,0.038,0.877,0.897,0.00953,0.0313,-7.193,0.15,112.969,0.533,147653
+40RcMOyjymXFKBxlMuQJnA,What I've Been Looking For,"Ryan, Sharpay Evans, Disney",High School Musical,2006-01-01,False,61,0.0737,0.66,0.604,0.0,0.0912,-6.823,0.0277,140.035,0.724,123827
+5jfA2toxad8yq4layNCCZ8,Luces,Nadal015,Ruina y Gloria,2020-12-10,False,27,0.172,0.426,0.616,0.0,0.72,-6.448,0.326,139.416,0.122,142312
+5eRuchqdSaxpzmRRvfJULU,C' est la vie,Nadal015,Ruina y Gloria,2020-12-10,False,46,0.094,0.553,0.928,0.0,0.0409,-1.748,0.233,92.916,0.468,147070
+6C7t0k74QcgTIcudfe1zM6,Ruina y Gloria,"Nadal015, MRK",Ruina y Gloria,2020-12-10,False,29,0.487,0.415,0.827,0.0,0.12,-4.738,0.44,165.448,0.482,161151
+0eKhzqxsE4P3XDObz5VByA,Jesus Gave Me Water (Con Mercedes Cortés Alfaro y Egon Calle),"Alfred García, Mercedes Cortés Alfaro, Egon Calle",1997,2021-10-28,False,12,0.757,0.395,0.251,0.0104,0.6,-11.611,0.0355,105.635,0.313,61560
+3FPTuwnI2O7kAVMuwlH5G9,Just A Light,Alfred García,1997,2021-10-28,False,19,0.481,0.514,0.386,0.00032,0.0996,-9.63,0.0345,160.168,0.199,155307
+4vgrny7PsrQUcRpQO9Gnw0,Praia Dos Moinhos,Alfred García,1997,2021-10-28,False,21,0.0653,0.582,0.673,2.78e-06,0.0991,-4.591,0.031,128.005,0.0967,230800
+0L28B50vspTSqnjpsskSgY,Anho,Deborah de Luca,Ten,2018-11-12,False,26,0.0683,0.799,0.669,0.881,0.0947,-10.695,0.0472,126.013,0.315,431935
+6ABjWPXIjXACJNGEDVTPSY,Changes,Deborah de Luca,Ten,2018-11-12,False,25,0.672,0.827,0.387,0.921,0.112,-15.999,0.134,123.004,0.0343,452000
+7ndVXGga21L63CoxYB89Hu,Every Body Knows That Song,Deborah de Luca,Ten,2018-11-12,False,31,0.203,0.809,0.355,0.0459,0.081,-14.497,0.133,123.024,0.231,253781
+2ipYWpVrfoojSerMAeSsXH,Kylie Grande,Kodak Black,When I Was Dead,2023-11-10,True,53,0.0664,0.547,0.596,0.0,0.0985,-6.091,0.402,89.402,0.13,192000
+3p11rtnuuezfMwLBDCGXnU,Close To Me,Kodak Black,When I Was Dead,2023-11-10,True,51,0.166,0.667,0.506,0.0,0.131,-7.09,0.309,150.099,0.352,131135
+6082s2V0nKqk0gRuB2prei,I’m Kodak,Kodak Black,When I Was Dead,2023-11-10,True,50,0.0397,0.754,0.85,1.55e-06,0.232,-6.794,0.354,90.023,0.593,128000
+3iHzKA9HlXf5wsGdsrsnSA,Forget Me,Lewis Capaldi,Broken By Desire To Be Heavenly Sent,2023-05-19,False,80,0.318,0.664,0.76,0.0,0.34,-3.769,0.0448,101.987,0.7,203667
+3gdPwk2wyOXNRnTA1KXnEr,Wish You The Best,Lewis Capaldi,Broken By Desire To Be Heavenly Sent,2023-05-19,False,83,0.555,0.676,0.461,0.0,0.0951,-3.59,0.0304,107.95,0.466,210880
+44G9fSM6qI8zRoG6Qwn3eq,Pointless,Lewis Capaldi,Broken By Desire To Be Heavenly Sent,2023-05-19,False,74,0.0758,0.345,0.625,0.0,0.112,-4.025,0.0444,169.494,0.336,231120
+3K20jTMYE3js3bL1kmlA2u,Bring the House Down,Victor Ruiz,Bring,2017-09-29,False,15,0.0104,0.836,0.877,0.841,0.103,-7.525,0.0639,127.006,0.371,483780
+6cshPVEENEPHngngbvnB1j,Bring the House Down - Dub Makers Remix,"Victor Ruiz, Dub Makers",Bring,2017-09-29,False,7,0.000811,0.805,0.793,0.933,0.052,-9.899,0.0577,126.993,0.354,381732
+4ukDpUHqUGaohVZXBwP8Oo,Bring the House Down - Konstantin Yoodza Remix,"Victor Ruiz, Konstantin Yoodza",Bring,2017-09-29,False,6,0.000126,0.807,0.703,0.925,0.035,-8.715,0.0675,126.997,0.578,457333
+4uVvzpXTzRXZiNqiryz4y8,Party in My Head - RSCL Remix,"PLS&TY, Lost Boy, RSCL",Party in My Head (RSCL Remix),2023-11-24,False,31,0.037,0.673,0.866,0.00561,0.152,-7.434,0.0341,124.947,0.202,144000
+3xE3TyeIxL24IstPdy5IBv,NO PIENSO LLAMAR,"Soge Culebra, Quevedo, GARABATTO",NO PIENSO LLAMAR,2023-10-06,False,78,0.181,0.679,0.556,0.0,0.108,-5.299,0.148,169.997,0.583,198353
+1gIbGLj6dNgiB86cknH3Gc,Propuesta Indecente,Migrantes,Suena Migrantes!,2016-02-16,False,20,0.257,0.668,0.873,1.18e-06,0.548,-3.743,0.104,110.008,0.903,172264
+7mbO8Q9sPPgyHwT0Cm4CEy,Mi Peor Error,Migrantes,Suena Migrantes!,2016-02-16,False,48,0.197,0.67,0.868,0.00014,0.0887,-3.209,0.0743,101.032,0.896,198438
+2vOoBxBk9PJSAyIwEPDRqv,Hasta la Luna,Migrantes,Suena Migrantes!,2016-02-16,False,38,0.366,0.745,0.863,9.5e-05,0.0911,-5.402,0.224,101.976,0.644,155260
+6jdLwmDuP0B5is9B0wCrYT,Lento,"Pailita, Reelian",Lento,2023-11-30,True,53,0.0267,0.789,0.856,0.00213,0.434,-3.893,0.142,108.02,0.619,168216
+5SfvkQTTqmWM91BmABxcaI,Aunque Quisiera Detenerlos,Tony Dize,La Melodia De La Calle 3rd Season,2015-04-07,False,22,0.604,0.626,0.531,0.0,0.18,-7.337,0.0538,81.559,0.822,91360
+3MNWowii2ADYnOR4U18tYZ,De Nada Sirve,Tony Dize,La Melodia De La Calle 3rd Season,2015-04-07,False,28,0.117,0.794,0.787,0.000235,0.0428,-5.626,0.0525,94.036,0.615,172973
+5Y1786A8qzHGeoIbIBTkGp,Prometo Olvidarte (Remix) [feat. Yandel],"Tony Dize, Yandel",La Melodia De La Calle 3rd Season,2015-04-07,False,37,0.11,0.785,0.84,0.0,0.173,-4.328,0.0355,106.029,0.765,231987
+0OQtMyzTMcvYtul4uGCJPb,De vuelta a casa,Brock Ansiolitiko,Ver-S.O.S,2019-04-26,False,34,0.32,0.661,0.697,1.16e-05,0.0922,-8.387,0.0501,98.02,0.0755,195942
+5tGvurDE9Ht9r8Okgh9j9Q,Hablando con la muerte,Brock Ansiolitiko,Ver-S.O.S,2019-04-26,False,30,0.741,0.582,0.639,0.0,0.35,-7.456,0.237,146.399,0.391,230924
+5tgtssaJ6n00puElgGS9YF,Superhéroe,Brock Ansiolitiko,Ver-S.O.S,2019-04-26,False,29,0.241,0.558,0.729,0.00303,0.107,-6.61,0.0481,83.475,0.653,241450
+7m12pGA8jpRVQDH7pURUs2,F40 - Remix,"J Balvin, Arcángel",JOSE (Deluxe Edition),2021-12-17,False,33,0.0214,0.654,0.488,1.1e-05,0.133,-6.668,0.366,147.956,0.495,145498
+2gy2y58w8ehu8FtejAetPC,Ego,J Balvin,JOSE (Deluxe Edition),2021-12-17,False,33,0.291,0.698,0.432,0.0,0.277,-8.452,0.0621,88.069,0.635,135607
+1U2mmPR0XAthoaTfmdD9Rt,Tu Veneno,J Balvin,JOSE (Deluxe Edition),2021-12-17,False,34,0.0701,0.655,0.622,0.000326,0.0848,-5.292,0.0802,175.782,0.835,156910
+1aLpfH1M7Y4ZngOmSiHk0l,ON THE RIVER,Offset,SET IT OFF,2023-10-13,True,71,0.477,0.754,0.623,0.0,0.13,-5.412,0.22,160.157,0.281,96013
+2Gk6fi0dqt91NKvlzGsmm7,SAY MY GRACE (feat. Travis Scott),"Offset, Travis Scott",SET IT OFF,2023-10-13,True,84,0.0585,0.773,0.635,0.0,0.132,-5.06,0.0452,121.879,0.476,173253
+7kp6XhIxrvNb8BgTwLjaEx,WORTH IT (feat. Don Toliver),"Offset, Don Toliver",SET IT OFF,2023-10-13,True,75,0.206,0.82,0.725,0.0,0.209,-5.065,0.0879,95.055,0.555,188333
+1X3HIDmzmvzlWrlvYOi704,Quien Quiero Ser,Thalía Garrido,Quien Quiero Ser,2018-11-23,False,10,0.0394,0.714,0.679,0.000828,0.478,-7.594,0.0581,99.956,0.463,215400
+5LF6J2aviL9GFDlZnzDEX8,The Edge Of Glory,Operación Triunfo 2018,The Edge Of Glory,2018-12-20,False,17,0.0166,0.649,0.852,0.0,0.118,-4.151,0.0667,128.012,0.585,160469
+0UhE90SuWAxM8wijny7le7,Let You in (Demo),Chris Brochu,Let You in (Demo),2023-02-18,False,6,0.874,0.616,0.263,0.0,0.108,-11.347,0.0277,105.974,0.136,246887
+4JyfG2WBcDjlc8TODyBIbx,2NDO CHANCE,"Becky G, Ivan Cornejo",ESQUINAS,2023-09-28,False,74,0.166,0.59,0.628,3.11e-06,0.0919,-5.915,0.0316,143.979,0.268,232795
+6eL3Q0m0VJkbCyKAmvYTEy,CRIES IN SPANISH,"Becky G, DannyLux",ESQUINAS,2023-09-28,False,66,0.611,0.43,0.453,0.0,0.0729,-5.682,0.0265,78.12,0.171,186834
+2c1PXctrxMCsvYgMhbztVe,BIEN CANIJO,Becky G,ESQUINAS,2023-09-28,False,59,0.513,0.508,0.586,0.0,0.152,-4.532,0.0361,74.419,0.697,178378
+6CNvt97xiC9gGBaGpJbG8s,Banza,Cassian,Laps,2020-06-26,False,29,0.0147,0.598,0.751,0.938,0.1,-9.26,0.0375,112.013,0.0789,196480
+7N1a6iB6vvlYJSuOJ4DOI0,Magical,"Cassian, ZOLLY",Laps,2020-06-26,False,42,0.0189,0.616,0.822,0.173,0.0943,-7.109,0.0323,106.021,0.525,225280
+64vsNhqHIC8WTLb07DlUtD,Imagination,"Cassian, Tora",Laps,2020-06-26,False,33,0.00399,0.618,0.818,0.0282,0.12,-6.573,0.0358,120.998,0.38,240733
+4rijcw3xtbCvHpkuvF9zX9,Yomo/Berto,"Yomo, Randy",My Destiny,2008-11-25,True,21,0.331,0.647,0.626,0.0,0.694,-3.651,0.175,95.124,0.289,265774
+0kD6WywlqwWkSGEuCYAfYK,Tu Te las Trae,Yomo,My Destiny,2008-11-25,True,15,0.0897,0.821,0.818,0.000107,0.121,-6.149,0.129,120.004,0.493,211161
+6xFwUavY15uV85OHaCUAYR,Descara,Yomo,My Destiny,2008-11-25,True,18,0.2,0.841,0.835,2.78e-05,0.558,-5.217,0.237,89.957,0.64,289621
+14ITyrJE1TjklrvNSfn07Z,Perdona Si Te Olvido,"Última Llave, Nerea Rodríguez",Perdona Si Te Olvido,2023-10-13,False,27,0.0989,0.568,0.896,3.28e-06,0.114,-4.045,0.0403,149.889,0.5,221238
+2o87SCFhb8KHZdG7kXuibU,Quimera,Famous Oberogo,Quimera,2023-04-21,False,27,0.0511,0.725,0.729,1.7e-06,0.701,-4.938,0.0466,100.055,0.735,161900
+3uISH7P7bjSnCPTcSbkEGH,Hustle All Day,"Sandpaypa, Skinz",G Status Next Level Generation Gwop,2022-12-23,True,0,0.000971,0.444,0.776,0.0,0.0675,-7.682,0.273,159.907,0.296,239961
+7oWRbdCr3G1rpEsAX5M7e8,International (feat. J Genius),"Sandpaypa, Skinz, J Genius",G Status Next Level Generation Gwop,2022-12-23,True,0,0.0965,0.739,0.665,0.0,0.35,-6.064,0.114,85.008,0.503,232856
+5nA3PnxMPXONbk0WumWhwR,Gwopalate,Sandpaypa,G Status Next Level Generation Gwop,2022-12-23,True,0,0.0146,0.646,0.689,0.0,0.194,-7.577,0.113,170.012,0.6,274129
+0elx3LYmmlX9wwiw8beHgB,My Forever,Tamar Braxton,Bluebird of Happiness,2017-09-29,False,26,0.38,0.55,0.497,0.0,0.071,-4.755,0.0267,79.92,0.243,211784
+7KHLMTSdvYLV0oKTM5W0Pj,Wanna Love You Boy,Tamar Braxton,Bluebird of Happiness,2017-09-29,False,23,0.14,0.624,0.6,0.0,0.0719,-6.555,0.237,135.842,0.632,172140
+7Aopu5o3lASPs9EBjRs02i,Run Run,Tamar Braxton,Bluebird of Happiness,2017-09-29,False,21,0.26,0.683,0.768,0.0,0.287,-5.948,0.172,155.988,0.715,160792
+2ka5Ij6Nasvr5krBY93TgM,Anochecemos,La Joaqui,MAL APRENDIDA,2023-11-16,True,48,0.295,0.792,0.572,4.38e-06,0.141,-3.443,0.071,87.053,0.407,204145
+1dPeTvaCjewkzzHKszESGW,Turro,"La Joaqui, L-Gante, DJ Tao",MAL APRENDIDA,2023-11-16,False,49,0.234,0.751,0.597,0.0,0.0833,-4.817,0.105,89.942,0.9,176040
+2bvd7zLOfkyvfyXCx38O4G,Malianteo,La Joaqui,MAL APRENDIDA,2023-11-16,False,46,0.253,0.817,0.591,1.94e-05,0.162,-5.293,0.0998,93.945,0.719,130248
+5o5eQFh0PIWucNEMaTmxJ0,Moonlight (feat. Gianni Taylor),"juuku, GIANNI TAYLOR",Lavender Dreams & Scarlet Nightmares,2023-04-28,False,14,0.000369,0.521,0.955,0.00187,0.104,-6.076,0.0512,147.017,0.16,173061
+6DQUJXeQbpzVcB2sT0rrlA,Lavender (feat. Jolina Elísh),"juuku, Jolina Elísh",Lavender Dreams & Scarlet Nightmares,2023-04-28,False,17,0.00185,0.688,0.903,0.746,0.284,-6.465,0.0546,121.094,0.403,170579
+1vrAEaiRBzRinMbL1fWO0p,Without u (feat. Holywatr),"juuku, Holywatr",Lavender Dreams & Scarlet Nightmares,2023-04-28,True,29,0.0264,0.506,0.747,0.00968,0.171,-5.221,0.0776,162.15,0.416,185162
+0VMzEvN8kBunxwFapgt6Cd,Nintendo,Lucas Grabeel,Nintendo,2023-06-30,False,7,0.452,0.731,0.843,0.0,0.276,-2.864,0.0755,115.064,0.675,190435
+6erwVy1dBbm2Dst3W0eEkf,Intro,Ashanti,Ashanti (Deluxe Edition),2023-03-31,True,17,0.541,0.417,0.452,0.0,0.446,-15.387,0.54,95.014,0.369,85440
+4eW9z1DXskxv9kswwQpWyU,Foolish,Ashanti,Ashanti (Deluxe Edition),2023-03-31,True,24,0.347,0.665,0.695,0.0,0.106,-5.763,0.0532,90.119,0.707,227387
+16baNqaOXnvl2kyVY06UDH,Happy,Ashanti,Ashanti (Deluxe Edition),2023-03-31,True,26,0.241,0.727,0.515,3.74e-06,0.124,-6.553,0.0289,89.488,0.695,262227
+3YRlgWl6hClrYYiENfZAyW,go on,HANSO,go on,2022-07-29,False,46,0.0162,0.951,0.613,0.0245,0.0449,-10.656,0.046,110.006,0.913,135877
+5fDMDKHhVCpUmAvTPJrYNh,Magnum,"Nicky Jam, Jhayco",Infinity,2021-08-27,False,48,0.194,0.771,0.804,3.58e-06,0.0781,-4.175,0.11,93.824,0.625,182467
+6SP5W33MHmIU6DODHd5zgM,Miami,Nicky Jam,Infinity,2021-08-27,False,39,0.316,0.648,0.709,0.0,0.125,-3.841,0.366,179.885,0.37,192007
+13CjciTGHD23U7h4XT13tj,Te Hace Falta,Nicky Jam,Infinity,2021-08-27,False,34,0.202,0.739,0.766,0.000254,0.0836,-5.112,0.0941,179.975,0.625,184429
+0bmgCGiZZLl16IFoYzKOOG,Hechizo,"Jon Z, Baby Rasta",Voodoo,2019-06-21,True,40,0.761,0.8,0.462,0.0,0.0855,-7.576,0.0403,125.9,0.45,77480
+0LxFE5Hba7PAr75b69J4a1,Voodoo,"Jon Z, Baby Rasta",Voodoo,2019-06-21,True,37,0.46,0.718,0.791,0.0,0.647,-3.873,0.0736,138.958,0.632,232517
+4Sd48kf46hWS8uUhaKnDKV,Ya No Eres Mia,"Jon Z, Baby Rasta",Voodoo,2019-06-21,True,37,0.231,0.743,0.751,0.0,0.125,-4.001,0.091,156.073,0.626,186258
+7BbX3CWyz0ZDxgeSqkRY27,When I Get There,P!nk,TRUSTFALL (Tour Deluxe Edition),2023-12-01,False,42,0.797,0.57,0.341,0.0,0.0959,-8.245,0.0375,82.332,0.547,199480
+6t9q5T8fDBt6Y7TyIfgkzc,TRUSTFALL,P!nk,TRUSTFALL (Tour Deluxe Edition),2023-12-01,False,42,0.00188,0.639,0.854,6.67e-05,0.152,-5.626,0.11,122.007,0.27,236253
+6BW8GHRy9qx9RXwdYdWSSQ,Turbulence,P!nk,TRUSTFALL (Tour Deluxe Edition),2023-12-01,False,41,0.227,0.53,0.607,0.0,0.097,-6.334,0.051,123.891,0.178,206453
+3UvQIZX1WClrYiXmXjlulc,Tiger Uppercut,"Ceaese, Utopiko, Tom P",Tigre,2021-11-04,True,8,0.258,0.537,0.771,6.65e-05,0.0976,-5.513,0.173,122.85,0.495,191630
+2Cb9pFMRGP2JTxateS2U9j,Yoshi,"Ceaese, SOULFIA",Tigre,2021-11-04,False,26,0.389,0.776,0.521,0.0,0.335,-7.886,0.0765,140.005,0.656,169341
+5wJcAWOpuwz4Ww26fKr63h,Uwu,Ceaese,Tigre,2021-11-04,False,17,0.032,0.657,0.823,5.37e-06,0.11,-4.437,0.0881,169.868,0.816,186632
+2MkpDFRGY6KRWtFsaDRbiv,Taktik,Oliver Huntemann,Propaganda,2017-10-13,False,20,0.000211,0.8,0.754,0.915,0.239,-10.622,0.0556,123.014,0.0705,398707
+1yfqKP7UcohE0dKMC4nDqW,Poltergeist,Oliver Huntemann,Propaganda,2017-10-13,False,20,0.0032,0.804,0.692,0.938,0.109,-8.599,0.0464,122.004,0.0366,475080
+2al5TfKUxlhWrB5B8jTh8R,Egoist,Oliver Huntemann,Propaganda,2017-10-13,False,15,4.27e-05,0.805,0.631,0.902,0.102,-10.254,0.0435,124.999,0.451,433987
+1a3G9SNslcKsPAOuIikaxd,🪐,Coldplay,Music Of The Spheres,2021-10-15,False,60,0.887,0.326,0.322,0.841,0.116,-20.192,0.0337,89.657,0.0651,53185
+65OR4ywy8Cgs3FDHK82Idl,Higher Power,Coldplay,Music Of The Spheres,2021-10-15,False,70,0.00643,0.507,0.832,1.6e-05,0.229,-5.931,0.0425,177.894,0.485,206682
+23BO6YozrAXUta1buxFZ80,Humankind,Coldplay,Music Of The Spheres,2021-10-15,False,65,0.000172,0.575,0.838,0.000103,0.458,-6.498,0.0454,135.006,0.215,266705
+2eRHQeYMRyl0LJK7pjdztJ,I Can't Stand It,Spencer Lee,I Can't Stand It,2023-10-06,False,7,0.000423,0.611,0.945,0.322,0.108,-4.272,0.0558,137.998,0.0789,220000
+6KOThOFU93VkQhCnoOjsrr,Sabato,Suite Soprano,Domenica,2014-05-04,False,28,0.721,0.598,0.586,0.0,0.101,-10.706,0.495,90.334,0.362,120812
+1Nxz5Bcloa5DgDZhHmv2Iw,Tainted,Suite Soprano,Domenica,2014-05-04,False,28,0.475,0.657,0.493,0.0,0.0905,-9.569,0.169,76.587,0.448,213282
+1VpcIRjY36DWPpI0RAGUnl,Sabor a Nada,Suite Soprano,Domenica,2014-05-04,False,33,0.719,0.642,0.577,3.42e-05,0.104,-11.024,0.238,94.948,0.137,212405
+3k9RV1AmwvLygsurClNz4c,Idea 10 (Leblanc Remix),"Gibran Alcocer, Leblanc",Idea 10 (Leblanc Remix),2023-10-20,False,53,0.245,0.636,0.79,0.927,0.112,-13.295,0.0541,119.99,0.046,154078
+3yqfCfgJiPGXVXXJjDyhdB,#RBDG,Trippie Redd,Saint Michael V2,2023-11-24,True,58,0.00533,0.732,0.791,0.00075,0.0782,-3.937,0.0377,142.045,0.361,142817
+0tng6XwCaDs9cgNvdgxvb8,Popular,"Trippie Redd, 9lives",Saint Michael V2,2023-11-24,True,60,0.00844,0.543,0.715,0.0,0.361,-3.084,0.0312,143.125,0.068,188179
+6tTunOXLrH9Mw2u0hXmBHq,Wizard 101,Trippie Redd,Saint Michael V2,2023-11-24,True,58,0.00281,0.877,0.629,0.0,0.0938,-5.265,0.166,129.052,0.227,150242
+1h0rVgfuKa6V9DkVSLAc4Q,back at it,Gunna,a Gift & a Curse,2023-06-16,True,64,0.125,0.742,0.543,0.0,0.237,-8.77,0.211,129.091,0.407,186173
+3OGCNLxpBmTYRxPZg2yDE5,back to the moon,Gunna,a Gift & a Curse,2023-06-16,True,73,0.103,0.767,0.662,0.0,0.123,-4.856,0.0578,143.943,0.259,193333
+7MLGkncjEGTfKHpNa5UgCQ,idk nomore,Gunna,a Gift & a Curse,2023-06-16,True,58,0.262,0.395,0.667,0.0,0.0858,-5.237,0.215,79.905,0.368,179480
+6iGXGuSA549BdambshhtUz,Cause And Effect - Original Club Mix,UMEK & Groovebox,Toolroom Presents: UMEK,2014-11-10,False,13,0.00148,0.842,0.939,0.469,0.111,-4.071,0.119,125.015,0.596,447268
+0vqsbENHzleFZAtldgYUVV,Unclear Mechanics - Original Club Mix,UMEK,Toolroom Presents: UMEK,2014-11-10,False,12,0.00268,0.802,0.746,0.794,0.0761,-5.394,0.0553,127.999,0.154,439077
+1te42PV5UOeSvqA2cGUsyT,Metrum - UMEK Remix,"Fedde Le Grand, UMEK",Toolroom Presents: UMEK,2014-11-10,False,9,0.0021,0.815,0.965,0.887,0.311,-4.093,0.0759,128.006,0.172,420845
+3GSLee9bhuCfa8siRrnN6W,Bezdomny Król,"Bartek Królik, Udoo",14,2023-12-01,False,19,0.245,0.438,0.792,0.0,0.552,-5.348,0.154,90.196,0.634,185378
+33JmPH2LgVbALkppVfDe0P,Chłopiec z zapałkami,"Bartek Królik, Błażej Król",14,2023-12-01,False,19,0.128,0.681,0.847,2.95e-06,0.0933,-7.689,0.0669,123.991,0.774,290759
+6J4RxvXeRyC1mYYxqWWC0N,Fala,Bartek Królik,14,2023-12-01,False,18,0.0833,0.66,0.877,0.029,0.235,-5.043,0.0345,122.01,0.384,228277
+029cuB69yYCgVHND32hjcT,BRRR,Anuel AA,LLNM2,2022-12-09,True,65,0.377,0.702,0.876,0.0105,0.121,-3.066,0.154,94.014,0.593,216755
+3M2Uxu8sbTwgznw6anIxB9,Borracha & Loca,Anuel AA,LLNM2,2022-12-09,True,54,0.19,0.488,0.764,5.73e-05,0.0502,-5.012,0.0528,104.992,0.964,227719
+0DU150UuvrIsqOzAoeB2Zv,Vibra,"Anuel AA, David Guetta",LLNM2,2022-12-09,True,61,0.0344,0.691,0.777,0.0,0.0592,-5.629,0.0501,128.001,0.639,153643
+6inSd4dgpqoeXdPzP3B6ac,EL NIÑO,Lunay,El Niño,2021-05-21,True,38,0.362,0.794,0.666,0.0,0.299,-5.821,0.085,139.951,0.669,130715
+3uvI3MwIB42qk0QEGtQpgT,DALE BANDA,Lunay,El Niño,2021-05-21,False,35,0.148,0.806,0.784,5.37e-06,0.0696,-3.402,0.0375,100.005,0.654,175591
+59rjsHYxdxeUG6gd43Emzs,TODO O NADA,"Lunay, Anitta",El Niño,2021-05-21,False,67,0.232,0.781,0.67,2.01e-06,0.104,-2.588,0.0484,177.957,0.85,208000
+3C9Mw4cqe8XFXyY33LgK68,Hola,AMBKOR,Nudos,2022-02-07,False,51,0.672,0.64,0.779,0.0,0.186,-13.128,0.501,90.69,0.145,109043
+2TvzWzZwJACa4VH5sa75Hk,Tenemos,AMBKOR,Nudos,2022-02-07,True,38,0.133,0.492,0.871,0.0,0.107,-6.198,0.452,77.546,0.208,419389
+3rBlDWCZHozHLmjd3NzV6R,Desde la Ventana,"AMBKOR, Nova Caeli",Nudos,2022-02-07,False,34,0.354,0.559,0.837,0.0,0.0922,-5.875,0.101,86.391,0.416,228966
+4NAmNbEakzOEt23e5jUAeF,Intro (Sped Up),"Dímelo Flow, A Cien",Always Dream (Sped Up),2022-06-09,False,0,0.387,0.679,0.852,0.0,0.391,-6.834,0.233,98.665,0.748,59394
+25q8zoSXrREePH9Jlc9Y5f,No Es Normal (Sped Up),"Dímelo Flow, A Cien, De La Ghetto, Chencho Corleone, Zion, Ñengo Flow, Nio Garcia",Always Dream (Sped Up),2022-06-09,True,1,0.0283,0.73,0.765,0.0044,0.0415,-4.358,0.064,184.468,0.74,194489
+08UsmfJfOZTDKR3dkimLvi,Qué Me Contás (Sped Up),"Dímelo Flow, A Cien, Sech, J Balvin, Justin Quiles, Lenny Tavárez",Always Dream (Sped Up),2022-06-09,True,1,0.39,0.818,0.817,0.000833,0.164,-3.993,0.0558,98.996,0.786,186524
+57q6BgYP4gN6hPQViCB3um,Distorted Records,A$AP Rocky,TESTING,2018-05-25,True,55,0.141,0.655,0.869,2.32e-05,0.312,-4.342,0.212,135.809,0.0818,140133
+3oHkMCVJyOcjg5FhfLc2Rq,"A$AP Forever REMIX (feat. Moby, T.I. & Kid Cudi)","A$AP Rocky, Moby, T.I., Kid Cudi",TESTING,2018-05-25,True,63,0.3,0.428,0.754,0.0,0.136,-6.416,0.179,125.948,0.394,315773
+52eYVUkFTOVozbVFIaFrnV,Tony Tone,A$AP Rocky,TESTING,2018-05-25,True,57,0.139,0.512,0.783,0.0,0.0831,-4.013,0.269,69.88,0.33,208373
+5stqqeKpadwGhyHrq7FzqN,Se Te Nota,Carlos Right,Atracción,2019-05-17,False,20,0.0492,0.707,0.815,1.12e-05,0.052,-5.304,0.187,179.996,0.645,182773
+0orw9AJmbqnKTgKLTyIjdH,Nueva Canción,Carlos Right,Atracción,2019-05-17,False,12,0.194,0.553,0.466,0.0,0.106,-10.101,0.0725,175.844,0.804,197773
+3amWjSBjH0jR8M2U28JOpx,Aunque Te Siga Queriendo,Carlos Right,Atracción,2019-05-17,False,10,0.122,0.76,0.594,0.0,0.132,-7.437,0.175,89.978,0.905,178667
+66xH0ZJHR3GzjXdTWfpuCP,Feels Like (La La La),"Repiet, Julia Kleijn",Feels Like (La La La),2023-11-10,False,57,0.451,0.682,0.72,0.00617,0.418,-5.884,0.056,128.13,0.358,168000
+5EBtY2shIV1vmY4bnvvV6T,Boyfriend,Selena Gomez,Rare (Deluxe),2020-04-09,False,56,0.216,0.811,0.512,0.0266,0.077,-6.38,0.173,92.025,0.336,161188
+3RKywhObU25JLEypRY6HWx,Lose You To Love Me,Selena Gomez,Rare (Deluxe),2020-04-09,False,62,0.556,0.488,0.343,0.0,0.21,-8.985,0.0436,102.819,0.0978,206459
+33iba4j2ywXqTQNEpGbfra,Rare,Selena Gomez,Rare (Deluxe),2020-04-09,False,56,0.208,0.838,0.545,8.01e-05,0.103,-6.713,0.0706,114.998,0.631,220590
+5CQXesQM39J0CBnY0Npp6S,BICHOTAG,KAROL G,MAÑANA SERÁ BONITO (BICHOTA SEASON),2023-08-11,True,69,0.0594,0.763,0.411,5.35e-05,0.0912,-8.339,0.211,75.029,0.461,133978
+601dhwn8qc31FrSlMu5wEf,OKI DOKI,KAROL G,MAÑANA SERÁ BONITO (BICHOTA SEASON),2023-08-11,True,82,0.204,0.835,0.753,0.000186,0.384,-4.167,0.0521,105.982,0.583,143790
+7mLPSkAJraASgNk6ywyTkp,MI EX TENÍA RAZÓN,KAROL G,MAÑANA SERÁ BONITO (BICHOTA SEASON),2023-08-11,False,81,0.0754,0.634,0.725,0.0,0.208,-4.88,0.0577,159.898,0.845,154375
+4vZk0QvW0fFs9P8T1XmYyD,Te Reto,"Alexis y Fido, Yandel",Barrio Canino (Pt.1),2021-06-25,False,23,0.0098,0.831,0.65,0.0,0.148,-6.535,0.328,169.973,0.523,231920
+3dBpoGnKOCnbnBiMUwiSdP,Mejor Que Mi Ex,Alexis y Fido,Barrio Canino (Pt.1),2021-06-25,False,22,0.147,0.711,0.791,0.0,0.163,-5.345,0.267,179.798,0.659,223987
+6Hs5DyaOEe0CNXBpv1sV2g,De PG13 A Triple X,"Alexis y Fido, Miky Woodz",Barrio Canino (Pt.1),2021-06-25,True,25,0.25,0.861,0.752,0.0,0.108,-5.041,0.0646,90.994,0.671,223080
+3dG6YbDEyxKnIt0K8xYQSI,Hermosa Flor - Live,NATTI NATASHA,Regalo de Madre (Live),2022-01-05,False,37,0.928,0.455,0.259,0.0,0.151,-10.027,0.0415,69.595,0.32,120813
+7ClLrU9JXBRaROgReIjdUG,La Mejor Version de Mi - Live,NATTI NATASHA,Regalo de Madre (Live),2022-01-05,False,27,0.842,0.427,0.527,0.0,0.11,-6.324,0.0391,123.857,0.336,165504
+2qqFUvuMJh16cK3RxU4vyN,Antes Que Salga el Sol - Live,NATTI NATASHA,Regalo de Madre (Live),2022-01-05,False,22,0.58,0.554,0.801,0.0,0.281,-5.358,0.27,170.042,0.541,125601
+79ro82ekLpOmwedxl5RH3e,I Need You,Adam Hicks,I Need You,2023-04-28,True,10,0.11,0.673,0.493,0.000157,0.14,-11.124,0.0423,148.015,0.383,201083
+02mb4CRIbP0qa19p127Q8Q,Criba,"Carlytos Vela, Matasvandals, Mauri",Lytronas,2020-01-02,False,16,0.664,0.848,0.843,0.0,0.104,-7.07,0.0791,99.981,0.714,176843
+6C1xfMTagNfEHIUBxXxZv0,Primer Asalto,"Sode, Carlytos Vela, Matasvandals",Lytronas,2020-01-02,False,16,0.891,0.64,0.637,0.0,0.0812,-10.899,0.156,93.08,0.42,165144
+7wnLz8mTXWlr9SssxTV4wt,Segundo Asalto,"Matasvandals, Carlytos Vela, Sode",Lytronas,2020-01-02,True,9,0.501,0.816,0.71,0.0,0.0849,-8.593,0.238,94.983,0.388,222315
+2WLYtIXa0EvKy0zG0Fhg3a,Intro,Magnate Y Valentino,Sin Límite (Roots Of Reggaeton),2006-10-24,False,8,0.0567,0.568,0.686,0.0745,0.0982,-9.194,0.0654,180.174,0.0399,56107
+7ISayA64w8x94iw1edWWlL,Ahí Voy Yo,Magnate Y Valentino,Sin Límite (Roots Of Reggaeton),2006-10-24,False,25,0.0092,0.542,0.797,0.0,0.126,-5.905,0.31,92.87,0.419,189240
+7aRhaervwqEVecVfEZn0YC,Tu Amante,Magnate Y Valentino,Sin Límite (Roots Of Reggaeton),2006-10-24,False,12,0.0421,0.685,0.806,2.64e-05,0.187,-6.088,0.0416,93.971,0.644,230013
+503V2obQOOv5YpMrY1sfJv,Magia y Pureza,"LAWER, el alquimista",Magia y Pureza,2019-09-27,True,5,0.116,0.862,0.949,0.000182,0.156,-5.583,0.306,100.015,0.15,120000
+4EsrhWHyBkEKYDIJmZU2is,Mi Historia,"LAWER, el alquimista",Magia y Pureza,2019-09-27,True,11,0.116,0.749,0.798,0.193,0.153,-5.938,0.0403,112.009,0.273,224000
+14ankhPIHaeIIpC5LFC4Qr,Perros Callejeros,"LAWER, el alquimista",Magia y Pureza,2019-09-27,True,12,0.12,0.818,0.935,0.0,0.398,-4.255,0.243,99.999,0.838,206000
+1gFECqdUWhbz5g7nFwgEgU,Sunrise,Myrrhe,Sunrise,2023-07-21,False,29,0.43,0.785,0.619,0.0669,0.209,-8.728,0.0357,120.005,0.466,144000
+3FKF9UVaxPXrwiCQlUWVQH,Más X Menos,"Anier, Dualy",Alas De Metal,2022-04-22,True,19,0.0604,0.851,0.83,0.0,0.104,-5.334,0.062,104.084,0.569,202478
+29aT7TW1jvp4JMELlkSFo4,Espejismos,"Anier, Dualy",Alas De Metal,2022-04-22,True,28,0.136,0.574,0.789,0.0,0.143,-6.017,0.0519,98.866,0.272,219625
+5eYap9UcXTzmCv55Ah6WFx,Ojalá,"Anier, Dualy, Miranda",Alas De Metal,2022-04-22,True,36,0.575,0.641,0.737,0.0,0.103,-10.116,0.291,101.058,0.516,235205
+1YWE7cMqo4iVNdPTpH4Khj,712PM,Future,I NEVER LIKED YOU,2022-05-02,True,59,0.0355,0.711,0.686,0.0,0.124,-6.409,0.271,146.971,0.536,173187
+7IDJ19VgYwZSzDH5Ku5FT9,I'M DAT N****,Future,I NEVER LIKED YOU,2022-05-02,True,56,0.0112,0.911,0.573,5.83e-05,0.131,-5.573,0.163,144.026,0.145,271840
+4Ew8VKrbgrjCt9r2AuItFm,KEEP IT BURNIN (feat. Kanye West),"Future, Kanye West",I NEVER LIKED YOU,2022-05-02,True,53,0.00861,0.652,0.578,0.0,0.285,-6.187,0.161,87.395,0.195,207213
+4i6NI3s7F13yGmPOglL1Id,Hope - Spiritual Milk Edit,"CamelPhat, Max Milner",Spiritual Milk,2023-09-15,False,44,0.464,0.591,0.641,0.104,0.178,-8.758,0.0768,121.988,0.0805,350174
+6qFiKfl2ivKmtJ2rOiOyqx,Rennen,"CamelPhat, SOHN",Spiritual Milk,2023-09-15,False,45,0.121,0.695,0.767,0.00125,0.143,-6.672,0.21,118.07,0.2,153333
+3q80kvOm7Q0WueY6gCwhbD,Home,"CamelPhat, RHODES",Spiritual Milk,2023-09-15,False,43,0.0217,0.638,0.653,0.283,0.121,-8.983,0.0318,117.985,0.193,236141
+15LAsqLQAKwdOkmKZofeYI,Your Light Shines On - Pan-Pot Remix,"Carl Cox, Jon Rundell, Marco Bailey, Darren Emerson, Avision, Anfisa Letyago, Ramiro Lopez, Pan-Pot",International Techno Vol 2,2023-11-24,False,24,0.00531,0.697,0.729,0.896,0.268,-8.205,0.0735,129.982,0.145,561270
+6oMEpxAmNNZboXNMpLs2iG,Lost Control - Original Mix,"Carl Cox, Jon Rundell, Digital Primate, Marco Bailey, Darren Emerson, Avision, Anfisa Letyago, Ramiro Lopez",International Techno Vol 2,2023-11-24,False,22,2.63e-06,0.808,0.998,0.929,0.103,-9.642,0.0437,124.983,0.28,433980
+6CNnmK6depwTGX4NU9fWZX,Phobia,"Victor Calderone, Carl Cox, Jon Rundell, Marco Bailey, Darren Emerson, Avision, Anfisa Letyago, Ramiro Lopez",International Techno Vol 2,2023-11-24,False,22,0.0035,0.746,0.852,0.959,0.107,-8.205,0.103,124.988,0.163,418406
+4tCzguROzPhlPVq6HEbRcs,sunrise,"Viva La Panda, Josh Code, Finding Molly",sunrise,2022-12-02,False,8,0.0323,0.849,0.661,0.374,0.0776,-6.167,0.0489,119.988,0.191,194000
+7qEPiZyQmliBHQI4PHYbIc,Influencer,Amenazzy,XXX,2023-07-27,True,53,0.731,0.81,0.535,0.00308,0.101,-7.739,0.259,88.985,0.969,143507
+1FmVaCRBb2eNOv6SBdFl6I,Difícil De Reemplazar,Amenazzy,XXX,2023-07-27,True,56,0.594,0.745,0.567,0.477,0.0841,-8.6,0.136,162.065,0.622,143413
+5LULiTPIdltMOyqUYbvm0k,Grita,Amenazzy,XXX,2023-07-27,True,51,0.329,0.755,0.552,0.0678,0.692,-7.077,0.229,91.941,0.312,134933
+6PMapQ7YSxkhAgNOvvoiWs,Bad Boy,"Sayian Jimmy, Nysix Music",Controlando el Ki,2023-11-10,True,72,0.0613,0.577,0.513,0.0,0.338,-7.653,0.0541,177.939,0.502,159101
+2rnMxUD0DpHIt8O5mBz5EG,Mi Fanatica,"Sayian Jimmy, Nysix Music, RF Music",Controlando el Ki,2023-11-10,True,31,0.112,0.748,0.555,0.0,0.118,-9.237,0.206,170.036,0.879,208243
+1vucQJG57OIHv7wwsyDAMT,Corte y Estilo,"Sayian Jimmy, Nysix Music, RF Music",Controlando el Ki,2023-11-10,True,45,0.226,0.612,0.754,0.0,0.113,-6.457,0.167,178.082,0.691,178344
+1l9uT7Hy7AvNPWvxWCEVvl,Nóż,"Męskie Granie Orkiestra, Igo, Mrozu, Vito Bambino",Męskie Granie 2023,2023-11-23,False,22,0.119,0.571,0.789,5.92e-05,0.966,-5.414,0.0408,110.085,0.218,330001
+6TNUdJgSLy8lFSNo8Ji9Rg,Wymyśliłem Ciebie,"Męskie Granie Orkiestra, Igo, Mrozu, Vito Bambino",Męskie Granie 2023,2023-11-23,False,23,0.214,0.328,0.922,0.0,0.941,-2.972,0.332,98.182,0.481,351063
+0OaIhe39UlWH4t9BLP1YwP,Party,"Męskie Granie Orkiestra, Igo, Mrozu, Vito Bambino",Męskie Granie 2023,2023-11-23,False,22,0.00207,0.688,0.889,0.0,0.833,-5.003,0.0491,124.951,0.616,307896
+1jJ6jqQ2zLQqqFXwrKGrLV,What I Then Became,"Christopher Dicker, Woodsman",What I Then Became,2023-09-15,False,23,0.983,0.358,0.0595,0.954,0.111,-26.609,0.0384,102.873,0.152,322890
+7sImy9aRz4MUW8roTENAcK,Perfecto,Roi Méndez,Mi Lógico Desorden,2019-03-22,False,17,0.0276,0.697,0.703,0.0,0.188,-6.583,0.0449,100.099,0.592,189066
+1IwJeOFiDUBYjhOivvbukW,Te Dejaré,Roi Méndez,Mi Lógico Desorden,2019-03-22,False,19,0.0107,0.511,0.805,8.06e-06,0.0935,-6.841,0.0578,142.069,0.151,214654
+7f3wuzCI6ZZ6CWOacNYKOE,Plumas,Roi Méndez,Mi Lógico Desorden,2019-03-22,False,21,0.00816,0.65,0.688,0.0,0.0434,-6.821,0.133,110.209,0.535,195027
+1CNAp96nVFtzG0L48rDGnZ,Running Away,James Arthur,It'll All Make Sense In The End (Deluxe),2022-03-11,True,44,0.0792,0.513,0.737,7.82e-05,0.108,-5.023,0.0393,138.032,0.115,248232
+3cNAzN6rY5X7EhlJP8gmWI,Wolves,James Arthur,It'll All Make Sense In The End (Deluxe),2022-03-11,False,42,0.0268,0.698,0.604,0.0,0.091,-6.839,0.0423,131.969,0.57,200513
+2C4W2HgZRhiruFHmOGa7GB,Medicine,James Arthur,It'll All Make Sense In The End (Deluxe),2022-03-11,False,42,0.236,0.496,0.732,0.0,0.0905,-4.529,0.0388,143.981,0.325,208982
+7xqF5MczPpjW4NLXF2CL88,SINCERAMENTE,Piso 21,LOS MUCHACHOS,2023-11-09,False,71,0.137,0.847,0.755,6.68e-05,0.108,-3.991,0.175,98.011,0.664,199592
+5PrNsTfGhAxHcdg3AgqBNt,DÉJALO EN VISTO,"Piso 21, Nicky Jam",LOS MUCHACHOS,2023-11-09,True,56,0.0115,0.828,0.684,0.0,0.0848,-4.297,0.0446,94.983,0.597,189919
+7EBlRUook1gmmgoGIOKQ6N,90'S BABY,"Piso 21, Tezzel",LOS MUCHACHOS,2023-11-09,True,47,0.00579,0.756,0.838,3.42e-05,0.0965,-5.129,0.0512,103.019,0.217,214369
+7mikFzgZIpagQ3JEghvOaz,Face of Lies,"KAJ, AUGUSTKID, Laazyy",Face Of Lies,2023-11-17,False,37,0.551,0.597,0.592,6.54e-06,0.0861,-9.825,0.047,95.024,0.208,167684
+03teNQu8rWlFnNzF1ULXIq,Starstruck,Christopher Wilde,StarStruck,2010-01-01,False,56,0.0353,0.555,0.8,0.0,0.0783,-4.835,0.0776,174.007,0.801,175027
+1Owj3xBILXYdVfSXp23EL2,Shades,Christopher Wilde,StarStruck,2010-01-01,False,45,0.000757,0.822,0.786,0.0,0.0797,-7.87,0.117,114.95,0.58,183467
+3q3pZHncNkvIWJebMeuQqQ,Hero,Christopher Wilde,StarStruck,2010-01-01,False,62,0.0279,0.333,0.902,0.0,0.115,-4.65,0.123,185.539,0.601,196893
+5gR6uGBdb3yrmG5AtLMSyL,Droning down the river,Fabrizio Paterlini,Riverscape,2023-10-06,False,32,0.32,0.0963,0.0899,0.24,0.115,-20.357,0.0431,70.561,0.0362,159833
+5GwVkYN0uWaS9rwNezJAZg,Riverscape,Fabrizio Paterlini,Riverscape,2023-10-06,False,40,0.967,0.261,0.193,0.69,0.0739,-22.838,0.0294,78.884,0.125,154042
+4qygcxxdeOtqN2lakyrYNj,Be in the moment,Fabrizio Paterlini,Riverscape,2023-10-06,False,33,0.981,0.281,0.036,0.95,0.0963,-25.489,0.0367,169.952,0.0604,189125
+1bDbXMyjaUIooNwFE9wn0N,Rich Flex,"Drake, 21 Savage",Her Loss,2022-11-04,True,87,0.0503,0.561,0.52,1.86e-06,0.355,-9.342,0.244,153.15,0.424,239360
+46s57QULU02Voy0Kup6UEb,Major Distribution,"Drake, 21 Savage",Her Loss,2022-11-04,True,75,0.0127,0.908,0.546,0.0,0.0707,-10.491,0.323,131.016,0.225,170502
+34tz0eDhGuFErIuW3q4mPX,On BS,"Drake, 21 Savage",Her Loss,2022-11-04,True,79,0.0201,0.841,0.358,0.0,0.39,-8.368,0.591,158.014,0.329,261544
+0kUUcwWKDeI12flxcyUa7Q,My Life - Live in Vegas,Imagine Dragons,Imagine Dragons Live in Vegas,2023-07-28,False,56,0.00793,0.449,0.761,0.000225,0.638,-6.281,0.0464,130.073,0.452,188471
+2ZvCFzcNbL20WUGMWvDOM0,Believer - Live in Vegas,Imagine Dragons,Imagine Dragons Live in Vegas,2023-07-28,False,56,0.0316,0.417,0.931,0.0,0.433,-4.999,0.266,124.995,0.158,275207
+3U0cjsyIcKhZbBPsOPKZj7,"Las Vegas, Our Home - Live in Vegas",Imagine Dragons,Imagine Dragons Live in Vegas,2023-07-28,False,52,0.623,0.407,0.418,0.0,0.124,-11.02,0.0363,92.364,0.0376,75983
+3bDRMfygdJbTDbsdmzc1PP,Dilema,Jhayco,Timelezz,2021-09-03,False,61,0.153,0.527,0.562,0.0,0.232,-6.623,0.0331,119.861,0.188,121053
+1gYipuSzUpI6BENbGrgeid,Tokyo,Jhayco,Timelezz,2021-09-03,False,76,0.282,0.654,0.696,1.07e-05,0.0575,-7.902,0.134,120.106,0.274,202160
+3rP4fbwWIAxRqay8ozCvhu,Esta Dejá,Jhayco,Timelezz,2021-09-03,False,63,0.00457,0.763,0.617,0.0,0.11,-6.734,0.0708,92.005,0.351,241973
+2poxRcuyW0m2ssCo4Bel4Q,Intro - Live,Agoney,Libertad Tour,2022-12-15,False,13,0.248,0.341,0.292,0.894,0.12,-14.607,0.0432,117.559,0.0302,95920
+5bkyO7aMA0bf4y8PMopN0k,Soy Fuego - Live,Agoney,Libertad Tour,2022-12-15,False,13,0.0593,0.672,0.846,5.33e-06,0.0977,-4.533,0.108,118.084,0.103,164733
+4C01NDBAoseQiVPGOpLjZx,Perficción - Live,Agoney,Libertad Tour,2022-12-15,False,12,0.107,0.514,0.777,0.0,0.929,-4.515,0.0382,151.002,0.289,171560
+0V0jxLGonu3pJV6hOl8CSK,Magical,Ed Sheeran,Autumn Variations (Fan Living Room Sessions),2023-10-02,False,60,0.748,0.658,0.632,7.33e-05,0.169,-8.492,0.0298,135.924,0.464,194277
+4OZoyD5m8Mrc0CMsAxBCU6,England,Ed Sheeran,Autumn Variations (Fan Living Room Sessions),2023-10-02,False,57,0.641,0.622,0.666,8.63e-05,0.513,-10.786,0.0423,126.934,0.52,226757
+6rVxvys4tcXsNuw2xoKsLl,Amazing,Ed Sheeran,Autumn Variations (Fan Living Room Sessions),2023-10-02,False,57,0.429,0.809,0.664,1.55e-06,0.131,-7.265,0.0373,116.996,0.374,245814
+3OIHYSYAyn6E5Cq4L7r0pe,Kreatur der Nacht (feat. Isolation Berlin) (Maceo Plex Remix),"Solomun, Isolation Berlin, Maceo Plex",Nobody Is Not Loved (Remixed),2022-12-02,False,34,0.00414,0.642,0.619,0.673,0.112,-8.929,0.0433,127.011,0.268,265512
+4uEgRc6Oc9HpGUmX91uRk0,Night Travel (feat. Tom Smith) (Trance Wax Remix),"Solomun, Tom Smith, Trance Wax",Nobody Is Not Loved (Remixed),2022-12-02,False,33,0.164,0.672,0.895,0.841,0.11,-10.61,0.0511,127.015,0.158,305135
+6XtgqiF4kkNgLLDNqp6TZs,Ocean (feat. Jamie Foxx) (DJ Koze Remix),"Solomun, Jamie Foxx, DJ Koze",Nobody Is Not Loved (Remixed),2022-12-02,False,25,0.00481,0.377,0.756,0.185,0.0802,-7.476,0.0855,155.994,0.571,312974
+6mzicuQ4PqOguqmixiQXV4,Remember,ARTBAT,Remember,2023-10-27,False,57,0.0233,0.464,0.726,0.719,0.0889,-8.509,0.0588,127.036,0.0381,415748
+23d8v6tU6lR77pFKsApMtF,NADIE SABE,Bad Bunny,nadie sabe lo que va a pasar mañana,2023-10-13,True,84,0.572,0.529,0.711,0.0,0.0799,-5.016,0.0669,170.305,0.582,379059
+4MjDJD8cW7iVeWInc2Bdyj,MONACO,Bad Bunny,nadie sabe lo que va a pasar mañana,2023-10-13,True,97,0.15,0.787,0.621,0.000402,0.58,-5.009,0.068,139.056,0.13,267194
+3nNmRE0DxHC6ZaKkrpUumS,FINA,"Bad Bunny, Young Miko",nadie sabe lo que va a pasar mañana,2023-10-13,True,91,0.0869,0.847,0.724,1.11e-06,0.118,-5.41,0.298,94.601,0.396,216328
+2rynuKMLPkCXG8GV088JAa,Familia,Camila Cabello,Familia,2022-04-08,False,5,0.985,0.403,0.0561,0.924,0.318,-15.328,0.0485,139.428,0.0,17812
+7a2P3pskFZVe4wbvjT6NdX,Celia,Camila Cabello,Familia,2022-04-08,False,51,0.154,0.735,0.634,2.33e-05,0.388,-6.382,0.0802,91.991,0.784,153094
+705dwKmZCd7ImAUyyD6Mpm,psychofreak (feat. WILLOW),"Camila Cabello, WILLOW",Familia,2022-04-08,False,60,0.342,0.629,0.64,1.17e-05,0.0928,-7.638,0.0752,179.989,0.448,201495
+4kDGztycBTSO3CgNrKCTjM,Vacation,Jordan Francis,Vacation,2022-08-04,False,3,0.0275,0.748,0.606,0.0,0.153,-6.985,0.057,100.015,0.804,197137
+7wO7RAA2V9S3VU4g7KjqRg,My Love Is Like...Wo,Mýa,Moodring (Deluxe),2023-07-28,False,21,0.227,0.835,0.678,6.44e-06,0.288,-6.447,0.124,132.868,0.708,209533
+2jqeDbxun5cslMysJZrdfP,Fallen,Mýa,Moodring (Deluxe),2023-07-28,False,28,0.119,0.669,0.609,2.65e-05,0.53,-8.217,0.0456,94.439,0.428,214600
+38BFLSUaRHkaMpmDjlVsh8,Why You Gotta Look So Good?,"Mýa, Lloyd Banks",Moodring (Deluxe),2023-07-28,True,9,0.193,0.596,0.852,1.75e-06,0.381,-6.066,0.389,79.603,0.457,279960
+07gICvHBXpoqwH9jSgl8vz,Into You,"Tamia, Fabolous",Into You,2019-10-25,False,37,0.219,0.677,0.531,0.0,0.173,-7.683,0.0327,91.104,0.57,294093
+6g7xA2g7QIMwp4CKXnGVUa,Officially Missing You,Tamia,Into You,2019-10-25,False,58,0.247,0.476,0.407,0.0,0.144,-9.239,0.0368,178.258,0.226,242467
+2hpr2jeMwFhFgQMAOjcTIV,So Into You,Tamia,Into You,2019-10-25,False,23,0.0665,0.656,0.479,0.00272,0.168,-7.055,0.0348,184.374,0.708,261867
+6nl3jk5GAFxXm8fOdrI2H5,Sunset Love,"Magnus Gunn, Amoji",Sunset Love,2021-08-06,False,46,0.291,0.616,0.457,0.000364,0.183,-10.554,0.0301,102.036,0.369,137647
+6toBEs42KExYtyPzlEf4eu,Don Juan,Maluma,Don Juan,2023-08-25,True,53,0.0861,0.547,0.724,0.0,0.354,-4.299,0.201,86.949,0.389,185640
+0XjX9s0XWOKZc8PLuW02wJ,COCO LOCO,Maluma,Don Juan,2023-08-25,False,74,0.19,0.783,0.868,0.0,0.165,-2.961,0.0591,109.977,0.727,166735
+2WVKShjiGIS6dzHK2hUn2P,Ave Maria,Maluma,Don Juan,2023-08-25,True,54,0.0103,0.68,0.72,1.89e-06,0.0748,-5.136,0.0904,123.969,0.472,197867
+0ShZK7fs8W5O1NqgzB1kBQ,Gitano y Sincero,Rei,4X4,2023-10-26,True,46,0.121,0.815,0.688,0.0,0.11,-4.758,0.0918,143.044,0.822,185504
+6SZIFQexuSN5hMg6LGa73g,Una Tuca,"Rei, Mesita",4X4,2023-10-26,True,47,0.448,0.657,0.582,0.0,0.181,-6.266,0.324,196.105,0.735,162307
+4UpOKlOtCQExAfwpgJremZ,Wantantan,Rei,4X4,2023-10-26,True,60,0.294,0.904,0.741,0.0,0.0484,-5.705,0.0508,130.061,0.827,182834
+2eNRCtF24uW88wbmhfyQLZ,Let Your Hair Down - Main,702,Star,2003,False,12,0.112,0.861,0.721,0.00831,0.326,-3.418,0.137,97.976,0.797,166720
+5uuv6qRaBQmThVAObOHeLt,Star - Main,702,Star,2003,False,19,0.364,0.766,0.851,0.000262,0.375,-3.133,0.123,99.056,0.906,240000
+4Im7xXEv6LuTPqB4RebBmZ,Trouble,702,Star,2003,False,17,0.169,0.459,0.793,0.0,0.176,-6.4,0.382,132.34,0.437,209413
+4KN6ERDjwD6wXmXSuwYgo3,Corale,Ludovico Einaudi,In A Time Lapse (Deluxe),2023-09-15,False,45,0.883,0.0907,0.0724,0.983,0.206,-26.604,0.0497,61.379,0.0313,124807
+5VEiF3imA1XethoNG6Rnji,Time Lapse,Ludovico Einaudi,In A Time Lapse (Deluxe),2023-09-15,False,45,0.963,0.603,0.165,0.822,0.0888,-24.327,0.0457,125.035,0.146,332000
+0PmjkTV9XTC9OKKXMJViXC,Life,"Ludovico Einaudi, Daniel Hope, I Virtuosi Italiani",In A Time Lapse (Deluxe),2023-09-15,False,44,0.947,0.36,0.363,0.922,0.0968,-11.147,0.0329,94.805,0.0405,262652
+0l7AeyWUBIIz1h98BeVA9A,Intro (Bankietowy live),sanah,Bankiet u sanah,2023-11-30,False,42,0.42,0.38,0.882,0.65,0.209,-12.112,0.151,120.025,0.15,53583
+5XEueRkHVKD9l00Odz26gM,płomień (Bankietowy live),sanah,Bankiet u sanah,2023-11-30,False,41,0.474,0.494,0.262,0.0,0.201,-11.387,0.0281,75.002,0.149,120048
+2kXL8du5XyEzxVEg1X9AgT,Co ja robię tutaj? (Bankietowy live),sanah,Bankiet u sanah,2023-11-30,False,41,0.0913,0.538,0.521,0.0,0.528,-9.466,0.0389,106.83,0.334,189373
+7cr7fzFF00fNy9lnoIUyNf,Habana (feat. Sule B),"Dollar Selmouni, Sule B, Lucas Otero",Dollar Selmouni,2021-10-22,False,24,0.213,0.683,0.665,0.0,0.13,-6.387,0.2,107.966,0.503,224587
+5BBWrKvKXQPpJ2l60gHBbS,Mi Cabeza Da Mil Vueltas,"Dollar Selmouni, Lucas Otero",Dollar Selmouni,2021-10-22,False,24,0.086,0.696,0.514,0.0,0.192,-6.595,0.0553,99.978,0.504,145112
+6khV6X966mHaB61dKLckSt,Llegó La Noche (feat. Paula Cendejas),"Dollar Selmouni, Paula Cendejas, Lucas Otero",Dollar Selmouni,2021-10-22,False,18,0.0444,0.777,0.582,1.03e-06,0.403,-6.526,0.0567,111.956,0.505,206607
+3O9U11gu6g9yzYaOta36fF,Si Me Disculpo Ahora,"Miranda!, Luck Ra",Si Me Disculpo Ahora,2023-11-10,False,63,0.144,0.657,0.808,0.0,0.123,-6.646,0.035,158.063,0.967,120760
+4RPeZbmVON5ZKT5HC9wALt,Morena,Beéle,Morena,2023-11-09,False,67,0.155,0.737,0.682,0.0,0.227,-6.149,0.13,104.107,0.676,188930
