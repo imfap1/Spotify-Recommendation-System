@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 from scr.spotipyclient import SpotipyClient
 
-# Define the display_top_tracks function first
 def display_top_tracks(top_tracks_json):
     tracks_data = []
 
@@ -19,10 +18,8 @@ def display_top_tracks(top_tracks_json):
 
     st.table(tracks_df[['Artist', 'Track Name', 'Album Name', 'Release Date']])
 
-# Set Streamlit app title and page icon
 st.set_page_config(page_title='Spotify Recommendation System', page_icon='🎵')
 
-# Define a Streamlit theme for better appearance
 st.markdown("""
 <style>
 body {
@@ -49,18 +46,16 @@ body {
 </style>
 """, unsafe_allow_html=True)
 
-# Add Spotify logo centered both vertically and horizontally
-st.image('spotify_logo.png', width=200)  # Make sure 'spotify_logo.png' is in the same directory
+st.image('./imagen/Spotify.png', width=200)
 
 st.title('Spotify Recommendation System')
 
 st.write("⚠️ Please enter your Spotify credentials. Be aware that the client secret will be visible on the screen.")
 st.write("⚠️ Do not use your primary Spotify credentials if possible. Consider using temporary credentials.")
 
-# Input fields for Spotify credentials
-client_id = st.sidebar.text_input('Client ID', 'Your Client ID')
-client_secret = st.sidebar.text_input('Client Secret', 'Your Client Secret')
-username = st.sidebar.text_input('Username', 'Your Spotify Username')
+client_id = st.sidebar.text_input('Client ID')
+client_secret = st.sidebar.text_input('Client Secret', type='password')
+username = st.sidebar.text_input('Username')
 redirect_uri = st.sidebar.text_input('Redirect URI', 'http://localhost:8080')
 scope = 'user-top-read playlist-modify-public playlist-modify-private'
 
@@ -74,10 +69,8 @@ if client_id and client_secret and username:
                 spotipy_client.authenticate_spotify()
                 st.success('Authentication successful')
                 
-                # Get and display top tracks
                 top_tracks = spotipy_client.get_top_tracks()
                 
-                # Display top tracks' relevant information in a smaller table
                 st.subheader('Top Tracks')
                 display_top_tracks(top_tracks)
                 
@@ -87,13 +80,8 @@ if client_id and client_secret and username:
     
     if st.sidebar.button('Generate Recommendations'):
         with st.spinner('Generating recommendations...'):
-            try:
-                if spotipy_client is not None:
-                    # Call your create_recommended_playlist method here
-                    recommended_playlist_id = spotipy_client.create_recommended_playlist()
-                    st.success('Recommended playlist created successfully!')
-                else:
-                    st.error('Spotify not authenticated. Please log in first.')
-            except Exception as e:
-                st.error('An error occurred while generating recommendations.')
-                st.error(str(e))
+            if spotipy_client is not None:
+                recommended_playlist_id = spotipy_client.create_recommended_playlist()
+                st.success('Recommended playlist created successfully!')
+            else:
+                st.error('Spotify not authenticated. Please log in first.')
