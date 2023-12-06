@@ -50,7 +50,6 @@ st.image('./imagen/Spotify.png', width=200)
 
 st.title('Spotify Recommendation System')
 
-st.write("⚠️ Please enter your Spotify credentials. Be aware that the client secret will be visible on the screen.")
 st.write("⚠️ Do not use your primary Spotify credentials if possible. Consider using temporary credentials.")
 
 client_id = st.sidebar.text_input('Client ID')
