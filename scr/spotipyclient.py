@@ -222,15 +222,6 @@ class SpotipyClient:
         ids_playlist_dep = list(set(ids_playlist_dep))
 
         pl = self.client.user_playlist_create(user = self.username,
-            name = 'Spotipy Recommender Playlist',
+            name = 'SpotiPY Playlist',
             description = 'Playlist creada con el sistema de recomendación')
         self.client.playlist_add_items(pl['id'],ids_playlist_dep)
-        
-        
-        
-        
-        
-        
-        
-        '''Crear la lista de recomendaciones en Spotify. Ejecuta todos los métodos
-        anteriores'''
