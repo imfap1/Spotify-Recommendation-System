@@ -1,17 +1,18 @@
-# Spotify Recommendation System
+# Spotify Song Recommender
+
 
 ## Project Description
-This Spotify Recommendation System is a Streamlit-based web application designed to generate personalized music recommendations for Spotify users. The application utilizes Spotify's API to fetch users' top tracks and then recommends new songs based on their listening preferences.
+This Spotify Recommendation System is a Streamlit-based web application designed to generate personalized music recommendations for Spotify users. The application utilizes Spotify's API to fetch users' top tracks listent the last weak and then recommends new songs based on their listening preferences.
 
-## workflow
+## Workflow
 
 ![Alt text](image.png)
 
-### Requisites
+## Requisites
 - Python 3.6 or higher.
 - A Spotify Developer account and a registered Spotify application to obtain the client ID and secret.
 
-### Requirements
+## Libraries used
 - spotipy
 - pandas
 - scikit-learn
@@ -19,7 +20,11 @@ This Spotify Recommendation System is a Streamlit-based web application designed
 - joblib
 - streamlit
 
-### Steps
+## Step 1: User Interface
+
+
+
+## Steps to use the repository
 1. Clone the repository:
    ```
    git clone https://github.com/imfap1/Song-Recommender
