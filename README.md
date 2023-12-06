@@ -41,7 +41,7 @@ Credential Security: The interface warns users to be mindful that the client sec
 
 ## User's Top Tracks Display
 
-![Alt text](5.png)
+![Alt text](https://github.com/imfap1/Song-Recommender/blob/main/image/6.png?raw=true)
 
 Following successful authentication, as indicated by the "Authentication successful" message at the top, the application retrieves and displays the user's top tracks. This is a crucial step before the recommendation process begins. Here's a breakdown of the displayed data:
 
@@ -59,19 +59,19 @@ This data is essential for the recommendation algorithm, which will analyze thes
 
 ## Playlist Creation Confirmation
 
-![Alt text](6.png)
+![Alt text](https://github.com/imfap1/Song-Recommender/blob/main/image/7.png?raw=true)
 
 The displayed message, "Recommended playlist created successfully," signifies the successful generation of the user's personalized Spotify playlist. This confirmation indicates the process is complete, and the user can now access and enjoy their new music selection.
 
 ## Generated Playlist Snapshot
 
-![Alt text](7.png)
+![Alt text](https://github.com/imfap1/Song-Recommender/blob/main/image/7.png)
 
 The image showcases the Spotify interface with the generated "Spotify Recommender Playlist." It's a collection curated by our recommendation system, featuring a diverse array of tracks tailored to the user's musical preferences, ready for enjoyment.
 
 ## This is how it works
 
-![Alt text](ezgif-5-3e174bd2bd.gif)
+![Alt text](https://github.com/imfap1/Song-Recommender/blob/main/image/ezgif-5-3e174bd2bd.gif?raw=true)
 
 ## Steps to use the repository
 1. Clone the repository:
