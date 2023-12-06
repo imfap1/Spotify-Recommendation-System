@@ -41,7 +41,7 @@ Credential Security: The interface warns users to be mindful that the client sec
 
 ## User's Top Tracks Display
 
-![Alt text](https://github.com/imfap1/Song-Recommender/blob/main/image/6.png?raw=true)
+![Alt text](https://github.com/imfap1/Song-Recommender/blob/main/image/5.png?raw=true)
 
 Following successful authentication, as indicated by the "Authentication successful" message at the top, the application retrieves and displays the user's top tracks. This is a crucial step before the recommendation process begins. Here's a breakdown of the displayed data:
 
