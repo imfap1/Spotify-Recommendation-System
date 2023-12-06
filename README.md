@@ -91,7 +91,7 @@ The displayed message, "Recommended playlist created successfully," signifies th
 
 The image showcases the Spotify interface with the generated "Spotify Recommender Playlist." It's a collection curated by our recommendation system, featuring a diverse array of tracks tailored to the user's musical preferences, ready for enjoyment.
 
-## This is how it works
+## System works real-time
 
 ![Alt text](https://github.com/imfap1/Song-Recommender/blob/main/image/ezgif-5-3e174bd2bd.gif?raw=true)
 
