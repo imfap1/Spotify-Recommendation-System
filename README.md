@@ -59,13 +59,13 @@ This data is essential for the recommendation algorithm, which will analyze thes
 
 ## Playlist Creation Confirmation
 
-![Alt text](https://github.com/imfap1/Song-Recommender/blob/main/image/7.png?raw=true)
+![Alt text](https://github.com/imfap1/Song-Recommender/blob/main/image/6.png?raw=true)
 
 The displayed message, "Recommended playlist created successfully," signifies the successful generation of the user's personalized Spotify playlist. This confirmation indicates the process is complete, and the user can now access and enjoy their new music selection.
 
 ## Generated Playlist Snapshot
 
-![Alt text](https://github.com/imfap1/Song-Recommender/blob/main/image/7.png)
+![Alt text](https://github.com/imfap1/Song-Recommender/blob/main/image/7.png?raw=true)
 
 The image showcases the Spotify interface with the generated "Spotify Recommender Playlist." It's a collection curated by our recommendation system, featuring a diverse array of tracks tailored to the user's musical preferences, ready for enjoyment.
 
