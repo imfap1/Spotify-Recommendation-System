@@ -21,6 +21,28 @@ This Spotify Recommendation System is a Streamlit-based web application designed
 - joblib
 - streamlit
 
+## Code Overview
+
+#### Languages and Frameworks:
+- **Python:** The primary programming language used for both backend logic and data processing.
+- **Streamlit:** A Python framework employed for creating the web interface of the application.
+
+#### Project Architecture:
+- `spotipyclient.py`: This file handle the interaction with the Spotify API. It includes importing necessary libraries like `spotipy`, `pandas`, and `sklearn` for data manipulation and machine learning tasks.
+- `spotify_app.py`: This file is responsible for the Streamlit interface, displaying data and interacting with the user. It uses `pandas` for data handling and imports `SpotipyClient` from `spotipyclient.py`.
+
+### Algorithm Explanation
+
+#### Data Gathering:
+- The `SpotipyClient` class in `spotipyclient.py` use the Spotify API for data retrieval. This includes fetching user data, top tracks, and related musical features.
+
+#### Recommendation Algorithm:
+- The use of libraries like `sklearn` hints at a data-driven recommendation algorithm, involving feature scaling and similarity computation.
+- Linear kernel from `sklearn.metrics.pairwise` suggests an approach based on calculating similarities between items (tracks) to generate recommendations.
+
+#### Data Processing:
+- `pandas` and `numpy` are used for data manipulation and numerical operations, crucial for handling and processing the data retrieved from Spotify.
+
 ## Spotify Recommendation System Interface
 
 ![interfaz](https://github.com/imfap1/Song-Recommender/blob/main/image/4.png?raw=true)
