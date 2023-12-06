@@ -26,7 +26,7 @@ This Spotify Recommendation System is a Streamlit-based web application designed
 ### Steps
 1. Clone the repository:
    ```
-   git clone [repository URL]
+   git clone [https://github.com/imfap1/Song-Recommender]
    ```
 2. Navigate to the project directory:
    ```
