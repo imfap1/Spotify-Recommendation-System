@@ -108,3 +108,6 @@ The image showcases the Spotify interface with the generated "Spotify Recommende
    ```
    pip install -r requirements.txt
    ```
+
+## Further Resources
+To learn more about the Spotify Song Recommender, view our detailed presentation [here](https://www.canva.com/design/DAF2JyNuAtg/VUXhy6oFqifRRDxRUt8r3w/edit).
