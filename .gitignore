@@ -1,4 +1,4 @@
 .env
-**/cache.*/
+**/.cache-*/
 spotify_data_cache/
 scr/__pycache__/
