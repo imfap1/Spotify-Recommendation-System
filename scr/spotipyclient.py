@@ -29,13 +29,13 @@ class SpotipyClient:
         self.client = spotipy.Spotify(auth_manager=auth_manager)
     
     def get_top_tracks(self):
-        '''Obtener listado de pistas más escuchadas recientemente'''
-        top_tracks = self.client.current_user_top_tracks(time_range='short_term', limit=20)
+        '''Get a list of the most recently played tracks.'''
+        top_tracks = self.client.current_user_top_tracks(time_range='long_term', limit=20)
         print("Top Tracks:", top_tracks)
         return top_tracks
 
     def create_tracks_dataframe(self, top_tracks):
-        '''Obtener "audio features" de las pistas más escuchadas por el usuario'''
+        '''Get the 'audio features' of the user's most listened tracks.'''
         tracks = top_tracks['items']
         tracks_ids = [track['id'] for track in tracks]
         audio_features = self.client.audio_features(tracks_ids)
@@ -47,7 +47,7 @@ class SpotipyClient:
         return top_tracks_df
 
     def get_artists_ids(self, top_tracks):
-        '''Obtener ids de los artistas en "top_tracks"'''
+        '''Get artist IDs in 'top_tracks'.'''
         ids_artists = []
 
         for item in top_tracks['items']:
@@ -60,7 +60,7 @@ class SpotipyClient:
         return ids_artists
 
     def get_similar_artists_ids(self, ids_artists):
-        '''Expandir el listado de "ids_artists" con artistas similares'''
+        '''Expand the 'ids_artists' list with similar artists.'''
         ids_similar_artists = []
         for artist_id in ids_artists:
             artists = self.client.artist_related_artists(artist_id)['artists']
@@ -76,9 +76,9 @@ class SpotipyClient:
         return ids_artists
 
     def get_new_releases_artists_ids(self, ids_artists):
-        '''Expandir el listado de "ids_artists" con artistas con nuevos lanzamientos'''
+        '''Expand the 'ids_artists' list with artists who have new releases.'''
 
-        new_releases = self.client.new_releases(limit=10)['albums']
+        new_releases = self.client.new_releases(limit=20)['albums']
         for item in new_releases['items']:
             artist_id = item['artists'][0]['id']
             ids_artists.append(artist_id)
@@ -88,7 +88,7 @@ class SpotipyClient:
         return ids_artists
 
     def get_albums_ids(self, ids_artists):
-        '''Obtener listado de albums para cada artista en "ids_artists"'''
+        '''Get a list of albums for each artist in 'ids_artists'.'''
         ids_albums = []
         for id_artist in ids_artists:
             album = self.client.artist_albums(id_artist, limit=1)['items'][0]
@@ -98,7 +98,7 @@ class SpotipyClient:
     
 
     def get_albums_tracks(self, ids_albums):
-        '''Extraer 3 tracks para cada album en "ids_albums"'''
+        '''Extract 3 tracks for each album in 'ids_albums'.'''
         ids_tracks = []
         for id_album in ids_albums:
             album_tracks = self.client.album_tracks(id_album, limit=3)['items']
@@ -117,8 +117,7 @@ class SpotipyClient:
             return None
 
     def get_tracks_features(self, ids_tracks):
-        '''Extraer audio features de cada track en "ids_tracks" y almacenar resultado
-        en un dataframe de Pandas'''
+        '''Extract audio features for each track in 'ids_tracks' and store the results in a Pandas dataframe.'''
 
         ntracks = len(ids_tracks)
 
@@ -150,8 +149,8 @@ class SpotipyClient:
         return candidates_df
         
     def compute_cossim(self, top_tracks_df, candidates_df):
-        '''Calcula la similitud del coseno entre cada top_track y cada pista
-        candidata en candidates_df. Retorna matriz de n_top_tracks x n_candidates_df'''
+        '''Calculate the cosine similarity between each top_track and each candidate track in candidates_df. 
+        Return a matrix of n_top_tracks x n_candidates_df.'''
         top_tracks_mtx = top_tracks_df.iloc[:,1:].values
         candidates_mtx = candidates_df.iloc[:,1:].values
 
@@ -172,8 +171,8 @@ class SpotipyClient:
         return cos_sim
 
     def content_based_filtering(self, pos, cos_sim, ncands, umbral = 0.8):
-        '''Dada una pista de top_tracks (pos = 0, 1, ...) extraer "ncands" candidatos,
-        usando "cos_sim" y siempre y cuando superen un umbral de similitud'''
+        '''Given a track from top_tracks (pos = 0, 1, ...) extract 'ncands' candidates, 
+        using 'cos_sim' and provided they exceed a similarity threshold.'''
 
         idx = np.where(cos_sim[pos,:]>=umbral)[0] 
 
@@ -187,8 +186,7 @@ class SpotipyClient:
         return cands
     
     def create_recommended_playlist(self):
-        '''Crear la lista de recomendaciones en Spotify. Ejecuta todos los métodos
-        anteriores'''
+        '''Create the recommendation list on Spotify. Execute all the previous methods.'''
 
         self.authenticate_spotify()
 

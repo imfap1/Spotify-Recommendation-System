@@ -46,7 +46,7 @@ body {
 </style>
 """, unsafe_allow_html=True)
 
-st.image('./imagen/Spotify.png', width=200)
+st.image('./image/Spotify.png', width=200)
 
 st.title('Spotify Recommendation System')
 
