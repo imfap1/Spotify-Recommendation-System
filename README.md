@@ -3,7 +3,7 @@
 ![Alt text](https://github.com/imfap1/Song-Recommender/blob/main/image/Spotify%20Song%20Recommender.png?raw=true)
 
 ## Project Description
-This Spotify Recommendation System is a Streamlit-based web application designed to generate personalized music recommendations for Spotify users. The application utilizes Spotify's API to fetch users' top tracks listent the last weak and then recommends new songs based on their listening preferences.
+This Spotify Recommendation System is a Streamlit-based web application designed to generate personalized music recommendations for Spotify users. The application utilizes Spotify's API to fetch users' top tracks listent the last week and then recommends new songs based on their listening preferences.
 
 ## Workflow
 
