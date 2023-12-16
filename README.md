@@ -1,4 +1,4 @@
-# Spotify Song Recommender
+# Spotify Recommendation System
 
 ![Alt text](https://github.com/imfap1/Song-Recommender/blob/main/image/Spotify%20Song%20Recommender.png?raw=true)
 
